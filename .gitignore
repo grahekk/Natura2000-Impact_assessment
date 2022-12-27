@@ -10,3 +10,4 @@ venv
 *.json
 *.code-workspace
 *.pyc
+*.md
