@@ -11,3 +11,5 @@ venv
 *.code-workspace
 *.pyc
 *.md
+*.html
+*.docx

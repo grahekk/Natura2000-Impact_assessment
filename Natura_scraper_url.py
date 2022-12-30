@@ -19,10 +19,8 @@ def law_scrape(scraping_list: list):
                 'IndexError: single positional indexer is out-of-bounds'
             first_word = df.columns[0].split()[0]
             name = '\\{0}_{1}_{2}'.format(scrape, c, first_word)
-            data_dir = f'{os.getcwd()}\\data'
             data_dir_name = data_dir + name
             df.to_excel(data_dir_name +".xlsx", header=True, index=False)
-            df.to_markdown(data_dir_name + ".md", index=False)
             print(name + " exported!")
 #def SDF_scrape
 #def dropbox_scrape

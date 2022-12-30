@@ -1,12 +1,11 @@
 import os
 import pandas as pd
+from Natura_config import data_dir
 
 
 def find_roi(roi):
-    data_dir = f'{os.getcwd()}\\data'
     data_list = os.listdir(data_dir)
     data_list = [s for s in data_list if "Identifikacijski.xlsx" in s]
-    print(data_list)
 
     for c, i in enumerate(data_list):
         file = data_dir + "\\" + i
@@ -30,11 +29,13 @@ def find_roi(roi):
             if EM == 'POP':
                 df = df.fillna("")
                 if len(wanted_cols) > 0:
-                    df['Status vrste G-gnjezdarica, P-preletnica, Z-zimovalica'] = df.iloc[:, 5] + df.iloc[:,6] + df.iloc[:, 7]
+                    df['Status vrste G-gnjezdarica, P-preletnica, Z-zimovalica'] = df.iloc[:, 5] + df.iloc[:,
+                                                                                                   6] + df.iloc[:, 7]
                     df = df.drop(columns=['Kategorija za ciljnu vrstu', 'Mjere očuvanja', 'Status vrste  G-gnjezdarica',
                                           'Status vrste  P-preletnica', 'Status vrste  Z-zimovalica'])
                 if len(wanted_cols) == 0:
-                    df['Status vrste G-gnjezdarica, P-preletnica, Z-zimovalica'] = df.iloc[:,5] + df.iloc[:,6] + df.iloc[:,7]
+                    df['Status vrste G-gnjezdarica, P-preletnica, Z-zimovalica'] = df.iloc[:, 5] + df.iloc[:,
+                                                                                                   6] + df.iloc[:, 7]
                     df = df.drop(
                         columns=['Kategorija za ciljnu vrstu',
                                  'Status (G = gnjezdarica; P = preletnica;  Z = zimovalica)',
@@ -44,10 +45,12 @@ def find_roi(roi):
             if len(wanted_cols) == 0 and EM == 'POVS':
                 df = df.drop(columns=['Kategorija za ciljnu vrstu/stanišni tip'])
             df.to_excel(data_dir_name, index=False)
+            #df.to_markdown(data_dir_name + '.md', index=False)
+            df.to_html(data_dir_name + '.html', index=False)
             print(name + ' exported!')
             if len(wanted_cols) > 0:
                 print("contains Ciljevi očuvanja")
             else:
                 continue
         else:
-            print("The Natura2000 region of interest was not found")
+            print("The Natura2000 region of interest was not found for ", i)
