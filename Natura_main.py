@@ -14,6 +14,12 @@ roi = "Donja Posavina"
 #find_roi(roi)
 
 # report creation
-#convert_template('Template.docx','html')
-#create_report('Template.html')
-report_knit('New_document.html')
+#convert_template('Template.docx','md')
+#create_report('Template.html', 'New_document.html')
+#create_report_md('Template.md', 'New_document.md')
+mddocx("New_document.md", "New_document.docx")
+#report_knit('New_document.html')
+#md_to_docx()
+#insert_excel()
+#obtain_styles()
+#win_html_to_docx('Template.html')
