@@ -66,5 +66,14 @@ def law_scrape(scraping_list: list):
             df.to_excel(data_dir_name + ".xlsx", header=True, index=False)
             print(name + " exported!")
 
-# def SDF_scrape
+def SDF_scrape(sitecode, sitename):
+    df = pd.read_excel(Natura_links)
+    row = df.loc[(df['sitename'] == sitename) & (df['sitecode']== sitecode)]
+    url = row['url'].values[0]
+    # find row and column by roi
+    #url = column and row
+    #click on url
+
+
+
 # def dropbox_scrape

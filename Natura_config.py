@@ -10,3 +10,4 @@ dict = {"Uredba_NN8019": 'https://narodne-novine.nn.hr/clanci/sluzbeni/2019_08_8
 
 to_scrape: list[str] = ["Uredba_NN8019", "POP_PravilnikNN2520_ispravak", "POVS_PravilnikNN11122"]
 template_name = "Template.docx"
+Natura_links = data_dir + "\\Natura_links.xlsx"
