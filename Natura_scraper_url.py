@@ -66,14 +66,27 @@ def law_scrape(scraping_list: list):
             df.to_excel(data_dir_name + ".xlsx", header=True, index=False)
             print(name + " exported!")
 
-def SDF_scrape(sitecode, sitename):
+def get_url_from_natura_links(sitecode, sitename):
     df = pd.read_excel(Natura_links)
-    row = df.loc[(df['sitename'] == sitename) & (df['sitecode']== sitecode)]
+    row = df.loc[(df['sitename'] == sitename) & (df['sitecode'] == sitecode)]
     url = row['url'].values[0]
-    # find row and column by roi
-    #url = column and row
-    #click on url
 
+def sdf_scrape(sitecode):
+    assert isinstance(sitecode, str)
+    url = 'https://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site='+sitecode
+    html = requests.get(url).content
+    soup = BeautifulSoup(html, 'html.parser')
+    df_list = pd.read_html(html, header=0)
+
+    empty_table = []
+    for c, table in enumerate(df_list):
+        df = table
+        first_word = df.columns[0].split()[0]
+        if first_word == "Habitat":
+            habitat = df
+        if len(df)==0 and len(df.columns)==1 and c>10:
+            empty_table.append(df)
+            print(df)
 
 
 # def dropbox_scrape

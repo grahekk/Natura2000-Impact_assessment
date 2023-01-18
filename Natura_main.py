@@ -11,7 +11,8 @@ from Natura_reporter import *
 
 # natura regions
 roi = "Gorski kotar i sjeverna Lika"
-SDF_scrape('HR5000019',roi)
+#get_url_from_natura_links('HR5000019',roi)
+sdf_scrape('HR1000024')
 #find_roi(roi)
 
 # report creation
