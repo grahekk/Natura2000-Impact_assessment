@@ -6,7 +6,8 @@ dict = {"Uredba_NN8019": 'https://narodne-novine.nn.hr/clanci/sluzbeni/2019_08_8
         "Ciljeviocuvanja": 'https://www.dropbox.com/sh/3r4ozk30a21xzdz/AAA-B6wix9w8PgkdOo6Usu5ha/Ciljevi_ocuvanja_08112022.xlsx?dl=0',
         "Doradjeniciljevi": 'https://www.dropbox.com/sh/3r4ozk30a21xzdz/AAChIZ7H-JN3g4Z-kD2WowMDa/Doradjeni_ciljevi_ocuvanja?dl=0&subfolder_nav_tracking=1',
         "POP_PravilnikNN2520_ispravak": 'https://narodne-novine.nn.hr/clanci/sluzbeni/full/2020_03_38_822.html',
-        "POVS_PravilnikNN11122": 'https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_111_1632.html'}
+        "POVS_PravilnikNN11122": 'https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_111_1632.html',
+        "PUO_god":"https://mingor.gov.hr/o-ministarstvu-1065/djelokrug/uprava-za-procjenu-utjecaja-na-okolis-i-odrzivo-gospodarenje-otpadom-1271/procjena-utjecaja-na-okolis-puo-spuo/procjena-utjecaja-zahvata-na-okolis-puo-4014/4014"}
 
 to_scrape: list[str] = ["Uredba_NN8019", "POP_PravilnikNN2520_ispravak", "POVS_PravilnikNN11122"]
 template_name = "Template.docx"
