@@ -1,0 +1,1338 @@
+﻿Šifra NKS;Puno ime NKS;Naziv NKS
+A.;A. Površinske kopnene vode i močvarna staništa;Površinske kopnene vode i močvarna staništa
+A.1.;A.1. Stajaćice;Stajaćice
+A.1.1.;A.1.1. Stalne stajaćice;Stalne stajaćice
+A.1.1.1.;A.1.1.1. Stalne stajaćice;Stalne stajaćice
+A.1.1.1.1.;A.1.1.1.1. Oligotrofne vode siromašne vapnencem;Oligotrofne vode siromašne vapnencem
+A.1.1.1.2.;A.1.1.1.2. Mezotrofne vode;Mezotrofne vode
+A.1.1.1.3.;A.1.1.1.3. Eutrofne vode;Eutrofne vode
+A.1.1.1.4.;A.1.1.1.4. Oligotrofno-mezotrofne vode bogate vapnencem;Oligotrofno-mezotrofne vode bogate vapnencem
+A.1.1.1.5.;A.1.1.1.5. Dna stalnih stajaćica;Dna stalnih stajaćica
+A.1.2.;A.1.2. Povremene stajaćice;Povremene stajaćice
+A.1.2.1.;A.1.2.1. Povremene stajaćice ;Povremene stajaćice 
+A.1.2.1.1.;A.1.2.1.1. Povremene oligotrofne stajaćice siromašne vapnencem;Povremene oligotrofne stajaćice siromašne vapnencem
+A.1.2.1.2.;A.1.2.1.2. Povremene mezotrofne stajaćice;Povremene mezotrofne stajaćice
+A.1.2.1.3.;A.1.2.1.3. Povremene eutrofne stajaćice;Povremene eutrofne stajaćice
+A.1.2.1.4.;A.1.2.1.4. Povremene oligotrofno-mezotrofne stajaćice;Povremene oligotrofno-mezotrofne stajaćice
+A.1.2.1.5.;A.1.2.1.5. Dna povremenih stajaćica (vodena faza);Dna povremenih stajaćica (vodena faza)
+A.1.2.1.6.;A.1.2.1.6. Neobrasla dna povremenih stajaćica (suha faza);Neobrasla dna povremenih stajaćica (suha faza)
+A.1.3.;A.1.3. Neobrasle i slabo obrasle obale stajaćica;Neobrasle i slabo obrasle obale stajaćica
+A.1.3.1.;A.1.3.1. Neobrasle i slabo obrasle obale stajaćica;Neobrasle i slabo obrasle obale stajaćica
+A.1.3.1.1.;A.1.3.1.1. Neobrasle i slabo obrasle obale stajaćica;Neobrasle i slabo obrasle obale stajaćica
+A.2.;A.2. Tekućice;Tekućice
+A.2.1.;A.2.1. Izvori;Izvori
+A.2.1.1.;A.2.1.1. Izvori;Izvori
+A.2.1.1.1.;A.2.1.1.1. Reokreni izvori;Reokreni izvori
+A.2.1.1.2.;A.2.1.1.2. Limnokreni izvori;Limnokreni izvori
+A.2.1.1.3.;A.2.1.1.3. Helokreni izvori;Helokreni izvori
+A.2.2.;A.2.2. Povremeni vodotoci;Povremeni vodotoci
+A.2.2.1.;A.2.2.1. Povremeni vodotoci;Povremeni vodotoci
+A.2.2.1.1.;A.2.2.1.1. Povremeni vodotoci povremeno suhog korita;Povremeni vodotoci povremeno suhog korita
+A.2.2.1.2.;A.2.2.1.2. Povremeni vodotoci s bazenčićima;Povremeni vodotoci s bazenčićima
+A.2.3.;A.2.3. Stalni vodotoci;Stalni vodotoci
+A.2.3.1.;A.2.3.1. Brzi, turbulentni vodotoci;Brzi, turbulentni vodotoci
+A.2.3.1.1.;A.2.3.1.1. Gornji i srednji tokovi turbulentnih vodotoka;Gornji i srednji tokovi turbulentnih vodotoka
+A.2.3.1.2.;A.2.3.1.2. Donji tokovi turbulentnih vodotoka;Donji tokovi turbulentnih vodotoka
+A.2.3.2.;A.2.3.2. Spori vodotoci;Spori vodotoci
+A.2.3.2.1.;A.2.3.2.1. Gornji tokovi sporih vodotoka ;Gornji tokovi sporih vodotoka 
+A.2.3.2.2.;A.2.3.2.2. Srednji i donji tokovi sporih vodotoka ;Srednji i donji tokovi sporih vodotoka 
+A.2.4.;A.2.4. Kanali;Kanali
+A.2.4.1.;A.2.4.1. Kanali sa stalnim protokom;Kanali sa stalnim protokom
+A.2.4.1.1.;A.2.4.1.1. Kanali sa stalnim protokom, površinska odvodnja;Kanali sa stalnim protokom, površinska odvodnja
+A.2.4.1.2.;A.2.4.1.2. Kanali sa stalnim protokom, površinsko navodnjavanje;Kanali sa stalnim protokom, površinsko navodnjavanje
+A.2.4.1.3.;A.2.4.1.3. Kanali sa stalnim protokom, višenamjenski kanal;Kanali sa stalnim protokom, višenamjenski kanal
+A.2.4.2.;A.2.4.2. Kanali s povremenim protokom;Kanali s povremenim protokom
+A.2.4.2.1.;A.2.4.2.1. Kanali s povremenim protokom, površinska odvodnja;Kanali s povremenim protokom, površinska odvodnja
+A.2.4.2.2.;A.2.4.2.2. Kanali s povremenim protokom, površinsko navodnjavanje;Kanali s povremenim protokom, površinsko navodnjavanje
+A.2.4.2.3.;A.2.4.2.3. Kanali s povremenim protokom, višenamjenski kanal;Kanali s povremenim protokom, višenamjenski kanal
+A.2.5.;A.2.5. Vodopadi;Vodopadi
+A.2.5.1.;A.2.5.1. Vodopadi;Vodopadi
+A.2.5.1.1.;A.2.5.1.1. Geogeni vodopadi;Geogeni vodopadi
+A.2.5.1.2.;A.2.5.1.2. Biogeni vodopadi;Biogeni vodopadi
+A.2.6.;A.2.6. Termalna vrela;Termalna vrela
+A.2.6.1.;A.2.6.1. Termalna vrela;Termalna vrela
+A.2.6.1.1.;A.2.6.1.1. Termalna vrela;Termalna vrela
+A.2.7.;A.2.7. Neobrasle i slabo obrasle obale tekućica;Neobrasle i slabo obrasle obale tekućica
+A.2.7.1.;A.2.7.1. Neobrasle i slabo obrasle obale tekućica s mekim i mobilnim sedimentima (sprudovi);Neobrasle i slabo obrasle obale tekućica s mekim i mobilnim sedimentima (sprudovi)
+A.2.7.1.1.;A.2.7.1.1. Neobrasle šljunčane riječne obale;Neobrasle šljunčane riječne obale
+A.2.7.1.2.;A.2.7.1.2. Neobrasle pješčane riječne obale;Neobrasle pješčane riječne obale
+A.2.7.1.3.;A.2.7.1.3. Neobrasle muljevite riječne obale;Neobrasle muljevite riječne obale
+A.2.7.2.;A.2.7.2. Neobrasle i slabo obrasle kamenite i stjenovite obale tekućica;Neobrasle i slabo obrasle kamenite i stjenovite obale tekućica
+A.2.7.2.1.;A.2.7.2.1. Neobrasle i slabo obrasle kamenite i stjenovite obale tekućica;Neobrasle i slabo obrasle kamenite i stjenovite obale tekućica
+A.2.7.3.;A.2.7.3. Strme odronjene obale tekućica;Strme odronjene obale tekućica
+A.2.7.3.1.;A.2.7.3.1. Strme odronjene obale tekućica;Strme odronjene obale tekućica
+A.3.;A.3. Hidrofitska staništa slatkih voda;Hidrofitska staništa slatkih voda
+A.3.1.;A.3.1. Submerzna vegetacija parožina;Submerzna vegetacija parožina
+A.3.1.1.;A.3.1.1. Submerzna vegetacija parožina;Submerzna vegetacija parožina
+A.3.1.1.1.;A.3.1.1.1. Sastojine parožina roda Chara;Sastojine parožina roda Chara
+A.3.1.1.2.;A.3.1.1.2. Sastojine parožina roda Nitella;Sastojine parožina roda Nitella
+A.3.2.;A.3.2. Slobodno plivajući flotantni i submerzni hidrofiti;Slobodno plivajući flotantni i submerzni hidrofiti
+A.3.2.1.;A.3.2.1. Zajednice slobodno plivajućih leća;Zajednice slobodno plivajućih leća
+A.3.2.1.1.;A.3.2.1.1. Zajednica male vodene leće;Zajednica male vodene leće
+A.3.2.1.2.;A.3.2.1.2. Zajednica male i velike vodene leće;Zajednica male i velike vodene leće
+A.3.2.1.3.;A.3.2.1.3. Zajednica trokrpe vodene leće;Zajednica trokrpe vodene leće
+A.3.2.1.4.;A.3.2.1.4. Zajednica velike vodene leće i plivajuće nepačke;Zajednica velike vodene leće i plivajuće nepačke
+A.3.2.1.5.;A.3.2.1.5. Zajednica sitne i grbaste vodene leće;Zajednica sitne i grbaste vodene leće
+A.3.2.1.6.;A.3.2.1.6. Zajednica vodenih leća i parožinaste paprati;Zajednica vodenih leća i parožinaste paprati
+A.3.2.1.7.;A.3.2.1.7. Sastojina vodene mahovine Ricciocarpus natans;Sastojina vodene mahovine Ricciocarpus natans
+A.3.2.2.;A.3.2.2. Zajednice flotantne mješinke;Zajednice flotantne mješinke
+A.3.2.2.1.;A.3.2.2.1. Zajednica vodenih leća i obične mješinke;Zajednica vodenih leća i obične mješinke
+A.3.2.3.;A.3.2.3. Zajednice žabogriza;Zajednice žabogriza
+A.3.2.3.1.;A.3.2.3.1. Zajednica žabogriza i resca;Zajednica žabogriza i resca
+A.3.2.3.2.;A.3.2.3.2. Zajednica žabogriza;Zajednica žabogriza
+A.3.3.;A.3.3. Zakorijenjena vodenjarska vegetacija;Zakorijenjena vodenjarska vegetacija
+A.3.3.1.;A.3.3.1. Zakorijenjene zajednice voda stajaćica;Zakorijenjene zajednice voda stajaćica
+A.3.3.1.1.;A.3.3.1.1. Zajednica krute roščike i kovrčavog mrijesnjaka;Zajednica krute roščike i kovrčavog mrijesnjaka
+A.3.3.1.2.;A.3.3.1.2. Zajednica krute roščike;Zajednica krute roščike
+A.3.3.1.3.;A.3.3.1.3. Zajednica češljastog mrijesnjaka;Zajednica češljastog mrijesnjaka
+A.3.3.1.4.;A.3.3.1.4. Zajednica čeljastog mrijesnjaka i morske podvodnice ;Zajednica čeljastog mrijesnjaka i morske podvodnice 
+A.3.3.1.5.;A.3.3.1.5. Sastojine velikih mrijesnjaka ;Sastojine velikih mrijesnjaka 
+A.3.3.2.;A.3.3.2. Zakorijenjene submerzne zajednice voda tekućica;Zakorijenjene submerzne zajednice voda tekućica
+A.3.3.2.1.;A.3.3.2.1. Zajednica riječnog žabnjaka;Zajednica riječnog žabnjaka
+A.3.3.2.2.;A.3.3.2.2. Zajednica riječnog žabnjaka i uronjenog grešuna;Zajednica riječnog žabnjaka i uronjenog grešuna
+A.3.3.2.3.;A.3.3.2.3. Zajednica riječnog žabnjaka i žabovlatke;Zajednica riječnog žabnjaka i žabovlatke
+A.3.3.2.4.;A.3.3.2.4. Zajednica potočne čestoslavice i jezerske žabovlatke;Zajednica potočne čestoslavice i jezerske žabovlatke
+A.3.3.2.5.;A.3.3.2.5. Sastojine vrste Fontinalis antipyretica;Sastojine vrste Fontinalis antipyretica
+A.3.3.3.;A.3.3.3. Zajednice natantnih hidrofita;Zajednice natantnih hidrofita
+A.3.3.3.1.;A.3.3.3.1. Zajednica lopoča i lokvanja;Zajednica lopoča i lokvanja
+A.3.3.3.2.;A.3.3.3.2. Vodenjara klasastog krocnja i lokvanja;Vodenjara klasastog krocnja i lokvanja
+A.3.3.3.3.;A.3.3.3.3. Zajednica vodenog orašca;Zajednica vodenog orašca
+A.3.3.3.4.;A.3.3.3.4. Vodenjara vodenog orašca i okruglolisnog plavuna;Vodenjara vodenog orašca i okruglolisnog plavuna
+A.3.3.3.5.;A.3.3.3.5. Zajednica plavuna;Zajednica plavuna
+A.3.3.3.6.;A.3.3.3.6. Zajednica močvarne rebratice;Zajednica močvarne rebratice
+A.3.4.;A.3.4. Karbonatna vrela;Karbonatna vrela
+A.3.5.;A.3.5. Sedrotvorne riječne zajednice;Sedrotvorne riječne zajednice
+A.3.6.;A.3.6. Sedrotvorna vegetacija na slapovima;Sedrotvorna vegetacija na slapovima
+A.4.;A.4. Obrasle obale površinskih kopnenih voda i močvarna staništa;Obrasle obale površinskih kopnenih voda i močvarna staništa
+A.4.1.;A.4.1. Tršćaci, rogozici, visoki šiljevi i visoki šaševi;Tršćaci, rogozici, visoki šiljevi i visoki šaševi
+A.4.1.1.;A.4.1.1. Tršćaci i rogozici;Tršćaci i rogozici
+A.4.1.1.1.;A.4.1.1.1. Tršćaci obične trske;Tršćaci obične trske
+A.4.1.1.2.;A.4.1.1.2. Tršćak obične trske i patuljastog rogoza;Tršćak obične trske i patuljastog rogoza
+A.4.1.1.3.;A.4.1.1.3. Zajednica običnog oblića;Zajednica običnog oblića
+A.4.1.1.4.;A.4.1.1.4. Močvara uspravnog ježinca;Močvara uspravnog ježinca
+A.4.1.1.5.;A.4.1.1.5. Rogozik širokolisnog rogoza;Rogozik širokolisnog rogoza
+A.4.1.1.6.;A.4.1.1.6. Rogozik uskolisnog rogoza;Rogozik uskolisnog rogoza
+A.4.1.1.7.;A.4.1.1.7. Zajednica primorskog oblića;Zajednica primorskog oblića
+A.4.1.1.8.;A.4.1.1.8. Zajednica ljutka;Zajednica ljutka
+A.4.1.1.9.;A.4.1.1.9. Zajednica velike pirevine;Zajednica velike pirevine
+A.4.1.1.10.;A.4.1.1.10. Zajednica iđirota i velike pirevine;Zajednica iđirota i velike pirevine
+A.4.1.1.11.;A.4.1.1.11. Zajednica divlje riže;Zajednica divlje riže
+A.4.1.1.12.;A.4.1.1.12. Sastojine riječne preslice;Sastojine riječne preslice
+A.4.1.1.13.;A.4.1.1.13. Zajednica sivog oblića ;Zajednica sivog oblića 
+A.4.1.1.14.;A.4.1.1.14. Zajednica obalnog oblića ;Zajednica obalnog oblića 
+A.4.1.1.15.;A.4.1.1.15. Zajednica iđirota;Zajednica iđirota
+A.4.1.1.16.;A.4.1.1.16. Zajednica štitastog vodoljuba;Zajednica štitastog vodoljuba
+A.4.1.2.;A.4.1.2. Visoki šaševi i šiljevi;Visoki šaševi i šiljevi
+A.4.1.2.1.;A.4.1.2.1. Močvara krutog šaša;Močvara krutog šaša
+A.4.1.2.2.;A.4.1.2.2. Močvara krutog šaša s običnim ljepuškom;Močvara krutog šaša s običnim ljepuškom
+A.4.1.2.3.;A.4.1.2.3. Močvara nježnog šaša;Močvara nježnog šaša
+A.4.1.2.4.;A.4.1.2.4. Močvara močvarnog šaša;Močvara močvarnog šaša
+A.4.1.2.5.;A.4.1.2.5. Močvara obalnog šaša;Močvara obalnog šaša
+A.4.1.2.6.;A.4.1.2.6. Močvara mjehurastog šaša;Močvara mjehurastog šaša
+A.4.1.2.7.;A.4.1.2.7. Močvara metličastog šaša;Močvara metličastog šaša
+A.4.1.2.8.;A.4.1.2.8. Zajednica trstastog blješca;Zajednica trstastog blješca
+A.4.1.2.9.;A.4.1.2.9. Zajednica dugolisnog šilja;Zajednica dugolisnog šilja
+A.4.1.2.10.;A.4.1.2.10. Zajednica nježnog i lisičjeg šaša;Zajednica nježnog i lisičjeg šaša
+A.4.1.2.11.;A.4.1.2.11. Zajednica cretne broćike i obalnog šaša ;Zajednica cretne broćike i obalnog šaša 
+A.4.1.2.12.;A.4.1.2.12. Zajednica banatskog šaša;Zajednica banatskog šaša
+A.4.1.2.13.;A.4.1.2.13. Zajednica Caricetum otrubae;Zajednica Caricetum otrubae
+A.4.1.2.14.;A.4.1.2.14. Sastojine vrste Carex randalpina;Sastojine vrste Carex randalpina
+A.4.1.2.15.;A.4.1.2.15. Zajednica kljunastog šaša;Zajednica kljunastog šaša
+A.4.1.2.16.;A.4.1.2.16. Zajednica lisičjeg šaša;Zajednica lisičjeg šaša
+A.4.1.2.17.;A.4.1.2.17. Zajednica močvarne jezernice;Zajednica močvarne jezernice
+A.4.1.2.18.;A.4.1.2.18. Zajednica jednopljevične jezernice;Zajednica jednopljevične jezernice
+A.4.1.2.19.;A.4.1.2.19. Sastojine žute perunike;Sastojine žute perunike
+A.4.1.2.20.;A.4.1.2.20. Sastojine tupocvjetnog sita;Sastojine tupocvjetnog sita
+A.4.1.3.;A.4.1.3. Močvarna vegetacija sporo tekućih voda;Močvarna vegetacija sporo tekućih voda
+A.4.1.3.1.;A.4.1.3.1. Zajednica plivajuće pirevine;Zajednica plivajuće pirevine
+A.4.1.3.2.;A.4.1.3.2. Zajednica obične potočarke;Zajednica obične potočarke
+A.4.1.3.3.;A.4.1.3.3. Zajednica razgranjenog ježinca i dugolisnog šilja;Zajednica razgranjenog ježinca i dugolisnog šilja
+A.4.1.3.4.;A.4.1.3.4. Zajednica čvorastog celera;Zajednica čvorastog celera
+A.4.1.3.5.;A.4.1.3.5. Zajednica naborane pirevine;Zajednica naborane pirevine
+A.4.1.3.6.;A.4.1.3.6. Sastojine potočne čestoslavice;Sastojine potočne čestoslavice
+A.4.1.4.;A.4.1.4. Vegetacija plitkih močvara;Vegetacija plitkih močvara
+A.4.1.4.1.;A.4.1.4.1. Zajednica vodene trbulje i vodozemskog grbka;Zajednica vodene trbulje i vodozemskog grbka
+A.4.1.4.2.;A.4.1.4.2. Močvara obične strelice i uronjenog ježinca;Močvara obične strelice i uronjenog ježinca
+A.4.2.;A.4.2. Amfibijske zajednice;Amfibijske zajednice
+A.4.2.1.;A.4.2.1. Niski šiljevi;Niski šiljevi
+A.4.2.1.1.;A.4.2.1.1. Zajednica žućkastog oštrika;Zajednica žućkastog oštrika
+A.4.2.1.2.;A.4.2.1.2. Zajednica sitnog trpuca i razgranjene trnike;Zajednica sitnog trpuca i razgranjene trnike
+A.4.2.1.3.;A.4.2.1.3. Zajednica jajaste jezernice i trožiljnog ljubora;Zajednica jajaste jezernice i trožiljnog ljubora
+A.4.2.1.4.;A.4.2.1.4. Sastojine bodljaste trnice (Crypsis aculeata).;Sastojine bodljaste trnice (Crypsis aculeata).
+A.4.2.2.;A.4.2.2. Mediteranske amfibijske zajednice;Mediteranske amfibijske zajednice
+A.4.2.2.1.;A.4.2.2.1. Zajednica dvostupke i viličastog resastog šilja;Zajednica dvostupke i viličastog resastog šilja
+A.4.2.2.2.;A.4.2.2.2. Zajednica smeđeg šilja i dvoklasog paspala;Zajednica smeđeg šilja i dvoklasog paspala
+B.;B. Neobrasle i slabo obrasle kopnene površine;Neobrasle i slabo obrasle kopnene površine
+B.1.;B.1. Neobrasle i slabo obrasle stijene;Neobrasle i slabo obrasle stijene
+B.1.1.;B.1.1. Neobrasli odsjeci strmih stijena;Neobrasli odsjeci strmih stijena
+B.1.1.1.;B.1.1.1. Neobrasle strme stijene;Neobrasle strme stijene
+B.1.1.1.1.;B.1.1.1.1. Teško trošive neobrasle stijene;Teško trošive neobrasle stijene
+B.1.1.1.2.;B.1.1.1.2. Lako trošive neobrasle stijene;Lako trošive neobrasle stijene
+B.1.2.;B.1.2. Vlažne kopnene stijene, poluspilje i nakapnice;Vlažne kopnene stijene, poluspilje i nakapnice
+B.1.2.1.;B.1.2.1. Mediteranske nakapnice i plitke poluspilje;Mediteranske nakapnice i plitke poluspilje
+B.1.2.1.1.;B.1.2.1.1. Zajednica gospinog vlaska;Zajednica gospinog vlaska
+B.1.2.1.2.;B.1.2.1.2. Zajednica primorskog jelenka;Zajednica primorskog jelenka
+B.1.3.;B.1.3. Alpsko-karpatsko-balkanske vapnenačke stijene;Alpsko-karpatsko-balkanske vapnenačke stijene
+B.1.3.1.;B.1.3.1. Zajednice sa stablastim petoprstom;Zajednice sa stablastim petoprstom
+B.1.3.1.1.;B.1.3.1.1. Zajednica rascjepkane slezenice i hajekove pušine;Zajednica rascjepkane slezenice i hajekove pušine
+B.1.3.1.2.;B.1.3.1.2. Zajednica alpskog jaglaca i kalničke šašike ;Zajednica alpskog jaglaca i kalničke šašike 
+B.1.3.2.;B.1.3.2. Brdske i gorske stijene Gorskog kotara i Istre;Brdske i gorske stijene Gorskog kotara i Istre
+B.1.3.2.1.;B.1.3.2.1. Zajednica tomasinijeva i justinianova zvončića;Zajednica tomasinijeva i justinianova zvončića
+B.1.3.2.2.;B.1.3.2.2. Zajednica mahovinaste merinke i bijele padimovice;Zajednica mahovinaste merinke i bijele padimovice
+B.1.3.3.;B.1.3.3. Ilirsko-dinarske vapnenačke stijene;Ilirsko-dinarske vapnenačke stijene
+B.1.3.3.1.;B.1.3.3.1. Zajednica kitajbelovog jaglaca i kluzijeve petoprste;Zajednica kitajbelovog jaglaca i kluzijeve petoprste
+B.1.3.3.2.;B.1.3.3.2. Zajednica vunastog rošca;Zajednica vunastog rošca
+B.1.4.;B.1.4. Tirensko-jadranske vapnenačke stijene;Tirensko-jadranske vapnenačke stijene
+B.1.4.1.;B.1.4.1. Kvarnersko-liburnijske vapnenačke stijene;Kvarnersko-liburnijske vapnenačke stijene
+B.1.4.1.1.;B.1.4.1.1. Zajednica istarskog zvončića i dalmatinske zečine;Zajednica istarskog zvončića i dalmatinske zečine
+B.1.4.1.2.;B.1.4.1.2. Zajednica sitolisne šašike i austrijskog zmijka;Zajednica sitolisne šašike i austrijskog zmijka
+B.1.4.1.3.;B.1.4.1.3. Zajednica kozlačice i prozorskog zvončića;Zajednica kozlačice i prozorskog zvončića
+B.1.4.1.4.;B.1.4.1.4. Zajednica tomasinijeve merinke;Zajednica tomasinijeve merinke
+B.1.4.2.;B.1.4.2. Dalmatinske vapnenačke stijene;Dalmatinske vapnenačke stijene
+B.1.4.2.1.;B.1.4.2.1. Zajednica busine i dubrovačke zečine;Zajednica busine i dubrovačke zečine
+B.1.4.2.2.;B.1.4.2.2. Zajednica portenšlagije i portenšlagovog zvončića;Zajednica portenšlagije i portenšlagovog zvončića
+B.1.4.2.3.;B.1.4.2.3. Zajednica piramidalnog zvončića i modrog lasinja;Zajednica piramidalnog zvončića i modrog lasinja
+B.1.4.2.4.;B.1.4.2.4. Zajednica slavulje i crvenkaste biokovske zečine;Zajednica slavulje i crvenkaste biokovske zečine
+B.1.4.2.5.;B.1.4.2.5. Zajednica gorostasne šašike i kalabrijske pogačine;Zajednica gorostasne šašike i kalabrijske pogačine
+B.2.;B.2. Točila;Točila
+B.2.1.;B.2.1. Gorska, pretplaninska i planinska točila;Gorska, pretplaninska i planinska točila
+B.2.1.1.;B.2.1.1. Gorska, pretplaninska i planinska točila;Gorska, pretplaninska i planinska točila
+B.2.1.1.1.;B.2.1.1.1. Zajednica mirisne paprati;Zajednica mirisne paprati
+B.2.1.1.2.;B.2.1.1.2. Zajednica planinskog mekinjaka;Zajednica planinskog mekinjaka
+B.2.1.1.3.;B.2.1.1.3. Točilo planinskog koporca i ognjice;Točilo planinskog koporca i ognjice
+B.2.1.1.4.;B.2.1.1.4. Točilo dinarskog rošca;Točilo dinarskog rošca
+B.2.1.1.5.;B.2.1.1.5. Ilirsko točilo planinskog lopuha;Ilirsko točilo planinskog lopuha
+B.2.2.;B.2.2. Ilirsko-jadranska, primorska točila;Ilirsko-jadranska, primorska točila
+B.2.2.1.;B.2.2.1. Ilirsko-jadranska, primorska točila;Ilirsko-jadranska, primorska točila
+B.2.2.1.1.;B.2.2.1.1. Točilo primorskog mekinjaka;Točilo primorskog mekinjaka
+B.2.2.1.2.;B.2.2.1.2. Točilo primorskog mekinjaka i biokovskog lanilista;Točilo primorskog mekinjaka i biokovskog lanilista
+B.2.2.1.3.;B.2.2.1.3. Zajednica stjenjarske iglice i bradavičaste krasuljice;Zajednica stjenjarske iglice i bradavičaste krasuljice
+B.2.3.;B.2.3. Neobrasla točila;Neobrasla točila
+B.3.;B.3. Požarišta;Požarišta
+B.3.1.;B.3.1. Požarišta;Požarišta
+B.3.1.1.;B.3.1.1. Šumska požarišta;Šumska požarišta
+B.3.1.1.1.;B.3.1.1.1. Požarišta nakon podzemnog požara;Požarišta nakon podzemnog požara
+B.3.1.1.2.;B.3.1.1.2. Požarišta nakon prizemnog požara;Požarišta nakon prizemnog požara
+B.3.1.1.3.;B.3.1.1.3. Požarišta nakon požara krošanja;Požarišta nakon požara krošanja
+B.3.1.2.;B.3.1.2. Nešumska požarišta;Nešumska požarišta
+B.3.1.2.1.;B.3.1.2.1. Nešumska požarišta;Nešumska požarišta
+B.4.;B.4. Erodirane površine;Erodirane površine
+B.4.1.;B.4.1. Erodirane površine;Erodirane površine
+B.4.1.1.;B.4.1.1. Površine erodirane oborinskom vodom;Površine erodirane oborinskom vodom
+B.4.1.1.1.;B.4.1.1.1. Površine pod utjecajem slojevite erozije;Površine pod utjecajem slojevite erozije
+B.4.1.1.2.;B.4.1.1.2. Površine pod utjecajem brazdaste erozije;Površine pod utjecajem brazdaste erozije
+B.4.1.1.3.;B.4.1.1.3. Površine pod utjecajem jaružne erozije;Površine pod utjecajem jaružne erozije
+B.4.1.2.;B.4.1.2. Klizišta;Klizišta
+B.4.1.2.1.;B.4.1.2.1. Klizišta;Klizišta
+B.4.1.3.;B.4.1.3. Površine erodirane vjetrom;Površine erodirane vjetrom
+B.4.1.3.1.;B.4.1.3.1. Površine erodirane vjetrom;Površine erodirane vjetrom
+C.;C. Travnjaci, cretovi i visoke zeleni;Travnjaci, cretovi i visoke zeleni
+C.1.;C.1. Cretovi;Cretovi
+C.1.1.;C.1.1. Bazofilni cretovi (niski cretovi);Bazofilni cretovi (niski cretovi)
+C.1.1.1.;C.1.1.1. Bazofilni cretovi (niski cretovi);Bazofilni cretovi (niski cretovi)
+C.1.1.1.1.;C.1.1.1.1. Cretovi crnkaste šiljevine;Cretovi crnkaste šiljevine
+C.1.1.1.2.;C.1.1.1.2. Dinarski bazofilni cretovi suhoperke;Dinarski bazofilni cretovi suhoperke
+C.1.1.1.3.;C.1.1.1.3. Srednjoeuropski niski cret stisnute trešnice;Srednjoeuropski niski cret stisnute trešnice
+C.1.1.1.4.;C.1.1.1.4. Bazofilni cretovi beskoljenke i hostovog šaša;Bazofilni cretovi beskoljenke i hostovog šaša
+C.1.1.1.5.;C.1.1.1.5. Cretovi cretnog šaša;Cretovi cretnog šaša
+C.1.1.1.6.;C.1.1.1.6. Cret uskolisne suhoperke i bijele šiljkice;Cret uskolisne suhoperke i bijele šiljkice
+C.1.2.;C.1.2. Acidofilni cretovi (prijelazni i nadignuti cretovi);Acidofilni cretovi (prijelazni i nadignuti cretovi)
+C.1.2.1.;C.1.2.1. Prijelazni cretovi bijele šiljkice;Prijelazni cretovi bijele šiljkice
+C.1.2.1.1.;C.1.2.1.1. Cret bijele šiljkice;Cret bijele šiljkice
+C.1.2.1.2.;C.1.2.1.2. Cret zvjezdastog šaša i rosike;Cret zvjezdastog šaša i rosike
+C.1.2.1.3.;C.1.2.1.3. Cret končastog šaša;Cret končastog šaša
+C.1.2.2.;C.1.2.2. Nadignuti borealni cretovi s tresetom;Nadignuti borealni cretovi s tresetom
+C.1.2.2.1.;C.1.2.2.1. Gorski tresetni cret;Gorski tresetni cret
+C.2.;C.2. Higrofilni i mezofilni travnjaci;Higrofilni i mezofilni travnjaci
+C.2.1.;C.2.1. Prijelaz između visokih šaševa i higrofilnih travnjaka;Prijelaz između visokih šaševa i higrofilnih travnjaka
+C.2.1.1.;C.2.1.1. Prijelaz između visokih šaševa i higrofilnih travnjaka;Prijelaz između visokih šaševa i higrofilnih travnjaka
+C.2.1.1.1.;C.2.1.1.1. Prijelaz između visokih šaševa i higrofilnih travnjaka;Prijelaz između visokih šaševa i higrofilnih travnjaka
+C.2.2.;C.2.2. Vlažne livade Srednje Europe;Vlažne livade Srednje Europe
+C.2.2.1.;C.2.2.1. Poplavne livade ošaka;Poplavne livade ošaka
+C.2.2.1.1.;C.2.2.1.1. Livade pilice i visokog trpuca;Livade pilice i visokog trpuca
+C.2.2.1.2.;C.2.2.1.2. Poplavne livade dugolisne čestoslavice i sjajne mlječike;Poplavne livade dugolisne čestoslavice i sjajne mlječike
+C.2.2.1.3.;C.2.2.1.3. Poplavne livade ljekovite milice i ranog šaša;Poplavne livade ljekovite milice i ranog šaša
+C.2.2.2.;C.2.2.2. Trajno vlažne livade Srednje Europe;Trajno vlažne livade Srednje Europe
+C.2.2.2.1.;C.2.2.2.1. Srednjoeuropske livade obične beskoljenke;Srednjoeuropske livade obične beskoljenke
+C.2.2.2.2.;C.2.2.2.2. Livade bodljozobi i blijede djeteline;Livade bodljozobi i blijede djeteline
+C.2.2.2.3.;C.2.2.2.3. Livade plućne sirištare i primorske beskoljenke;Livade plućne sirištare i primorske beskoljenke
+C.2.2.3.;C.2.2.3. Zajednice higrofilnih zeleni;Zajednice higrofilnih zeleni
+C.2.2.3.1.;C.2.2.3.1. Zajednica močvarne preslice i obične šašine;Zajednica močvarne preslice i obične šašine
+C.2.2.3.2.;C.2.2.3.2. Zajednica šumskog kravuljka i zeljastog osjaka;Zajednica šumskog kravuljka i zeljastog osjaka
+C.2.2.3.3.;C.2.2.3.3. Pašnjak rosulje i sivozelenog sita;Pašnjak rosulje i sivozelenog sita
+C.2.2.4.;C.2.2.4. Periodički vlažne livade;Periodički vlažne livade
+C.2.2.4.1.;C.2.2.4.1. Livade busike;Livade busike
+C.2.2.4.2.;C.2.2.4.2. Livade trobridog i lisičjeg šaša;Livade trobridog i lisičjeg šaša
+C.2.2.4.3.;C.2.2.4.3. Livade močvarne trbulje i livadnog repka;Livade močvarne trbulje i livadnog repka
+C.2.2.5.;C.2.2.5. Zajednice s blijedom djetelinom;Zajednice s blijedom djetelinom
+C.2.2.5.1.;C.2.2.5.1. Livade rosulje i divljeg ječma;Livade rosulje i divljeg ječma
+C.2.3.;C.2.3. Mezofilne livade Srednje Europe;Mezofilne livade Srednje Europe
+C.2.3.1.;C.2.3.1. Umjereno vlažne livade;Umjereno vlažne livade
+C.2.3.1.1.;C.2.3.1.1. Livade ljulja i trave krestac;Livade ljulja i trave krestac
+C.2.3.1.2.;C.2.3.1.2. Livade grozdastog ovsika i trave krestac;Livade grozdastog ovsika i trave krestac
+C.2.3.1.3.;C.2.3.1.3. Zajednica višegodišnjeg ljulja;Zajednica višegodišnjeg ljulja
+C.2.3.2.;C.2.3.2. Mezofilne livade košanice Srednje Europe;Mezofilne livade košanice Srednje Europe
+C.2.3.2.1.;C.2.3.2.1. Srednjoeuropske livade rane pahovke;Srednjoeuropske livade rane pahovke
+C.2.3.2.2.;C.2.3.2.2. Livade zečjeg trna i rane pahovke;Livade zečjeg trna i rane pahovke
+C.2.3.2.3.;C.2.3.2.3. Livade brdske zečine i rane pahovke;Livade brdske zečine i rane pahovke
+C.2.3.2.4.;C.2.3.2.4. Livade gomoljaste končare i rane pahovke;Livade gomoljaste končare i rane pahovke
+C.2.3.2.5.;C.2.3.2.5. Livade šuškavca i končare;Livade šuškavca i končare
+C.2.3.2.6.;C.2.3.2.6. Livade crvene vlasulje i obične rosulje;Livade crvene vlasulje i obične rosulje
+C.2.3.2.7.;C.2.3.2.7. Nizinske košanice sa ljekovitom krvarom;Nizinske košanice sa ljekovitom krvarom
+C.2.3.2.8.;C.2.3.2.8. Livade talijanskog (ili višecvjetnog) ljulja;Livade talijanskog (ili višecvjetnog) ljulja
+C.2.3.2.9.;C.2.3.2.9. Livade lukovičastog žabnjaka i rane pahovke;Livade lukovičastog žabnjaka i rane pahovke
+C.2.3.2.10.;C.2.3.2.10. Livade vunenaste medunike;Livade vunenaste medunike
+C.2.3.3.;C.2.3.3. Srednjoeuropske brdske košanice;Srednjoeuropske brdske košanice
+C.2.3.3.1.;C.2.3.3.1. Livade vrkutâ i žućkaste zobike;Livade vrkutâ i žućkaste zobike
+C.2.4.;C.2.4. Vlažni, nitrofilni travnjaci i pašnjaci;Vlažni, nitrofilni travnjaci i pašnjaci
+C.2.4.1.;C.2.4.1. Nitrofilni pašnjaci i livade-košanice nizinskog vegetacijskog pojasa;Nitrofilni pašnjaci i livade-košanice nizinskog vegetacijskog pojasa
+C.2.4.1.1.;C.2.4.1.1. Pašnjak gušće petoprste;Pašnjak gušće petoprste
+C.2.4.1.2.;C.2.4.1.2. Travnjaci sitova i dugolisne metvice;Travnjaci sitova i dugolisne metvice
+C.2.4.1.3.;C.2.4.1.3. Travnjaci grpka i puzave rosulje;Travnjaci grpka i puzave rosulje
+C.2.4.1.4.;C.2.4.1.4. Livade djeteline i puzave rosulje;Livade djeteline i puzave rosulje
+C.2.4.1.5.;C.2.4.1.5. Livade kovrčave kiselice i koljenčastog repka;Livade kovrčave kiselice i koljenčastog repka
+C.2.5.;C.2.5. Vlažne livade submediteranske vegetacijske zone;Vlažne livade submediteranske vegetacijske zone
+C.2.5.1.;C.2.5.1. Ilirsko-submediteranske livade rječnih dolina;Ilirsko-submediteranske livade rječnih dolina
+C.2.5.1.1.;C.2.5.1.1. Livade-košanice obične beskoljenke i panonskog grašara;Livade-košanice obične beskoljenke i panonskog grašara
+C.2.5.1.2.;C.2.5.1.2. Livade divljeg ječma i bubuljičaste vlasnjače;Livade divljeg ječma i bubuljičaste vlasnjače
+C.2.5.1.3.;C.2.5.1.3. Livade močvarne trbulje i gomoljastog repka;Livade močvarne trbulje i gomoljastog repka
+C.2.5.1.4.;C.2.5.1.4. Livade kožastog smudnjaka i primorske beskoljenke;Livade kožastog smudnjaka i primorske beskoljenke
+C.2.5.1.5.;C.2.5.1.5. Livade djetelinâ i divljeg ječma;Livade djetelinâ i divljeg ječma
+C.2.5.1.6.;C.2.5.1.6. Livade sitne busike s livadnim procjepkom;Livade sitne busike s livadnim procjepkom
+C.2.5.2.;C.2.5.2. Heleno-mezijske poplavne i vlažne livade;Heleno-mezijske poplavne i vlažne livade
+C.2.5.2.1.;C.2.5.2.1. Livade žabnjaka i mješinastog repka;Livade žabnjaka i mješinastog repka
+C.2.6.;C.2.6. Mezofilne gažene površine šumskih puteva;Mezofilne gažene površine šumskih puteva
+C.2.6.1.;C.2.6.1. Gažene površine šumskih puteva;Gažene površine šumskih puteva
+C.2.6.1.1.;C.2.6.1.1. Zajednica obične celinščice i puzavog žabnjaka;Zajednica obične celinščice i puzavog žabnjaka
+C.3.;C.3. Suhi travnjaci;Suhi travnjaci
+C.3.1.;C.3.1. Subkontinentalni suhi travnjaci;Subkontinentalni suhi travnjaci
+C.3.1.1.;C.3.1.1. Subpanonski travnjaci vlasulje-stjenjače;Subpanonski travnjaci vlasulje-stjenjače
+C.3.1.1.1.;C.3.1.1.1. Travnjaci šiljke i kršina;Travnjaci šiljke i kršina
+C.3.2.;C.3.2. Kontinentalne sipine;Kontinentalne sipine
+C.3.2.1.;C.3.2.1. Panonski otvoreni travnjaci na pijescima;Panonski otvoreni travnjaci na pijescima
+C.3.2.1.1.;C.3.2.1.1. Travnjak duguljaste gladice i vlasulje bradice;Travnjak duguljaste gladice i vlasulje bradice
+C.3.3.;C.3.3. Subatlantski mezofilni travnjaci i brdske livade na karbonatnim tlima;Subatlantski mezofilni travnjaci i brdske livade na karbonatnim tlima
+C.3.3.1.;C.3.3.1. Brdske livade uspravnog ovsika na karbonatnoj podlozi;Brdske livade uspravnog ovsika na karbonatnoj podlozi
+C.3.3.1.1.;C.3.3.1.1. Travnjaci uspravnog ovsika i srednjeg trpuca;Travnjaci uspravnog ovsika i srednjeg trpuca
+C.3.3.1.2.;C.3.3.1.2. Travnjak uspravnog ovsika i jednoklase šiljke;Travnjak uspravnog ovsika i jednoklase šiljke
+C.3.3.1.3.;C.3.3.1.3. Travnjak sjetvene grahorke i uspravnog ovsika;Travnjak sjetvene grahorke i uspravnog ovsika
+C.3.3.1.4.;C.3.3.1.4. Travnjaci nježne smilice i kamenjarske kostrice;Travnjaci nježne smilice i kamenjarske kostrice
+C.3.3.1.5.;C.3.3.1.5. Travnjak ilirske sabljice i primorske beskoljenke;Travnjak ilirske sabljice i primorske beskoljenke
+C.3.3.1.6.;C.3.3.1.6. Travnjak glavulje i kršina;Travnjak glavulje i kršina
+C.3.3.1.7.;C.3.3.1.7. Travnjaci kalničke šašike;Travnjaci kalničke šašike
+C.3.4.;C.3.4. Europske suhe vrištine i travnjaci trave tvrdače;Europske suhe vrištine i travnjaci trave tvrdače
+C.3.4.1.;C.3.4.1. Zapadnoeuropske vrištine;Zapadnoeuropske vrištine
+C.3.4.1.1.;C.3.4.1.1. Ličke vrištine;Ličke vrištine
+C.3.4.1.2.;C.3.4.1.2. Bujadnice;Bujadnice
+C.3.4.2.;C.3.4.2. Travnjaci trave tvrdače;Travnjaci trave tvrdače
+C.3.4.2.1.;C.3.4.2.1. Travnjak trave tvrdače;Travnjak trave tvrdače
+C.3.4.3.;C.3.4.3. Travnjaci vlasaste vlasulje;Travnjaci vlasaste vlasulje
+C.3.4.3.1.;C.3.4.3.1. Zajednica vlasaste vlasulje;Zajednica vlasaste vlasulje
+C.3.4.3.2.;C.3.4.3.2. Travnjak uzdignute beskoljenke i dimka;Travnjak uzdignute beskoljenke i dimka
+C.3.5.;C.3.5. Submediteranski i epimediteranski suhi travnjaci;Submediteranski i epimediteranski suhi travnjaci
+C.3.5.1.;C.3.5.1. Istočnojadranski kamenjarski pašnjaci submediteranske zone;Istočnojadranski kamenjarski pašnjaci submediteranske zone
+C.3.5.1.1.;C.3.5.1.1. Kamenjarski pašnjak sjajne smilice i kamenjarske vlasulje;Kamenjarski pašnjak sjajne smilice i kamenjarske vlasulje
+C.3.5.1.2.;C.3.5.1.2. Jadranske kamenjare kadulje i kovilja;Jadranske kamenjare kadulje i kovilja
+C.3.5.1.3.;C.3.5.1.3. Kamenjarski pašnjak čepljeza i kršina;Kamenjarski pašnjak čepljeza i kršina
+C.3.5.1.4.;C.3.5.1.4. Kamenjara smilja i babosvilke;Kamenjara smilja i babosvilke
+C.3.5.1.5.;C.3.5.1.5. Kamenjare sunovrata i čepljeza;Kamenjare sunovrata i čepljeza
+C.3.5.1.6.;C.3.5.1.6. Kamenjara primorskog vriska i vlaske;Kamenjara primorskog vriska i vlaske
+C.3.5.1.7.;C.3.5.1.7. Kamenjarski pašnjak uspravnog ovsika i jadranske vlasulje;Kamenjarski pašnjak uspravnog ovsika i jadranske vlasulje
+C.3.5.1.8.;C.3.5.1.8. Travnjaci vlasulja;Travnjaci vlasulja
+C.3.5.2.;C.3.5.2. Istočnojadranski kamenjarski pašnjaci epimediteranske zone;Istočnojadranski kamenjarski pašnjaci epimediteranske zone
+C.3.5.2.1.;C.3.5.2.1. Kamenjarski pašnjak šaša crljenike i žute kraške zečine;Kamenjarski pašnjak šaša crljenike i žute kraške zečine
+C.3.5.2.2.;C.3.5.2.2. Travnjaci uskolisne šašike i šaša crljenike;Travnjaci uskolisne šašike i šaša crljenike
+C.3.5.2.3.;C.3.5.2.3. Kamenjare uspravnog ovsika i isprekidane šašike;Kamenjare uspravnog ovsika i isprekidane šašike
+C.3.5.2.4.;C.3.5.2.4. Kamenjare primorskog kovilja i šaša crljenike;Kamenjare primorskog kovilja i šaša crljenike
+C.3.5.2.5.;C.3.5.2.5. Kamenjara crvenog primorskog vriska i šaša crljenike;Kamenjara crvenog primorskog vriska i šaša crljenike
+C.3.5.2.6.;C.3.5.2.6. Kamenjare kadulje i isprekidane šašike;Kamenjare kadulje i isprekidane šašike
+C.3.5.2.7.;C.3.5.2.7. Kamenjarski travnjak biokovskog kozlinca i velike šašike;Kamenjarski travnjak biokovskog kozlinca i velike šašike
+C.3.5.2.8.;C.3.5.2.8. Kamenjare prizemnog ušljivca i šaša crljenike;Kamenjare prizemnog ušljivca i šaša crljenike
+C.3.5.2.9.;C.3.5.2.9. Kamenjare uskolisne žutilovke i šiljastog šaša;Kamenjare uskolisne žutilovke i šiljastog šaša
+C.3.5.2.10.;C.3.5.2.10. Kamenjare vlasaste mišjakinjice i kamenjarske žutilovke;Kamenjare vlasaste mišjakinjice i kamenjarske žutilovke
+C.3.5.2.11.;C.3.5.2.11. Zajednica vriska i travolisnog zvonca;Zajednica vriska i travolisnog zvonca
+C.3.5.2.12.;C.3.5.2.12. Travnjak šaša crljenike i purpurne zečine;Travnjak šaša crljenike i purpurne zečine
+C.3.5.3.;C.3.5.3. Travnjaci vlasastog zmijka;Travnjaci vlasastog zmijka
+C.3.5.3.1.;C.3.5.3.1. Livade i pašnjaci šiljke i vlasastog zmijka;Livade i pašnjaci šiljke i vlasastog zmijka
+C.3.5.3.2.;C.3.5.3.2. Travnjaci mlječike i kršina;Travnjaci mlječike i kršina
+C.3.5.3.3.;C.3.5.3.3. Travnjaci primorskog zečjeg trna;Travnjaci primorskog zečjeg trna
+C.3.5.3.4.;C.3.5.3.4. Travnjaci zmijka i pjegavog jastrebljaka;Travnjaci zmijka i pjegavog jastrebljaka
+C.3.5.3.5.;C.3.5.3.5. Travnjak uspravnog ovsika i brdskog šaša;Travnjak uspravnog ovsika i brdskog šaša
+C.3.5.3.6.;C.3.5.3.6. Travnjaci vlaske i krutovlatke;Travnjaci vlaske i krutovlatke
+C.3.5.3.7.;C.3.5.3.7. Travnjaci sivkaste babine svile i vlasuljâ;Travnjaci sivkaste babine svile i vlasuljâ
+C.3.5.3.8.;C.3.5.3.8. Travnjaci ilirske vlasulje i gomoljaste vlasnjače;Travnjaci ilirske vlasulje i gomoljaste vlasnjače
+C.3.6.;C.3.6. Kamenjarski pašnjaci i suhi travnjaci eu- i stenomediterana;Kamenjarski pašnjaci i suhi travnjaci eu- i stenomediterana
+C.3.6.1.;C.3.6.1. Eu- i stenomediteranski kamenjarski pašnjaci raščice;Eu- i stenomediteranski kamenjarski pašnjaci raščice
+C.3.6.1.1.;C.3.6.1.1. Kamenjare raščice i dlakave oštre vlaske;Kamenjare raščice i dlakave oštre vlaske
+C.3.6.1.2.;C.3.6.1.2. Kamenjare raščice i zvjezdaste djeteline;Kamenjare raščice i zvjezdaste djeteline
+C.3.6.1.3.;C.3.6.1.3. Zasjenjeni travnjak prosuljastog ščevara;Zasjenjeni travnjak prosuljastog ščevara
+C.3.6.1.4.;C.3.6.1.4. Travnjaci zupčice;Travnjaci zupčice
+C.3.6.1.5.;C.3.6.1.5. Sastojine ravenskog sladorovca ;Sastojine ravenskog sladorovca 
+C.3.6.2.;C.3.6.2. Jadranski travnjaci brčka;Jadranski travnjaci brčka
+C.3.6.2.1.;C.3.6.2.1. Travnjak primorske rosulje;Travnjak primorske rosulje
+C.3.6.2.2.;C.3.6.2.2. Travnjaci kršina i metlače;Travnjaci kršina i metlače
+C.3.6.2.3.;C.3.6.2.3. Travnjaci žute ptičje noge i mišjeg brčka;Travnjaci žute ptičje noge i mišjeg brčka
+C.3.6.2.4.;C.3.6.2.4. Travnjaci trbušaste gnjidače i raščice;Travnjaci trbušaste gnjidače i raščice
+C.3.6.2.5.;C.3.6.2.5. Travnjaci ščetinca i helerove djeteline;Travnjaci ščetinca i helerove djeteline
+C.3.6.2.6.;C.3.6.2.6. Travnjaci vlasastog pira i mačice;Travnjaci vlasastog pira i mačice
+C.3.6.2.7.;C.3.6.2.7. Travnjak djetelina i kamenjarske kostrike;Travnjak djetelina i kamenjarske kostrike
+C;C Panonski slani travnjaci (Puccinelion limosae);Panonski slani travnjaci (Puccinelion limosae)
+C.3.7.1.;C.3.7.1. Zajednica jednogodišnje kafranke ;Zajednica jednogodišnje kafranke 
+C.4.;C.4. Rudine;Rudine
+C.4.1.;C.4.1. Planinske rudine;Planinske rudine
+C.4.1.1.;C.4.1.1. Ilirsko-dinarske planinske rudine uskolisne šašike;Ilirsko-dinarske planinske rudine uskolisne šašike
+C.4.1.1.1.;C.4.1.1.1. Rudine uskolisne šašike i oštrog šaša;Rudine uskolisne šašike i oštrog šaša
+C.4.1.1.2.;C.4.1.1.2. Planinske rudine vazdazelenog šaša i uskolisne šašike;Planinske rudine vazdazelenog šaša i uskolisne šašike
+C.4.1.1.3.;C.4.1.1.3. Planinske rudine kitajbelovog šaša i alpske sunčanice;Planinske rudine kitajbelovog šaša i alpske sunčanice
+C.4.1.1.4.;C.4.1.1.4. Planinske rudine kitajbelovog šaša i balkanske sunčanice;Planinske rudine kitajbelovog šaša i balkanske sunčanice
+C.4.1.1.5.;C.4.1.1.5. Planinske rudine biokovskog zvonca i uskolisne šašike;Planinske rudine biokovskog zvonca i uskolisne šašike
+C.4.1.2.;C.4.1.2. Pretplaninske rudine oštre vlasulje;Pretplaninske rudine oštre vlasulje
+C.4.1.2.1.;C.4.1.2.1. Rudine oštre vlasulje;Rudine oštre vlasulje
+C.4.1.2.2.;C.4.1.2.2. Travnjaci dugodlake smilice i ljubičaste vlasulje;Travnjaci dugodlake smilice i ljubičaste vlasulje
+C.4.1.3.;C.4.1.3. Rudine hrđastog šaša;Rudine hrđastog šaša
+C.4.1.3.1.;C.4.1.3.1. Rudine planinske pljuskavice i hrđastog šaša;Rudine planinske pljuskavice i hrđastog šaša
+C.4.1.3.2.;C.4.1.3.2. Rudina šašuljice i zelene zečine;Rudina šašuljice i zelene zečine
+C.5.;C.5. Visoke zeleni;Visoke zeleni
+C.5.1.;C.5.1. Šumski rubovi;Šumski rubovi
+C.5.1.1.;C.5.1.1. Termofilni šumski rubovi crvene iglice;Termofilni šumski rubovi crvene iglice
+C.5.1.1.1.;C.5.1.1.1. Zajednica crvene iglice i jelenske pukovice;Zajednica crvene iglice i jelenske pukovice
+C.5.1.1.2.;C.5.1.1.2. Zajednica crvene iglice i velike šumarice;Zajednica crvene iglice i velike šumarice
+C.5.1.2.;C.5.1.2. Kserotermofilne zajednice šumskih rubova;Kserotermofilne zajednice šumskih rubova
+C.5.1.2.1.;C.5.1.2.1. Zajednica panonskog osjaka i jelenske pukovice;Zajednica panonskog osjaka i jelenske pukovice
+C.5.1.2.2.;C.5.1.2.2. Zajednica mrkvastog zdravinjka i gorskog gladca;Zajednica mrkvastog zdravinjka i gorskog gladca
+C.5.1.2.3.;C.5.1.2.3. Zajednica barelijereve i žakenove čestoslavice;Zajednica barelijereve i žakenove čestoslavice
+C.5.1.2.4.;C.5.1.2.4. Zajednica osjaka i uspravne vinjage;Zajednica osjaka i uspravne vinjage
+C.5.1.2.5.;C.5.1.2.5. Zajednica vlasnatog zmijka i planinske djeteline;Zajednica vlasnatog zmijka i planinske djeteline
+C.5.1.2.6.;C.5.1.2.6. Zajednica ilirske prženice i pršljenastog doljana;Zajednica ilirske prženice i pršljenastog doljana
+C.5.1.3.;C.5.1.3. Mezofilni šumski rubovi srednje djeteline;Mezofilni šumski rubovi srednje djeteline
+C.5.1.3.1.;C.5.1.3.1. Zajednica srednje djeteline i obične turice;Zajednica srednje djeteline i obične turice
+C.5.2.;C.5.2. Šumske čistine;Šumske čistine
+C.5.2.1.;C.5.2.1. Zajednice šumskih čistina;Zajednice šumskih čistina
+C.5.2.1.1.;C.5.2.1.1. Šumske čistine velebilja;Šumske čistine velebilja
+C.5.2.1.2.;C.5.2.1.2. Šumske čistine uskolisnog lupreja;Šumske čistine uskolisnog lupreja
+C.5.2.1.3.;C.5.2.1.3. Šumske čistine, rubovi šumskih putova;Šumske čistine, rubovi šumskih putova
+C.5.3.;C.5.3. Pretplaninska i planinska vegetacija visokih zeleni;Pretplaninska i planinska vegetacija visokih zeleni
+C.5.3.1.;C.5.3.1. Pretplaninske zajednice visokih zeleni;Pretplaninske zajednice visokih zeleni
+C.5.3.1.1.;C.5.3.1.1. Dinarska zajednica ljepike i austrijskog zmijka;Dinarska zajednica ljepike i austrijskog zmijka
+C.5.3.1.2.;C.5.3.1.2. Zajednica strička i jedića;Zajednica strička i jedića
+C.5.3.1.3.;C.5.3.1.3. Zajednica gladca;Zajednica gladca
+C.5.3.1.4.;C.5.3.1.4. Zajednica planinske zečine i planinskog luka;Zajednica planinske zečine i planinskog luka
+C.5.4.;C.5.4. Nizinske zajednice visokih zeleni;Nizinske zajednice visokih zeleni
+C.5.4.1.;C.5.4.1. Visoke zeleni s pravom končarom;Visoke zeleni s pravom končarom
+C.5.4.1.1.;C.5.4.1.1. Visoke zeleni s pravom končarom;Visoke zeleni s pravom končarom
+D.;D. Šikare;Šikare
+D.1.;D.1. Kontinentalne šikare;Kontinentalne šikare
+D.1.1.;D.1.1. Vrbici na sprudovima;Vrbici na sprudovima
+D.1.1.1.;D.1.1.1. Vrbici šljunkovitih i pjeskovitih riječnih sprudova;Vrbici šljunkovitih i pjeskovitih riječnih sprudova
+D.1.1.1.1.;D.1.1.1.1. Predalpski vrbici s kebračem;Predalpski vrbici s kebračem
+D.1.1.1.2.;D.1.1.1.2. Vrbici pepeljaste i likovaste vrbe;Vrbici pepeljaste i likovaste vrbe
+D.1.1.1.3.;D.1.1.1.3. Vrbici pepeljaste vrbe i rakite;Vrbici pepeljaste vrbe i rakite
+D.1.1.1.4.;D.1.1.1.4. Predalpski vrbici s pasjim trnom;Predalpski vrbici s pasjim trnom
+D.1.1.1.5.;D.1.1.1.5. Vrbici rakite;Vrbici rakite
+D.1.2.;D.1.2. Mezofilne živice i šikare kontinentalnih, izuzetno primorskih krajeva;Mezofilne živice i šikare kontinentalnih, izuzetno primorskih krajeva
+D.1.2.1.;D.1.2.1. Mezofilne živice i šikare kontinentalnih, izuzetno primorskih krajeva;Mezofilne živice i šikare kontinentalnih, izuzetno primorskih krajeva
+D.1.2.1.1.;D.1.2.1.1. Mezofilne šikare i živice brežuljkastog i brdskog vegetacijskog pojasa;Mezofilne šikare i živice brežuljkastog i brdskog vegetacijskog pojasa
+D.1.2.1.2.;D.1.2.1.2. Šikare lijeske;Šikare lijeske
+D.1.2.1.3.;D.1.2.1.3. Termofilne šikare brdskog vegetacijskog pojasa;Termofilne šikare brdskog vegetacijskog pojasa
+D.1.2.1.4.;D.1.2.1.4. Šikare i živice planarnog vegetacijskog pojasa;Šikare i živice planarnog vegetacijskog pojasa
+D;D Vrištine bujadnice s običnom borovicom (Juniperus communis);Vrištine bujadnice s običnom borovicom (Juniperus communis)
+D.2.;D.2. Pretplaninske šikare;Pretplaninske šikare
+D.2.1.;D.2.1. Pretplaninska klekovina;Pretplaninska klekovina
+D.2.1.1.;D.2.1.1. Pretplaninska klekovina;Pretplaninska klekovina
+D.2.1.1.1.;D.2.1.1.1. Šuma klekovine i borbaševe kozokrvine;Šuma klekovine i borbaševe kozokrvine
+D.2.1.1.2.;D.2.1.1.2. Šikare velelisne vrbe;Šikare velelisne vrbe
+D.2.1.1.3.;D.2.1.1.3. Šikare dlakavog pjenišnika i klečice;Šikare dlakavog pjenišnika i klečice
+D.2.1.1.4.;D.2.1.1.4. Sastojine u kojima dominira medvjetka ;Sastojine u kojima dominira medvjetka 
+D.2.1.1.5.;D.2.1.1.5. Sastojine u kojima dominira zrakasta žutilovka ;Sastojine u kojima dominira zrakasta žutilovka 
+D.2.1.1.6.;D.2.1.1.6. Sastojine u kojima dominira patuljasta borovica  ;Sastojine u kojima dominira patuljasta borovica  
+D.2.2.;D.2.2. Zajednice s kozokrvinom i krkavinom;Zajednice s kozokrvinom i krkavinom
+D.2.2.1.;D.2.2.1. Zajednice s kozokrvinom i krkavinom;Zajednice s kozokrvinom i krkavinom
+D.2.2.1.1.;D.2.2.1.1. Šikare žestike i ribiza;Šikare žestike i ribiza
+D.2.2.1.2.;D.2.2.1.2. Šikara hrvatske žutike i žestike;Šikara hrvatske žutike i žestike
+D.2.3.;D.2.3. Sastojine u kojima dominira smrdljiva borovica ;Sastojine u kojima dominira smrdljiva borovica 
+D.2.4.;D.2.4. Sastojine u kojima dominira cjelolatična žutilovka ;Sastojine u kojima dominira cjelolatična žutilovka 
+D.3.;D.3. Mediteranske šikare;Mediteranske šikare
+D.3.1.;D.3.1. Dračici;Dračici
+D.3.1.1.;D.3.1.1. Dračici;Dračici
+D.3.1.1.1.;D.3.1.1.1. Dračik drače s trnovitom krkavinom;Dračik drače s trnovitom krkavinom
+D.3.2.;D.3.2. Termofilne poplavne šikare;Termofilne poplavne šikare
+D.3.2.1.;D.3.2.1. Termofilne poplavne šikare;Termofilne poplavne šikare
+D.3.2.1.1.;D.3.2.1.1. Termofilne poplavne šikare;Termofilne poplavne šikare
+D.3.2.1.2.;D.3.2.1.2. Sastojine metličastog pelina;Sastojine metličastog pelina
+D;D Sastojine (Galerije) oleandra;Sastojine (Galerije) oleandra
+D.3.3.;D.3.3. Sastojine brnistre;Sastojine brnistre
+D.3.3.1.;D.3.3.1. Sastojine brnistre;Sastojine brnistre
+D.3.3.1.1.;D.3.3.1.1. Sastojine brnistre;Sastojine brnistre
+D.3.4.;D.3.4. Bušici;Bušici
+D.3.4.1.;D.3.4.1. Zapadnomediteranski bušici ružmarina;Zapadnomediteranski bušici ružmarina
+D.3.4.1.1.;D.3.4.1.1. Bušik ružmarina s mnogocvjetnom resikom;Bušik ružmarina s mnogocvjetnom resikom
+D.3.4.2.;D.3.4.2. Istočnojadranski bušici;Istočnojadranski bušici
+D.3.4.2.1.;D.3.4.2.1. Bušik pršljenaste resike i kretskog bušinca;Bušik pršljenaste resike i kretskog bušinca
+D.3.4.2.2.;D.3.4.2.2. Bušik pršljenaste resike i dalmatinske žutilovke;Bušik pršljenaste resike i dalmatinske žutilovke
+D.3.4.2.3.;D.3.4.2.3. Sastojine oštroigličaste borovice ;Sastojine oštroigličaste borovice 
+D.3.5.;D.3.5. Ljeti listopadne šikare;Ljeti listopadne šikare
+D.3.5.1.;D.3.5.1. Ljeti listopadne šikare;Ljeti listopadne šikare
+D.3.5.1.1.;D.3.5.1.1. Sastojine velike vrebine;Sastojine velike vrebine
+D.3.5.1.2.;D.3.5.1.2. Sastojine drvenaste mlječike;Sastojine drvenaste mlječike
+D.4.;D.4. Šikare alohtonog grmlja;Šikare alohtonog grmlja
+D.4.1.;D.4.1. Šikare alohtonog grmlja;Šikare alohtonog grmlja
+D.4.1.1.;D.4.1.1. Sastojine čivitnjače;Sastojine čivitnjače
+D.4.1.1.1.;D.4.1.1.1. Sastojine čivitnjače;Sastojine čivitnjače
+D.4.1.2.;D.4.1.2. Ostale šikare alohtonog grmlja;Ostale šikare alohtonog grmlja
+D.4.1.2.1.;D.4.1.2.1. Ostale šikare alohtonog grmlja;Ostale šikare alohtonog grmlja
+E.;E. Šume;Šume
+E.1.;E.1. Priobalne poplavne šume vrba i topola;Priobalne poplavne šume vrba i topola
+E.1.1.;E.1.1. Poplavne šume vrba;Poplavne šume vrba
+E.1.1.1.;E.1.1.1. Poplavna šuma bijele i krhke vrbe;Poplavna šuma bijele i krhke vrbe
+E.1.1.2.;E.1.1.2. Poplavna šuma bijele vrbe s močvarnom broćikom;Poplavna šuma bijele vrbe s močvarnom broćikom
+E.1.1.3.;E.1.1.3. Poplavna šuma vrba i topola;Poplavna šuma vrba i topola
+E.1.2.;E.1.2. Poplavne šume topola;Poplavne šume topola
+E.1.2.1.;E.1.2.1. Poplavna šuma bijele topole;Poplavna šuma bijele topole
+E.1.2.2.;E.1.2.2. Poplavna šuma crne i bijele topole;Poplavna šuma crne i bijele topole
+E.1.3.;E.1.3. Šume bijele johe;Šume bijele johe
+E.1.3.1.;E.1.3.1. Šuma bijele johe sa zimskom preslicom;Šuma bijele johe sa zimskom preslicom
+E.1.3.2.;E.1.3.2. Šuma johe uz gorske potoke;Šuma johe uz gorske potoke
+E.2.;E.2. Poplavne šume hrasta lužnjaka, crne johe i poljskog jasena;Poplavne šume hrasta lužnjaka, crne johe i poljskog jasena
+E.2.1.;E.2.1. Poplavne šume crne johe i poljskog jasena;Poplavne šume crne johe i poljskog jasena
+E.2.1.1.;E.2.1.1. Šuma veza i poljskog jasena;Šuma veza i poljskog jasena
+E.2.1.2.;E.2.1.2. Poplavna šuma jasena i johe s razmaknutim šašem;Poplavna šuma jasena i johe s razmaknutim šašem
+E.2.1.3.;E.2.1.3. Šuma crne johe s blijedožućkastim šašem;Šuma crne johe s blijedožućkastim šašem
+E.2.1.4.;E.2.1.4. Šuma crne johe s trušljom;Šuma crne johe s trušljom
+E.2.1.5.;E.2.1.5. Mješovita šuma crne johe i poljskog jasena sa sremzom;Mješovita šuma crne johe i poljskog jasena sa sremzom
+E.2.1.6.;E.2.1.6. Šuma crne johe s dugoklasim šašem;Šuma crne johe s dugoklasim šašem
+E.2.1.7.;E.2.1.7. Šuma poljskoga jasena s kasnim drijemovcem;Šuma poljskoga jasena s kasnim drijemovcem
+E.2.2.;E.2.2. Poplavne šume hrasta lužnjaka;Poplavne šume hrasta lužnjaka
+E.2.2.1.;E.2.2.1. Šuma hrasta lužnjaka s velikom žutilovkom (subasocijacija s rastavljenim šašem);Šuma hrasta lužnjaka s velikom žutilovkom (subasocijacija s rastavljenim šašem)
+E.2.2.2.;E.2.2.2. Šuma hrasta lužnjaka s velikom žutilovkom (subasocijacija s drhtavim šašem);Šuma hrasta lužnjaka s velikom žutilovkom (subasocijacija s drhtavim šašem)
+E.2.2.3.;E.2.2.3. Šuma hrasta lužnjaka s velikom žutilovkom (subasocijacija sa žestiljem);Šuma hrasta lužnjaka s velikom žutilovkom (subasocijacija sa žestiljem)
+E.2.2.4.;E.2.2.4. Šuma hrasta lužnjaka s velikom žutilovkom (subasocijacija s običnom grabom);Šuma hrasta lužnjaka s velikom žutilovkom (subasocijacija s običnom grabom)
+E.2.2.5.;"E.2.2.5. ""Motovunska šuma"" poljskog jasena i hrasta lužnjaka s visećim šašem";"""Motovunska šuma"" poljskog jasena i hrasta lužnjaka s visećim šašem"
+E.3.;E.3. Šume listopadnih hrastova izvan dohvata poplava;Šume listopadnih hrastova izvan dohvata poplava
+E.3.1.;E.3.1. Mješovite hrastovo-grabove i čiste grabove šume;Mješovite hrastovo-grabove i čiste grabove šume
+E.3.1.1.;E.3.1.1. Šuma hrasta lužnjaka i običnog graba (tipična subasocijacija);Šuma hrasta lužnjaka i običnog graba (tipična subasocijacija)
+E.3.1.2.;E.3.1.2. Šuma hrasta lužnjaka i običnog graba (subasocijacija s bukvom);Šuma hrasta lužnjaka i običnog graba (subasocijacija s bukvom)
+E.3.1.3.;E.3.1.3. Šuma hrasta lužnjaka i običnog graba (subasocijacija s cerom);Šuma hrasta lužnjaka i običnog graba (subasocijacija s cerom)
+E.3.1.4.;E.3.1.4. Šuma hrasta lužnjaka i običnog graba (subasocijacija sa srebrnolisnom lipom);Šuma hrasta lužnjaka i običnog graba (subasocijacija sa srebrnolisnom lipom)
+E.3.1.5.;E.3.1.5. Šuma hrasta kitnjaka i običnog graba;Šuma hrasta kitnjaka i običnog graba
+E.3.1.6.;E.3.1.6. Šuma hrasta kitnjaka i običnog graba s vlasuljom;Šuma hrasta kitnjaka i običnog graba s vlasuljom
+E.3.1.7.;E.3.1.7. Šuma običnog graba s dlakavim šašem;Šuma običnog graba s dlakavim šašem
+E.3.1.8.;E.3.1.8. Šuma običnog graba sa šumaricom;Šuma običnog graba sa šumaricom
+E.3.2.;E.3.2. Srednjoeuropske acidofilne šume hrasta kitnjaka, te obične breze;Srednjoeuropske acidofilne šume hrasta kitnjaka, te obične breze
+E.3.2.1.;E.3.2.1. Mješovita šuma hrasta kitnjaka i pitomog kestena;Mješovita šuma hrasta kitnjaka i pitomog kestena
+E.3.2.2.;E.3.2.2. Šuma hrasta kitnjaka s bekicama;Šuma hrasta kitnjaka s bekicama
+E.3.2.3.;E.3.2.3. Šuma hrasta kitnjaka s grozdastom runjikom;Šuma hrasta kitnjaka s grozdastom runjikom
+E.3.2.4.;E.3.2.4. Šuma hrasta kitnjaka s brdskom vlasuljom;Šuma hrasta kitnjaka s brdskom vlasuljom
+E.3.2.5.;E.3.2.5. Mješovita šuma hrasta kitnjaka i obične breze;Mješovita šuma hrasta kitnjaka i obične breze
+E.3.2.6.;E.3.2.6. Šuma breze s bujadi;Šuma breze s bujadi
+E;E Cretne brezove šumice na sfagnumskom cretu;Cretne brezove šumice na sfagnumskom cretu
+E.3.3.;E.3.3. Mezijske šume hrasta sladuna;Mezijske šume hrasta sladuna
+E.3.3.1.;E.3.3.1. Šuma sladuna i cera;Šuma sladuna i cera
+E.3.4.;E.3.4. Srednjoeuropske termofilne hrastove šume;Srednjoeuropske termofilne hrastove šume
+E.3.4.1.;E.3.4.1. Termofilna šuma hrasta kitnjaka s crnim grahorom;Termofilna šuma hrasta kitnjaka s crnim grahorom
+E.3.4.2.;E.3.4.2. Šuma hrasta kitnjaka s jesenskom šašikom;Šuma hrasta kitnjaka s jesenskom šašikom
+E.3.4.3.;E.3.4.3. Termofilna šuma medunca i modrog vrabsjemena;Termofilna šuma medunca i modrog vrabsjemena
+E.3.4.4.;E.3.4.4. Termofilna šuma medunca s trstolikom beskoljenkom;Termofilna šuma medunca s trstolikom beskoljenkom
+E.3.4.5.;E.3.4.5. Termofilna i slabo acidofilna šuma medunca s bijelom petoprstom;Termofilna i slabo acidofilna šuma medunca s bijelom petoprstom
+E.3.4.6.;E.3.4.6. Šuma cera i crnog jasena;Šuma cera i crnog jasena
+E.3.4.7.;E.3.4.7. Šuma hrasta medunca i crnog jasena;Šuma hrasta medunca i crnog jasena
+E.3.5.;E.3.5. Primorske, termofilne šume i šikare medunca;Primorske, termofilne šume i šikare medunca
+E.3.5.1.;E.3.5.1. Šuma i šikara medunca i bjelograba;Šuma i šikara medunca i bjelograba
+E.3.5.2.;"E.3.5.2. Mješovita šuma i šikara medunca ""duba"" i bjelograba";"Mješovita šuma i šikara medunca ""duba"" i bjelograba"
+E.3.5.3.;E.3.5.3. Mješovita šuma i šikara medunca i crnoga graba;Mješovita šuma i šikara medunca i crnoga graba
+E.3.5.4.;"E.3.5.4. Mješovita šuma medunca ""duba"" i crnoga graba";"Mješovita šuma medunca ""duba"" i crnoga graba"
+E.3.5.5.;"E.3.5.5. Mješovita šuma medunca ""duba"" i crnoga jasena";"Mješovita šuma medunca ""duba"" i crnoga jasena"
+E.3.5.6.;E.3.5.6. Šuma i šikara crnoga graba s jesenskom šašikom;Šuma i šikara crnoga graba s jesenskom šašikom
+E.3.5.7.;E.3.5.7. Šikara bjelograba s proljetnom broćikom;Šikara bjelograba s proljetnom broćikom
+E.3.5.8.;E.3.5.8. Šikara zelenike i bjelograba;Šikara zelenike i bjelograba
+E.3.5.9.;E.3.5.9. Mješovita šuma crnoga bora i crnog graba;Mješovita šuma crnoga bora i crnog graba
+E.4.;E.4. Brdske bukove šume;Brdske bukove šume
+E.4.1.;E.4.1. Srednjoeuropske neutrofilne do slaboacidofilne, mezofilne bukove šume;Srednjoeuropske neutrofilne do slaboacidofilne, mezofilne bukove šume
+E.4.1.1.;E.4.1.1. Šuma bukve s lazarkinjom;Šuma bukve s lazarkinjom
+E.4.1.2.;E.4.1.2. Šuma bukve s dlakavim šašem;Šuma bukve s dlakavim šašem
+E.4.1.3.;E.4.1.3. Šuma bukve s bijelim šašem;Šuma bukve s bijelim šašem
+E.4.2.;E.4.2. Srednjoeuropske, acidofilne bukove šume;Srednjoeuropske, acidofilne bukove šume
+E.4.2.1.;E.4.2.1. Šuma bukve s bjelkastom bekicom;Šuma bukve s bjelkastom bekicom
+E.4.2.2.;E.4.2.2. Šuma bukve s rebračom;Šuma bukve s rebračom
+E.4.3.;E.4.3. Mezofilne bukove šume predalpskog prostora;Mezofilne bukove šume predalpskog prostora
+E.4.3.1.;E.4.3.1. Šuma bukve s volujskim okom;Šuma bukve s volujskim okom
+E.4.3.2.;E.4.3.2. Šuma bukve i širokolisne grašolike;Šuma bukve i širokolisne grašolike
+E.4.4.;E.4.4. Šume bukve i plemenitih listača uvala i klanaca;Šume bukve i plemenitih listača uvala i klanaca
+E.4.4.1.;E.4.4.1. Mješovita šuma bukve i gorskog javora;Mješovita šuma bukve i gorskog javora
+E.4.4.2.;E.4.4.2. Šuma gorskog javora i mjesečarke;Šuma gorskog javora i mjesečarke
+E.4.4.3.;E.4.4.3. Mješovita šuma tise i lipe;Mješovita šuma tise i lipe
+E.4.5.;E.4.5. Mezofilne i neutrofilne čiste bukove šume;Mezofilne i neutrofilne čiste bukove šume
+E.4.5.1.;E.4.5.1. Šuma bukve s velikom mrtvom koprivom;Šuma bukve s velikom mrtvom koprivom
+E.4.6.;E.4.6. Jugoistočnoalpsko-ilirske, termofilne bukove šume;Jugoistočnoalpsko-ilirske, termofilne bukove šume
+E.4.6.1.;E.4.6.1. Šuma bukve i crnoga graba;Šuma bukve i crnoga graba
+E.4.6.2.;E.4.6.2. Šuma bukve s risjem;Šuma bukve s risjem
+E.4.6.3.;E.4.6.3. Primorska bukova šuma s jesenskom šašikom;Primorska bukova šuma s jesenskom šašikom
+E.4.6.4.;E.4.6.4. Šuma bukve sa širokolisnim gladcem;Šuma bukve sa širokolisnim gladcem
+E.5.;E.5. Bukovo-jelove šume;Bukovo-jelove šume
+E.5.1.;E.5.1. Panonske bukovo-jelove šume;Panonske bukovo-jelove šume
+E.5.1.1.;E.5.1.1. Panonska bukovo-jelova šuma;Panonska bukovo-jelova šuma
+E.5.2.;E.5.2. Dinarske bukovo-jelove šume;Dinarske bukovo-jelove šume
+E.5.2.1.;E.5.2.1. Dinarska bukovo-jelova šuma;Dinarska bukovo-jelova šuma
+E.5.3.;E.5.3. Termofilne šume jele i crnoga graba;Termofilne šume jele i crnoga graba
+E.5.3.1.;E.5.3.1. Termofilna šuma jele i crnoga graba;Termofilna šuma jele i crnoga graba
+E.6.;E.6. Pretplaninske bukove šume;Pretplaninske bukove šume
+E.6.1.;E.6.1. Pretplaninske bukove šume;Pretplaninske bukove šume
+E.6.1.1.;E.6.1.1. Pretplaninska šuma bukve s planinskim žabnjakom;Pretplaninska šuma bukve s planinskim žabnjakom
+E.6.1.2.;E.6.1.2. Pretplaninska šuma bukve i gorskog javora;Pretplaninska šuma bukve i gorskog javora
+E.6.1.3.;E.6.1.3. Pretplaninska šuma bukve s planinskim divokozjakom;Pretplaninska šuma bukve s planinskim divokozjakom
+E.7.;E.7. Kontinentalne crnogorične šume;Kontinentalne crnogorične šume
+E.7.1.;E.7.1. Kalcifilne jelove šume;Kalcifilne jelove šume
+E.7.1.1.;E.7.1.1. Dinarska šuma jele na vapnenačkim blokovima;Dinarska šuma jele na vapnenačkim blokovima
+E.7.1.2.;E.7.1.2. Šuma jele sa žestikom na blokovima;Šuma jele sa žestikom na blokovima
+E.7.2.;E.7.2. Acidofilne jelove šume;Acidofilne jelove šume
+E.7.2.1.;E.7.2.1. Šuma jele s rebračom;Šuma jele s rebračom
+E.7.2.2.;E.7.2.2. Močvarna šuma jele s blijedožućkastim šašem;Močvarna šuma jele s blijedožućkastim šašem
+E.7.3.;E.7.3. Smrekove šume;Smrekove šume
+E.7.3.1.;E.7.3.1. Gorska šuma smreke sa šumskim pavlovcem;Gorska šuma smreke sa šumskim pavlovcem
+E.7.3.2.;E.7.3.2. Pretplaninska šuma smreke s čopocem;Pretplaninska šuma smreke s čopocem
+E.7.3.3.;E.7.3.3. Pretplaninska šuma smreke s ljepikom;Pretplaninska šuma smreke s ljepikom
+E.7.3.4.;E.7.3.4. Pretplaninska šuma smreke s alpskom pavitinom;Pretplaninska šuma smreke s alpskom pavitinom
+E.7.3.5.;E.7.3.5. Šuma smreke s bijelim šašem na dolomitu;Šuma smreke s bijelim šašem na dolomitu
+E.7.4.;E.7.4. Šume običnog i crnog bora na dolomitima;Šume običnog i crnog bora na dolomitima
+E.7.4.1.;E.7.4.1. Šuma običnog bora s kukurijekom na dolomitima;Šuma običnog bora s kukurijekom na dolomitima
+E.7.4.2.;E.7.4.2. Šuma crnoga graba s risjem;Šuma crnoga graba s risjem
+E.7.4.3.;E.7.4.3. Šuma crnoga graba s omelikom;Šuma crnoga graba s omelikom
+E.7.4.4.;E.7.4.4. Šuma crnoga bora i pustenaste dunjarice;Šuma crnoga bora i pustenaste dunjarice
+E.7.4.5.;E.7.4.5. Šuma crnog bora s trocvjetnom mlječikom na dolomitima;Šuma crnog bora s trocvjetnom mlječikom na dolomitima
+E.7.4.6.;E.7.4.6. Šuma dalmatinskog crnog bora s primorskom resikom na dolomitima;Šuma dalmatinskog crnog bora s primorskom resikom na dolomitima
+E.8.;E.8. Primorske vazdazelene šume i makije;Primorske vazdazelene šume i makije
+E.8.1.;E.8.1. Mješovite, rjeđe čiste vazdazelene šume i makija crnike ili oštrike;Mješovite, rjeđe čiste vazdazelene šume i makija crnike ili oštrike
+E.8.1.1.;E.8.1.1. Mješovita šuma i makija crnike s crnim jasenom;Mješovita šuma i makija crnike s crnim jasenom
+E.8.1.2.;"E.8.1.2. Mješovita šuma crnike i medunca ""duba""";"Mješovita šuma crnike i medunca ""duba"""
+E.8.1.3.;E.8.1.3. Čista, vazdezelena šuma i makija crnike s mirtom;Čista, vazdezelena šuma i makija crnike s mirtom
+E.8.1.4.;E.8.1.4. Šuma i makija tršlje i vazdazelene krkavine;Šuma i makija tršlje i vazdazelene krkavine
+E.8.1.5.;E.8.1.5. Mješovita šuma i makija oštrike i crnoga jasena;Mješovita šuma i makija oštrike i crnoga jasena
+E.8.1.6.;E.8.1.6. Mješovita šuma i makija crnike s crnim grabom;Mješovita šuma i makija crnike s crnim grabom
+E.8.1.7.;E.8.1.7. Šuma dalmatinskog crnog bora i crnike;Šuma dalmatinskog crnog bora i crnike
+E.8.2.;E.8.2. Stenomediteranske čiste vazdazelene šume i makija crnike;Stenomediteranske čiste vazdazelene šume i makija crnike
+E.8.2.1.;E.8.2.1. Makija divlje masline i tršlje;Makija divlje masline i tršlje
+E.8.2.2.;E.8.2.2. Makija divlje masline i drvenaste mlječike;Makija divlje masline i drvenaste mlječike
+E.8.2.3.;E.8.2.3. Makija tršlje i somine;Makija tršlje i somine
+E.8.2.4.;E.8.2.4. Makija divlje masline i somine;Makija divlje masline i somine
+E.8.2.5.;E.8.2.5. Makija velike resike i planike;Makija velike resike i planike
+E.8.2.6.;E.8.2.6. Makija velike resike i kapinike;Makija velike resike i kapinike
+E.8.2.7.;E.8.2.7. Mješovita šuma alepskog bora i crnike;Mješovita šuma alepskog bora i crnike
+E.8.2.8.;E.8.2.8. Šuma alepskog bora sa sominom;Šuma alepskog bora sa sominom
+E.8.2.9.;E.8.2.9. Šuma alepskog bora s tršljom;Šuma alepskog bora s tršljom
+E;E Šume i nasadi pinije (Pinus pinea) i primorskoga bora (Pinus pinaster);Šume i nasadi pinije (Pinus pinea) i primorskoga bora (Pinus pinaster)
+E.9.;E.9. Antropogene šumske sastojine;Antropogene šumske sastojine
+E.9.1.;E.9.1. Šume i šikare alohtonih vrsta drveća;Šume i šikare alohtonih vrsta drveća
+E.9.1.1.;E.9.1.1. Sastojine bagrema;Sastojine bagrema
+E.9.1.2.;E.9.1.2. Sastojine pajasena;Sastojine pajasena
+E.9.1.3.;E.9.1.3. Sastojine negundovca;Sastojine negundovca
+E.9.1.4.;E.9.1.4. Ostale sastojine alohtonih vrsta drveća;Ostale sastojine alohtonih vrsta drveća
+E.9.2.;E.9.2. Nasadi četinjača;Nasadi četinjača
+E.9.2.1.;E.9.2.1. Nasadi obične smreke;Nasadi obične smreke
+E.9.2.2.;E.9.2.2. Nasadi crnog bora;Nasadi crnog bora
+E.9.2.3.;E.9.2.3. Nasadi običnog bora;Nasadi običnog bora
+E.9.2.4.;E.9.2.4. Nasadi alepskog bora;Nasadi alepskog bora
+E.9.2.5.;E.9.2.5. Ostali čisti nasadi autohtonih četinjača;Ostali čisti nasadi autohtonih četinjača
+E.9.2.6.;E.9.2.6. Miješani nasadi autohtonih četinjača;Miješani nasadi autohtonih četinjača
+E.9.2.7.;E.9.2.7. Čisti nasadi alohtonih četinjača;Čisti nasadi alohtonih četinjača
+E.9.2.8.;E.9.2.8. Miješani nasadi alohtonih četinjača;Miješani nasadi alohtonih četinjača
+E.9.2.9.;E.9.2.9. Miješani nasadi autohtonih i alohtonih vrsta četinjača;Miješani nasadi autohtonih i alohtonih vrsta četinjača
+E.9.3.;E.9.3. Nasadi širokolisnog drveća;Nasadi širokolisnog drveća
+E.9.3.1.;E.9.3.1. Nasadi autohtonih topola;Nasadi autohtonih topola
+E.9.3.2.;E.9.3.2. Nasadi autohtonih vrba;Nasadi autohtonih vrba
+E.9.3.3.;E.9.3.3. Ostali čisti nasadi autohtonog širokolisnog drveća;Ostali čisti nasadi autohtonog širokolisnog drveća
+E.9.3.4.;E.9.3.4. Miješani nasadi autohtonog širokolisnog drveća;Miješani nasadi autohtonog širokolisnog drveća
+E.9.3.5.;E.9.3.5. Nasadi alohtonih topola;Nasadi alohtonih topola
+E.9.3.6.;E.9.3.6. Nasadi alohtonih vrba;Nasadi alohtonih vrba
+E.9.3.7.;E.9.3.7. Ostali čisti nasadi alohtonog širokolisnog drveća;Ostali čisti nasadi alohtonog širokolisnog drveća
+E.9.3.8.;E.9.3.8. Miješani nasadi alohtonog širokolisnog drveća;Miješani nasadi alohtonog širokolisnog drveća
+E.9.3.9.;E.9.3.9. Miješani nasadi autohtonih i alohtonih vrsta širokolisnog drveća;Miješani nasadi autohtonih i alohtonih vrsta širokolisnog drveća
+E.9.4.;E.9.4. Mješoviti nasadi četinjača i širokolisnog drveća;Mješoviti nasadi četinjača i širokolisnog drveća
+E.9.4.1.;E.9.4.1. Mješoviti nasadi četinjača i širokolisnog drveća s autohtonim vrstama;Mješoviti nasadi četinjača i širokolisnog drveća s autohtonim vrstama
+E.9.4.2.;E.9.4.2. Mješoviti nasadi četinjača i širokolisnog drveća s alohtonim vrstama;Mješoviti nasadi četinjača i širokolisnog drveća s alohtonim vrstama
+E.9.4.3.;E.9.4.3. Mješoviti nasadi četinjača i širokolisnog drveća s autohtonim i alohtonim vrstama;Mješoviti nasadi četinjača i širokolisnog drveća s autohtonim i alohtonim vrstama
+E.9.5.;E.9.5. Šumski nasadi s prirodnom šumskom vegetacijom;Šumski nasadi s prirodnom šumskom vegetacijom
+E.9.5.1.;E.9.5.1. Grupimični šumski nasadi u sklopu prirodne šumske vegetacije;Grupimični šumski nasadi u sklopu prirodne šumske vegetacije
+E.9.5.2.;E.9.5.2. Stablimični šumski nasadi u sklopu prirodne šumske vegetacije;Stablimični šumski nasadi u sklopu prirodne šumske vegetacije
+F.;F. Morska obala;Morska obala
+F.1.;F.1. Muljevita morska obala;Muljevita morska obala
+F.1.1.;F.1.1. Površine slanih, plitkih, muljevitih močvara pod halofitima;Površine slanih, plitkih, muljevitih močvara pod halofitima
+F.1.1.1.;F.1.1.1. Slanjače caklenjača i sodnjača;Slanjače caklenjača i sodnjača
+F.1.1.1.1.;F.1.1.1.1. Slanjača caklenjače;Slanjača caklenjače
+F.1.1.1.2.;F.1.1.1.2. Slanjača sodnjače;Slanjača sodnjače
+F.1.1.2.;F.1.1.2. Sredozemne sitine visokih sitova;Sredozemne sitine visokih sitova
+F.1.1.2.1.;F.1.1.2.1. Europsko-mediteranske sitine visokih sitova;Europsko-mediteranske sitine visokih sitova
+F.1.1.2.2.;F.1.1.2.2. Zajednica tamnog sitnika i primorskog trpuca;Zajednica tamnog sitnika i primorskog trpuca
+F.1.1.2.3.;F.1.1.2.3. Zajednica valjkastog tankorepića i primorske pirike;Zajednica valjkastog tankorepića i primorske pirike
+F.1.1.2.4.;F.1.1.2.4. Sitina tupocvjetnog sita i politovca;Sitina tupocvjetnog sita i politovca
+F.1.1.3.;F.1.1.3. Sredozemne grmaste slanjače;Sredozemne grmaste slanjače
+F.1.1.3.1.;F.1.1.3.1. Livade grmolike caklenjače i slanuške;Livade grmolike caklenjače i slanuške
+F.1.1.3.2.;F.1.1.3.2. Zajednica jesenske mrižice i modrikastog pelina;Zajednica jesenske mrižice i modrikastog pelina
+F.1.1.3.3.;F.1.1.3.3. Zajednica jesenske mrižice i dalmatinskog vražemila;Zajednica jesenske mrižice i dalmatinskog vražemila
+F.1.2.;F.1.2. Supralitoralni muljevi;Supralitoralni muljevi
+F.1.2.1.;F.1.2.1. Biocenoza plaža sa sporosušećim nakupinama ostataka morske vegetacije;Biocenoza plaža sa sporosušećim nakupinama ostataka morske vegetacije
+F.1.2.1.1.;F.1.2.1.1. Biocenoza plaža sa sporosušećim nakupinama ostataka morske vegetacije;Biocenoza plaža sa sporosušećim nakupinama ostataka morske vegetacije
+F.2.;F.2. Pjeskovita morska obala;Pjeskovita morska obala
+F.2.1.;F.2.1. Površine pješčanih plaža pod halofitima;Površine pješčanih plaža pod halofitima
+F.2.1.1.;F.2.1.1. Površine pješčanih plaža pod halofitima;Površine pješčanih plaža pod halofitima
+F.2.1.1.1.;F.2.1.1.1. Travnjaci sitolisne pirike i ježike;Travnjaci sitolisne pirike i ježike
+F.2.2.;F.2.2. Supralitoralni pijesci;Supralitoralni pijesci
+F.2.2.1.;F.2.2.1. Biocenoza supralitoralnih pijesaka;Biocenoza supralitoralnih pijesaka
+F.2.2.1.1.;F.2.2.1.1. Facijes pijesaka bez vegetacije;Facijes pijesaka bez vegetacije
+F.2.2.1.2.;F.2.2.1.2. Facijes udubina s rezidualnom vlagom;Facijes udubina s rezidualnom vlagom
+F.2.2.1.3.;F.2.2.1.3. Facijes brzosušećih nakupina ostataka morske vegetacije;Facijes brzosušećih nakupina ostataka morske vegetacije
+F.2.2.1.4.;F.2.2.1.4. Facijes naplavljenih balvana;Facijes naplavljenih balvana
+F.2.2.1.5.;F.2.2.1.5. Facijes naplavljenih ostataka morskih cvjetnica;Facijes naplavljenih ostataka morskih cvjetnica
+F.3.;F.3. Šljunkovita morska obala;Šljunkovita morska obala
+F.3.1.;F.3.1. Površine šljunčanih žalova pod halofitima;Površine šljunčanih žalova pod halofitima
+F.3.1.1.;F.3.1.1. Površine šljunčanih žalova pod halofitima;Površine šljunčanih žalova pod halofitima
+F.3.1.1.1.;F.3.1.1.1. Zajednica polegle mlječike i morske makovice;Zajednica polegle mlječike i morske makovice
+F.3.2.;F.3.2. Supralitoralni šljunci i kamenje;Supralitoralni šljunci i kamenje
+F.3.2.1.;F.3.2.1. Biocenoza sporosušećih nakupina ostataka morske vegetacije na šljuncima;Biocenoza sporosušećih nakupina ostataka morske vegetacije na šljuncima
+F.3.2.1.1.;F.3.2.1.1. Biocenoza sporosušećih nakupina ostataka morske vegetacije;Biocenoza sporosušećih nakupina ostataka morske vegetacije
+F.4.;F.4. Stjenovita morska obala;Stjenovita morska obala
+F.4.1.;F.4.1. Površine stjenovitih obala pod halofitima;Površine stjenovitih obala pod halofitima
+F.4.1.1.;F.4.1.1. Površine stjenovitih obala pod halofitima;Površine stjenovitih obala pod halofitima
+F.4.1.1.1.;F.4.1.1.1. Grebenjača rešetkaste mrižice i grebenskog trpuca;Grebenjača rešetkaste mrižice i grebenskog trpuca
+F.4.1.1.2.;F.4.1.1.2. Grebenjača savitljive mrižice;Grebenjača savitljive mrižice
+F.4.1.1.3.;F.4.1.1.3. Grebenjača maljave mrižice i šćulca;Grebenjača maljave mrižice i šćulca
+F.4.2.;F.4.2. Supralitoralne stijene;Supralitoralne stijene
+F.4.2.1.;F.4.2.1. Biocenoza supralitoralnih stijena;Biocenoza supralitoralnih stijena
+F.4.2.1.1.;F.4.2.1.1. Asocijacija s vrstama rodova Entophysalis i Verrucaria;Asocijacija s vrstama rodova Entophysalis i Verrucaria
+F.4.2.1.2.;F.4.2.1.2. Lokvice s promjenjivom slanošću (mediolitoralna enklava);Lokvice s promjenjivom slanošću (mediolitoralna enklava)
+F.4.2.1.3.;F.4.2.1.3. Facijes supralitorala kraških morskih jezera;Facijes supralitorala kraških morskih jezera
+F.5.;F.5. Antropogena staništa morske obale;Antropogena staništa morske obale
+F.5.1.;F.5.1. Antropogena staništa morske obale;Antropogena staništa morske obale
+F.5.1.1.;F.5.1.1. Zajednice morske obale na pomičnoj podlozi pod utjecajem čovjeka (mulj, pijesak, šljunak);Zajednice morske obale na pomičnoj podlozi pod utjecajem čovjeka (mulj, pijesak, šljunak)
+F.5.1.1.1.;F.5.1.1.1. Turističke plaže;Turističke plaže
+F.5.1.2.;F.5.1.2. Zajednice morske obale na čvrstoj podlozi pod utjecajem čovjeka;Zajednice morske obale na čvrstoj podlozi pod utjecajem čovjeka
+F.5.1.2.1.;F.5.1.2.1. Izgrađene i konstruirane obale;Izgrađene i konstruirane obale
+G.;G. More;More
+G.1.;G.1. Pelagijal;Pelagijal
+G.1.1.;G.1.1. Pelagijske zajednice neritičke provincije;Pelagijske zajednice neritičke provincije
+G.1.1.1.;G.1.1.1. Prirodne pelagijske zajednice neritičke provincije;Prirodne pelagijske zajednice neritičke provincije
+G.1.1.1.1.;G.1.1.1.1. Prirodne pelagijske euhaline zajednice neritičke provincije;Prirodne pelagijske euhaline zajednice neritičke provincije
+G.1.1.1.2.;G.1.1.1.2. Pelagijal estuarija;Pelagijal estuarija
+G.1.1.2.;G.1.1.2. Pelagijske zajednice neritičke provincije pod antropogenim utjecajem;Pelagijske zajednice neritičke provincije pod antropogenim utjecajem
+G.1.1.2.1.;G.1.1.2.1. Akvatoriji morskih luka;Akvatoriji morskih luka
+G.1.1.2.2.;G.1.1.2.2. Akvatoriji brodogradilišta;Akvatoriji brodogradilišta
+G.1.1.2.3.;G.1.1.2.3. Akvatoriji naseljenih mjesta uz obalu, lučica, mandrača;Akvatoriji naseljenih mjesta uz obalu, lučica, mandrača
+G.1.1.2.4.;G.1.1.2.4. Akvatoriji marina;Akvatoriji marina
+G.1.1.2.5.;G.1.1.2.5. Akvatoriji marikulturnih zahvata;Akvatoriji marikulturnih zahvata
+G.1.1.2.6.;G.1.1.2.6. Akvatoriji oko podmorskih ispusta otpadne vode;Akvatoriji oko podmorskih ispusta otpadne vode
+G.1.2.;G.1.2. Pelagijske zajednice oceanske provincije;Pelagijske zajednice oceanske provincije
+G.1.2.1.;G.1.2.1. Pelagijske zajednice oceanske provincije;Pelagijske zajednice oceanske provincije
+G.1.2.1.1.;G.1.2.1.1. Pelagijske zajednice oceanske provincije;Pelagijske zajednice oceanske provincije
+G.1.3.;G.1.3. Neuston;Neuston
+G.1.3.1.;G.1.3.1. Neuston;Neuston
+G.1.3.1.1.;G.1.3.1.1. Neuston;Neuston
+G.2.;G.2. Mediolitoral;Mediolitoral
+G.2.1.;G.2.1. Mediolitoralni muljeviti pijesci i muljevi;Mediolitoralni muljeviti pijesci i muljevi
+G.2.1.1.;G.2.1.1. Biocenoza mediolitoralnih muljevitih pijesaka i muljeva;Biocenoza mediolitoralnih muljevitih pijesaka i muljeva
+G.2.2.;G.2.2. Mediolitoralni pijesci;Mediolitoralni pijesci
+G.2.2.1.;G.2.2.1. Biocenoza mediolitoralnih pijesaka;Biocenoza mediolitoralnih pijesaka
+G.2.2.1.1.;G.2.2.1.1. Facijes s vrstama roda Ophelia;Facijes s vrstama roda Ophelia
+G.2.3.;G.2.3. Mediolitoralni šljunci i kamenje;Mediolitoralni šljunci i kamenje
+G.2.3.1.;G.2.3.1. Biocenoza mediolitoralnih dna s krupnim detritusom;Biocenoza mediolitoralnih dna s krupnim detritusom
+G.2.3.1.1.;G.2.3.1.1. Facijes s naslagama mrtvog lišća vrste Posidonia oceanica i drugih morskih cvjetnica;Facijes s naslagama mrtvog lišća vrste Posidonia oceanica i drugih morskih cvjetnica
+G.2.4.;G.2.4. Mediolitoralno čvrsto dno i stijene;Mediolitoralno čvrsto dno i stijene
+G.2.4.1.;G.2.4.1. Biocenoza gornjih stijena mediolitorala;Biocenoza gornjih stijena mediolitorala
+G.2.4.1.1.;G.2.4.1.1. Asocijacija s vrstom Bangia atropurpurea ;Asocijacija s vrstom Bangia atropurpurea 
+G.2.4.1.2.;G.2.4.1.2. Asocijacija s vrstom Porphyra leucosticta ;Asocijacija s vrstom Porphyra leucosticta 
+G.2.4.2.;G.2.4.2. Biocenoza donjih stijena mediolitorala;Biocenoza donjih stijena mediolitorala
+G.2.4.2.1.;G.2.4.2.1. Asocijacija s vrstom Lithophyllum lichenoides ;Asocijacija s vrstom Lithophyllum lichenoides 
+G.2.4.2.2.;G.2.4.2.2. Asocijacija s vrstom Lithophyllum byssoides ;Asocijacija s vrstom Lithophyllum byssoides 
+G.2.4.2.3.;G.2.4.2.3. Asocijacija s vrstom Tenarea undulosa ;Asocijacija s vrstom Tenarea undulosa 
+G.2.4.2.4.;G.2.4.2.4. Asocijacija s vrstama rodova Ceramium i Corallina;Asocijacija s vrstama rodova Ceramium i Corallina
+G.2.4.2.5.;G.2.4.2.5. Asocijacija s vrstom Enteromorpha compressa;Asocijacija s vrstom Enteromorpha compressa
+G.2.4.2.6.;G.2.4.2.6. Asocijacija s vrstom Fucus virsoides;Asocijacija s vrstom Fucus virsoides
+G.2.4.2.7.;G.2.4.2.7. Asocijacija s vrstom Gelidium spp.;Asocijacija s vrstom Gelidium spp.
+G.2.4.2.8.;G.2.4.2.8. Lokvice i lagune s naseljima vermetida (enklava infralitorala);Lokvice i lagune s naseljima vermetida (enklava infralitorala)
+G.2.4.3.;G.2.4.3. Biocenoza mediolitoralnih špilja;Biocenoza mediolitoralnih špilja
+G.2.4.3.1.;G.2.4.3.1. Asocijacija s vrstama Phymatolithon lenormandii i Hildenbrandia rubra ;Asocijacija s vrstama Phymatolithon lenormandii i Hildenbrandia rubra 
+G.2.4.4.;G.2.4.4. Zajednice mediolitorala kraških morskih jezera;Zajednice mediolitorala kraških morskih jezera
+G.2.4.4.1.;G.2.4.4.1. Zajednica mediolitorala kraških morskih jezera;Zajednica mediolitorala kraških morskih jezera
+G.2.5.;G.2.5. Antropogena staništa u mediolitoralu;Antropogena staništa u mediolitoralu
+G.2.5.1.;G.2.5.1. Zajednice mediolitorala na pomičnoj podlozi pod utjecajem čovjeka (mulj, pijesak, šljunak);Zajednice mediolitorala na pomičnoj podlozi pod utjecajem čovjeka (mulj, pijesak, šljunak)
+G.2.5.1.1.;G.2.5.1.1. Facijesi turističkih plaža i ljekovitih blata;Facijesi turističkih plaža i ljekovitih blata
+G.2.5.2.;G.2.5.2. Zajednice mediolitorala na čvrstoj podlozi pod utjecajem čovjeka;Zajednice mediolitorala na čvrstoj podlozi pod utjecajem čovjeka
+G.2.5.2.1.;G.2.5.2.1. Facijesi mediolitorala betoniranih i izgrađenih obala (luke, lučice, brodogradilišta) i ostalih ljudskih konstrukcija u moru (npr. plinske platforme);Facijesi mediolitorala betoniranih i izgrađenih obala (luke, lučice, brodogradilišta) i ostalih ljudskih konstrukcija u moru (npr. plinske platforme)
+G.3.;G.3. Infralitoral;Infralitoral
+G.3.1.;G.3.1. Infralitoralni pjeskoviti muljevi, pijesci, šljunci i stijene u eurihalinom i euritermnom okolišu;Infralitoralni pjeskoviti muljevi, pijesci, šljunci i stijene u eurihalinom i euritermnom okolišu
+G.3.1.1.;G.3.1.1. Eurihalina i euritermna biocenoza;Eurihalina i euritermna biocenoza
+G.3.1.1.1.;G.3.1.1.1. Asocijacija s vrstom Ruppia maritima ;Asocijacija s vrstom Ruppia maritima 
+G.3.1.1.2.;G.3.1.1.2. Facijes s vrstom Ficopomatus enigmaticus ;Facijes s vrstom Ficopomatus enigmaticus 
+G.3.1.1.3.;G.3.1.1.3. Asocijacija s vrstom Potamogeton pectinatus;Asocijacija s vrstom Potamogeton pectinatus
+G.3.1.1.4.;G.3.1.1.4. Asocijacija s vrstom Zostera noltii u eurihalinom i euritermnom okolišu;Asocijacija s vrstom Zostera noltii u eurihalinom i euritermnom okolišu
+G.3.1.1.5.;G.3.1.1.5. Asocijacija s vrstom Zostera marina u eurihalinom i euritermnom okolišu;Asocijacija s vrstom Zostera marina u eurihalinom i euritermnom okolišu
+G.3.1.1.6.;G.3.1.1.6. Asocijacija s vrstama roda Gracilaria ;Asocijacija s vrstama roda Gracilaria 
+G.3.1.1.7.;G.3.1.1.7. Asocijacija s vrstama rodova Chaetomorpha i Valonia ;Asocijacija s vrstama rodova Chaetomorpha i Valonia 
+G.3.1.1.8.;G.3.1.1.8. Asocijacija s vrstama rodova Ulva i Enteromorpha ;Asocijacija s vrstama rodova Ulva i Enteromorpha 
+G.3.1.1.9.;G.3.1.1.9. Asocijacija s vrstom Cystoseira barbata ;Asocijacija s vrstom Cystoseira barbata 
+G.3.1.1.10.;G.3.1.1.10. Asocijacija s vrstama roda Cladophora i vrstom Rytiphloea tinctoria ;Asocijacija s vrstama roda Cladophora i vrstom Rytiphloea tinctoria 
+G.3.1.1.11.;G.3.1.1.11. Facijes sitastih vrulja uz obalu;Facijes sitastih vrulja uz obalu
+G.3.2.;G.3.2. Infralitoralni sitni pijesci s više ili manje mulja;Infralitoralni sitni pijesci s više ili manje mulja
+G.3.2.1.;G.3.2.1. Biocenoza sitnih površinskih pijesaka;Biocenoza sitnih površinskih pijesaka
+G.3.2.1.1.;G.3.2.1.1. Facijes s vrstom Lentidium mediterraneum ;Facijes s vrstom Lentidium mediterraneum 
+G.3.2.2.;G.3.2.2. Biocenoza sitnih ujednačenih pijesaka;Biocenoza sitnih ujednačenih pijesaka
+G.3.2.2.1.;G.3.2.2.1. Asocijacija s vrstom Cymodocea nodosa ;Asocijacija s vrstom Cymodocea nodosa 
+G.3.2.3.;G.3.2.3. Biocenoza zamuljenih pijesaka zaštićenih obala;Biocenoza zamuljenih pijesaka zaštićenih obala
+G.3.2.3.1.;G.3.2.3.1. Facijes s vrstama Callianassa tyrrhena i Kellia spp.;Facijes s vrstama Callianassa tyrrhena i Kellia spp.
+G.3.2.3.2.;G.3.2.3.2. Facijes pod utjecajem slatke vode s vrstama Cerastoderma glaucum i Cyathura carinata;Facijes pod utjecajem slatke vode s vrstama Cerastoderma glaucum i Cyathura carinata
+G.3.2.3.3.;G.3.2.3.3. Facijes s vrstama Loripes lacteus, Tapes spp.;Facijes s vrstama Loripes lacteus, Tapes spp.
+G.3.2.3.4.;G.3.2.3.4. Asocijacija s vrstom Cymodocea nodosa;Asocijacija s vrstom Cymodocea nodosa
+G.3.2.3.5.;G.3.2.3.5. Asocijacija s vrstom Zostera noltii;Asocijacija s vrstom Zostera noltii
+G.3.2.3.6.;G.3.2.3.6. Asocijacija s vrstom Caulerpa prolifera;Asocijacija s vrstom Caulerpa prolifera
+G.3.3.;G.3.3. Infralitoralni krupni pijesci s više ili manje mulja;Infralitoralni krupni pijesci s više ili manje mulja
+G.3.3.1.;G.3.3.1. Biocenoza krupnih pijesaka i sitnih šljunaka pod utjecajem valova;Biocenoza krupnih pijesaka i sitnih šljunaka pod utjecajem valova
+G.3.3.1.1.;G.3.3.1.1. Asocijacija s rodolitima;Asocijacija s rodolitima
+G.3.3.2.;G.3.3.2. Biocenoza krupnih pijesaka i sitnih šljunaka pod utjecajem pridnenih struja (pojavljuje se i u cirkalitoralu);Biocenoza krupnih pijesaka i sitnih šljunaka pod utjecajem pridnenih struja (pojavljuje se i u cirkalitoralu)
+G.3.3.2.1.;G.3.3.2.1. Facijes maërla (pojavljuje se i kao facijes u biocenozi obalnih detritusnih dna);Facijes maërla (pojavljuje se i kao facijes u biocenozi obalnih detritusnih dna)
+G.3.3.2.2.;G.3.3.2.2. Asocijacija s rodolitima;Asocijacija s rodolitima
+G.3.4.;G.3.4. Infralitoralno kamenje i šljunci;Infralitoralno kamenje i šljunci
+G.3.4.1.;G.3.4.1. Biocenoza infralitoralnih šljunaka;Biocenoza infralitoralnih šljunaka
+G.3.4.1.1.;G.3.4.1.1. Facijes s vrstom Gouania wildenowi ;Facijes s vrstom Gouania wildenowi 
+G.3.5.;G.3.5. Naselja posidonije;Naselja posidonije
+G.3.5.1.;G.3.5.1. Biocenoza naselja vrste Posidonia oceanica (=Asocijacija s vrstom Posidonia oceanica);Biocenoza naselja vrste Posidonia oceanica (=Asocijacija s vrstom Posidonia oceanica)
+G.3.5.1.1.;G.3.5.1.1. Ekomorfoza naselja u «prugama»;Ekomorfoza naselja u «prugama»
+G.3.5.1.2.;G.3.5.1.2. Ekomorfoza naselja koja tvore «barijeru»;Ekomorfoza naselja koja tvore «barijeru»
+G.3.5.1.3.;G.3.5.1.3. Facijes mrtvih naslaga rizoma posidonije bez epiflore;Facijes mrtvih naslaga rizoma posidonije bez epiflore
+G.3.5.1.4.;G.3.5.1.4. Asocijacija s vrstom Caulerpa prolifera ;Asocijacija s vrstom Caulerpa prolifera 
+G.3.6.;G.3.6. Infralitoralna čvrsta dna i stijene;Infralitoralna čvrsta dna i stijene
+G.3.6.1.;G.3.6.1. Biocenoza infralitoralnih algi;Biocenoza infralitoralnih algi
+G.3.6.1.1.;G.3.6.1.1. Degradirani facijes s inkrustirajućim algama i ježincima;Degradirani facijes s inkrustirajućim algama i ježincima
+G.3.6.1.2.;G.3.6.1.2. Asocijacija s vrstom Cystoseira amentacea (var. amentacea, var. stricta, var. spicata);Asocijacija s vrstom Cystoseira amentacea (var. amentacea, var. stricta, var. spicata)
+G.3.6.1.3.;G.3.6.1.3. Facijes s vermetidima;Facijes s vermetidima
+G.3.6.1.4.;G.3.6.1.4. Facijes s vrstom Mytilus galloprovincialis ;Facijes s vrstom Mytilus galloprovincialis 
+G.3.6.1.5.;G.3.6.1.5. Asocijacija s vrstom Corallina elongata ;Asocijacija s vrstom Corallina elongata 
+G.3.6.1.6.;G.3.6.1.6. Asocijacija s vrstama Codium vermilara i Rhodymenia ardissonei ;Asocijacija s vrstama Codium vermilara i Rhodymenia ardissonei 
+G.3.6.1.7.;G.3.6.1.7. Asocijacija s vrstom Dasycladus vermicularis ;Asocijacija s vrstom Dasycladus vermicularis 
+G.3.6.1.8.;G.3.6.1.8. Asocijacija s vrstom Ceramium rubrum ;Asocijacija s vrstom Ceramium rubrum 
+G.3.6.1.9.;G.3.6.1.9. Facijes s vrstom Cladocora caespitose ;Facijes s vrstom Cladocora caespitose 
+G.3.6.1.10.;G.3.6.1.10. Asocijacija s vrstom Cystoseira crinita ;Asocijacija s vrstom Cystoseira crinita 
+G.3.6.1.11.;G.3.6.1.11. Asocijacija s vrstom Sargassum vulgare ;Asocijacija s vrstom Sargassum vulgare 
+G.3.6.1.12.;G.3.6.1.12. Asocijacija s vrstom Dictyopteris polypodioides ;Asocijacija s vrstom Dictyopteris polypodioides 
+G.3.6.1.13.;G.3.6.1.13. Asocijacija s vrstom Colpomenia sinuosa ;Asocijacija s vrstom Colpomenia sinuosa 
+G.3.6.1.14.;G.3.6.1.14. Asocijacija s vrstom Stypocaulon scoparium (=Halopteris scoparia);Asocijacija s vrstom Stypocaulon scoparium (=Halopteris scoparia)
+G.3.6.1.15.;G.3.6.1.15. Asocijacija s vrstom Cystoseira compressa ;Asocijacija s vrstom Cystoseira compressa 
+G.3.6.1.16.;G.3.6.1.16. Asocijacija s vrstama Pterocladiella capillacea i Ulva laetevirens ;Asocijacija s vrstama Pterocladiella capillacea i Ulva laetevirens 
+G.3.6.1.17.;G.3.6.1.17. Facijes s velikim obrubnjacima;Facijes s velikim obrubnjacima
+G.3.6.1.18.;G.3.6.1.18. Asocijacija s vrstama Flabellia petiolata i Peyssonnelia squamaria;Asocijacija s vrstama Flabellia petiolata i Peyssonnelia squamaria
+G.3.6.1.19.;G.3.6.1.19. Asocijacija s vrstama Peyssonnelia rubra i Peyssonnelia spp.;Asocijacija s vrstama Peyssonnelia rubra i Peyssonnelia spp.
+G.3.6.1.20.;G.3.6.1.20. Facijesi i asocijacije koraligenske biocenoze (kao enklave);Facijesi i asocijacije koraligenske biocenoze (kao enklave)
+G.3.6.1.21.;G.3.6.1.21. Facijes s vrstom Chondrilla nucula ;Facijes s vrstom Chondrilla nucula 
+G.3.7.;G.3.7. Infralitoral kraških morskih jezera;Infralitoral kraških morskih jezera
+G.3.7.1.;G.3.7.1. Zajednice infralitorala kraških morskih jezera;Zajednice infralitorala kraških morskih jezera
+G.3.7.1.1.;G.3.7.1.1. Zajednica infralitorala kraških morskih jezera;Zajednica infralitorala kraških morskih jezera
+G.3.8.;G.3.8. Antropogena staništa u infralitoralu;Antropogena staništa u infralitoralu
+G.3.8.1.;G.3.8.1. Antropogene infralitoralne zajednice na pomičnoj podlozi (mulju, pijesku, šljunku);Antropogene infralitoralne zajednice na pomičnoj podlozi (mulju, pijesku, šljunku)
+G.3.8.1.1.;G.3.8.1.1. Infralitoralne zajednice dna turističkih plaža i ljekovitih blata;Infralitoralne zajednice dna turističkih plaža i ljekovitih blata
+G.3.8.2.;G.3.8.2. Antropogene infralitoralne zajednice na čvrstoj podlozi;Antropogene infralitoralne zajednice na čvrstoj podlozi
+G.3.8.2.1.;G.3.8.2.1. Zajednice infralitorala betoniranih i izgrađenih obala (luke, lučice, brodogradilišta) i ostalih ljudskih konstrukcija u moru (npr. plinske platforme) ;Zajednice infralitorala betoniranih i izgrađenih obala (luke, lučice, brodogradilišta) i ostalih ljudskih konstrukcija u moru (npr. plinske platforme) 
+G.3.8.2.2.;G.3.8.2.2. Obraštajne zajednice na koritima brodova i brodica;Obraštajne zajednice na koritima brodova i brodica
+G.3.8.2.3.;G.3.8.2.3. Degradirana biocenoza infralitoralnih algi;Degradirana biocenoza infralitoralnih algi
+G.3.8.3.;G.3.8.3. Podmorska arheološka nalazišta;Podmorska arheološka nalazišta
+G.3.8.3.1.;G.3.8.3.1. Podmorska arheološka nalazišta;Podmorska arheološka nalazišta
+G.3.8.4.;G.3.8.4. Infralitoralne zajednice ispod marikulturnih zahvata;Infralitoralne zajednice ispod marikulturnih zahvata
+G.3.8.4.1.;G.3.8.4.1. Uzgajališta riba;Uzgajališta riba
+G.3.8.4.2.;G.3.8.4.2. Uzgajališta školjkaša;Uzgajališta školjkaša
+G.3.8.4.3.;G.3.8.4.3. Obraštajne zajednice na instalacijama marikulture;Obraštajne zajednice na instalacijama marikulture
+G.3.8.5.;G.3.8.5. Infralitoralne zajednice oko podmorskih ispusta otpadne vode;Infralitoralne zajednice oko podmorskih ispusta otpadne vode
+G.3.8.5.1.;G.3.8.5.1. Infralitoralne zajednice oko podmorskih ispusta otpadne vode;Infralitoralne zajednice oko podmorskih ispusta otpadne vode
+G.3.8.6.;G.3.8.6. Infralitoralne zajednice s invazivnim vrstama;Infralitoralne zajednice s invazivnim vrstama
+G.3.8.6.1.;G.3.8.6.1. Zajednica s vrstom Caulerpa taxifolia;Zajednica s vrstom Caulerpa taxifolia
+G.3.8.6.2.;G.3.8.6.2. Zajednica s vrstom Caulerpa racemosa;Zajednica s vrstom Caulerpa racemosa
+G.4.;G.4. Cirkalitoral;Cirkalitoral
+G.4.1.;G.4.1. Cirkalitoralni muljevi;Cirkalitoralni muljevi
+G.4.1.1.;G.4.1.1. Biocenoza obalnih terigenih muljeva;Biocenoza obalnih terigenih muljeva
+G.4.1.1.1.;G.4.1.1.1. Facijes mekanih muljeva s vrstom Turritella tricarinata communis;Facijes mekanih muljeva s vrstom Turritella tricarinata communis
+G.4.1.1.2.;G.4.1.1.2. Facijes ljepljivih muljeva s vrstama Virgularia mirabilis i Pennatula phosphorea ;Facijes ljepljivih muljeva s vrstama Virgularia mirabilis i Pennatula phosphorea 
+G.4.1.1.3.;G.4.1.1.3. Facijes ljepljivih muljeva s vrstama Alcyonium palmatum i Stichopus regalis ;Facijes ljepljivih muljeva s vrstama Alcyonium palmatum i Stichopus regalis 
+G.4.1.2.;G.4.1.2. Biocenoza muljevitih dna otvorenog Jadrana i kanala sjevernog Jadrana;Biocenoza muljevitih dna otvorenog Jadrana i kanala sjevernog Jadrana
+G.4.2.;G.4.2. Cirkalitoralni pijesci;Cirkalitoralni pijesci
+G.4.2.1.;G.4.2.1. Biocenoza muljevitih detritusnih dna;Biocenoza muljevitih detritusnih dna
+G.4.2.1.1.;G.4.2.1.1. Facijes s vrstom Ophiothrix quinquemaculata;Facijes s vrstom Ophiothrix quinquemaculata
+G.4.2.1.2.;G.4.2.1.2. Facijes s vrstom Schizaster chiajei ;Facijes s vrstom Schizaster chiajei 
+G.4.2.2.;G.4.2.2. Biocenoza obalnih detritusnih dna;Biocenoza obalnih detritusnih dna
+G.4.2.2.1.;G.4.2.2.1. Asocijacija s rodolitima;Asocijacija s rodolitima
+G.4.2.2.2.;G.4.2.2.2. Facijes maërla;Facijes maërla
+G.4.2.2.3.;G.4.2.2.3. Asocijacija s vrstom Peyssonnelia rosa-marina ;Asocijacija s vrstom Peyssonnelia rosa-marina 
+G.4.2.2.4.;G.4.2.2.4. Asocijacija s vrstom Laminaria rodriguezii;Asocijacija s vrstom Laminaria rodriguezii
+G.4.2.2.5.;G.4.2.2.5. Facijes s vrstom Ophiura texturata ;Facijes s vrstom Ophiura texturata 
+G.4.2.2.6.;G.4.2.2.6. Facijes sa sinascidijama;Facijes sa sinascidijama
+G.4.2.2.7.;G.4.2.2.7. Facijes s velikim mahovnjacima;Facijes s velikim mahovnjacima
+G.4.2.3.;G.4.2.3. Biocenoza detritusnog dna na rubu kontinentske podine;Biocenoza detritusnog dna na rubu kontinentske podine
+G.4.2.3.1.;G.4.2.3.1. Facijes s vrstom Neolampas rostellata ;Facijes s vrstom Neolampas rostellata 
+G.4.2.3.2.;G.4.2.3.2. Facijes s vrstom Leptometra phalangium ;Facijes s vrstom Leptometra phalangium 
+G.4.2.4.;G.4.2.4. Biocenoza krupnih pijesaka i sitnih šljunaka pod utjecajem pridnenih struja (pojavljuje se i u infralitoralu);Biocenoza krupnih pijesaka i sitnih šljunaka pod utjecajem pridnenih struja (pojavljuje se i u infralitoralu)
+G.4.2.4.1.;G.4.2.4.1. Biocenoza krupnih pijesaka i sitnih šljunaka pod utjecajem pridnenih struja (pojavljuje se i u infralitoralu);Biocenoza krupnih pijesaka i sitnih šljunaka pod utjecajem pridnenih struja (pojavljuje se i u infralitoralu)
+G.4.2.5.;G.4.2.5. Biocenoza detritusnih dna otvorenog Jadrana;Biocenoza detritusnih dna otvorenog Jadrana
+G.4.2.5.1.;G.4.2.5.1. Facijes s vrstom Atrina pectinata ;Facijes s vrstom Atrina pectinata 
+G.4.2.5.2.;G.4.2.5.2. Facijes s vrstom Lytocarpia myriophyllum ;Facijes s vrstom Lytocarpia myriophyllum 
+G.4.3.;G.4.3. Cirkalitoralna čvrsta dna i stijene;Cirkalitoralna čvrsta dna i stijene
+G.4.3.1.;G.4.3.1. Koraligenska biocenoza;Koraligenska biocenoza
+G.4.3.1.1.;G.4.3.1.1. Asocijacija s vrstom Cystoseira corniculata ;Asocijacija s vrstom Cystoseira corniculata 
+G.4.3.1.2.;G.4.3.1.2. Asocijacija s autohtonim vrstama roda Sargassum ;Asocijacija s autohtonim vrstama roda Sargassum 
+G.4.3.1.3.;G.4.3.1.3. Asocijacija s vrstom Mesophyllum lichenoides ;Asocijacija s vrstom Mesophyllum lichenoides 
+G.4.3.1.4.;G.4.3.1.4. Asocijacija s vrstama Lithophyllum frondosum i Halimeda tuna;Asocijacija s vrstama Lithophyllum frondosum i Halimeda tuna
+G.4.3.1.5.;G.4.3.1.5. Facijes s vrstom Eunicella cavolinii ;Facijes s vrstom Eunicella cavolinii 
+G.4.3.1.6.;G.4.3.1.6. Facijes s vrstom Eunicella singularis ;Facijes s vrstom Eunicella singularis 
+G.4.3.1.7.;G.4.3.1.7. Facijes s vrstom Lophogorgia sarmentosa ;Facijes s vrstom Lophogorgia sarmentosa 
+G.4.3.1.8.;G.4.3.1.8. Facijes s vrstom Paramuricea clavata;Facijes s vrstom Paramuricea clavata
+G.4.3.1.9.;G.4.3.1.9. Facijes s vrstom Parazoanthus axinellae ;Facijes s vrstom Parazoanthus axinellae 
+G.4.3.1.10.;G.4.3.1.10. Koraligenske platforme;Koraligenske platforme
+G.4.3.2.;G.4.3.2. Biocenoza polutamnih špilja (pojavljuje se i kao enklava u infralitoralu);Biocenoza polutamnih špilja (pojavljuje se i kao enklava u infralitoralu)
+G.4.3.2.1.;G.4.3.2.1. Facijes s vrstom Parazoanthus axinellae ;Facijes s vrstom Parazoanthus axinellae 
+G.4.3.2.2.;G.4.3.2.2. Facijes s vrstom Corallium rubrum;Facijes s vrstom Corallium rubrum
+G.4.3.2.3.;G.4.3.2.3. Facijes s vrstom Leptopsammia pruvoti;Facijes s vrstom Leptopsammia pruvoti
+G.4.3.3.;G.4.3.3. Biocenoza potpučinskih stijena (stijena na rubu kontinentske podine);Biocenoza potpučinskih stijena (stijena na rubu kontinentske podine)
+G.4.3.3.1.;G.4.3.3.1. Biocenoza potpučinskih stijena (stijena na rubu kontinentske podine);Biocenoza potpučinskih stijena (stijena na rubu kontinentske podine)
+G.4.3.4.;G.4.3.4. Biocenoza vrulja ponorskog tipa;Biocenoza vrulja ponorskog tipa
+G.4.3.4.1.;G.4.3.4.1. Biocenoza vrulja ponorskog tipa;Biocenoza vrulja ponorskog tipa
+G.4.4.;G.4.4. Cirkalitoral kraških morskih jezera;Cirkalitoral kraških morskih jezera
+G.4.4.1.;G.4.4.1. Zajednice cirkalitorala kraških morskih jezera;Zajednice cirkalitorala kraških morskih jezera
+G.4.4.1.1.;G.4.4.1.1. Zajednica cirkalitorala kraških morskih jezera;Zajednica cirkalitorala kraških morskih jezera
+G.4.5.;G.4.5. Antropogena staništa u cirkalitoralu;Antropogena staništa u cirkalitoralu
+G.4.5.1.;G.4.5.1. Antropogene cirkalitoralne zajednice na dnima unutar luka i brodogradilišta;Antropogene cirkalitoralne zajednice na dnima unutar luka i brodogradilišta
+G.4.5.1.1.;G.4.5.1.1. Dna morskih luka;Dna morskih luka
+G.4.5.1.2.;G.4.5.1.2. Dna brodogradilišta;Dna brodogradilišta
+G.4.5.2.;G.4.5.2. Podmorska arheološka nalazišta;Podmorska arheološka nalazišta
+G.4.5.2.1.;G.4.5.2.1. Podmorska arheološka nalazišta;Podmorska arheološka nalazišta
+G.4.5.3.;G.4.5.3. Kočarska dna;Kočarska dna
+G.4.5.3.1.;G.4.5.3.1. Muljevita kočarska dna;Muljevita kočarska dna
+G.4.5.3.2.;G.4.5.3.2. Detritusna (pjeskovita) kočarska dna;Detritusna (pjeskovita) kočarska dna
+G.4.5.4.;G.4.5.4. Cirkalitoralne zajednice ispod marikulturnih zahvata;Cirkalitoralne zajednice ispod marikulturnih zahvata
+G.4.5.4.1.;G.4.5.4.1. Uzgajališta riba;Uzgajališta riba
+G.4.5.5.;G.4.5.5. Cirkalitoralne zajednice oko podmorskih ispusta otpadne vode;Cirkalitoralne zajednice oko podmorskih ispusta otpadne vode
+G.4.5.5.1.;G.4.5.5.1. Cirkalitoralne zajednice oko podmorskih ispusta otpadne vode;Cirkalitoralne zajednice oko podmorskih ispusta otpadne vode
+G.4.5.6.;G.4.5.6. Cirkalitoralne zajednice s invazivnim vrstama;Cirkalitoralne zajednice s invazivnim vrstama
+G.4.5.6.1.;G.4.5.6.1. Zajednica s vrstom Caulerpa taxifolia;Zajednica s vrstom Caulerpa taxifolia
+G.4.5.6.2.;G.4.5.6.2. Zajednica s vrstom Caulerpa racemosa;Zajednica s vrstom Caulerpa racemosa
+G.5.;G.5. Batijal;Batijal
+G.5.1.;G.5.1. Batijalni muljevi;Batijalni muljevi
+G.5.1.1.;G.5.1.1. Biocenoza batijalnih muljeva;Biocenoza batijalnih muljeva
+G.5.1.1.1.;G.5.1.1.1. Facijes pjeskovitih muljeva s vrstom Thenea muricata ;Facijes pjeskovitih muljeva s vrstom Thenea muricata 
+G.5.1.1.2.;G.5.1.1.2. Facijes tekućih muljeva s vrstom Brissopsis lyrifera ;Facijes tekućih muljeva s vrstom Brissopsis lyrifera 
+G.5.1.1.3.;G.5.1.1.3. Facijes mekanih muljeva s vrstama Funiculina quadrangularis i Apporhais seressianus ;Facijes mekanih muljeva s vrstama Funiculina quadrangularis i Apporhais seressianus 
+G.5.1.1.4.;G.5.1.1.4. Facijes tvrdih muljeva s vrstom Isidella elongata ;Facijes tvrdih muljeva s vrstom Isidella elongata 
+G.5.1.1.5.;G.5.1.1.5. Facijes s vrstom Pheronema grayi ;Facijes s vrstom Pheronema grayi 
+G.5.2.;G.5.2. Batijalni pijesci;Batijalni pijesci
+G.5.2.1.;G.5.2.1. Biocenoza batijalnih detritusnih pijesaka s vrstom Grypheus vitreus ;Biocenoza batijalnih detritusnih pijesaka s vrstom Grypheus vitreus 
+G.5.2.1.1.;G.5.2.1.1. Biocenoza batijalnih detritusnih pijesaka s vrstom Grypheus vitreus ;Biocenoza batijalnih detritusnih pijesaka s vrstom Grypheus vitreus 
+G.5.3.;G.5.3. Batijalno čvrsto dno i stijene;Batijalno čvrsto dno i stijene
+G.5.3.1.;G.5.3.1. Biocenoza dubinskih koralja;Biocenoza dubinskih koralja
+G.5.3.1.1.;G.5.3.1.1. Biocenoza dubinskih koralja;Biocenoza dubinskih koralja
+G.5.3.2.;G.5.3.2. Biocenoza špilja i prolaza u potpunoj tami (javlja se i kao enklava u plićim stepenicama);Biocenoza špilja i prolaza u potpunoj tami (javlja se i kao enklava u plićim stepenicama)
+G.5.3.2.1.;G.5.3.2.1. Biocenoza špilja i prolaza u potpunoj tami (javlja se i kao enklava u plićim stepenicama);Biocenoza špilja i prolaza u potpunoj tami (javlja se i kao enklava u plićim stepenicama)
+H.;H. Podzemlje;Podzemlje
+H.1.;H.1. Kraške špilje i jame;Kraške špilje i jame
+H.1.1.;H.1.1. Kopnena kraška špiljska staništa;Kopnena kraška špiljska staništa
+H.1.1.1.;H.1.1.1. Polušpilje i ulazni (osvijetljeni) dijelovi špilja;Polušpilje i ulazni (osvijetljeni) dijelovi špilja
+H.1.1.1.1.;H.1.1.1.1. Špilje sa subtroglofilnim beskralješnjacima;Špilje sa subtroglofilnim beskralješnjacima
+H.1.1.2.;H.1.1.2. Suhe fosilne špilje;Suhe fosilne špilje
+H.1.1.2.1.;H.1.1.2.1. Suhe fosilne špilje;Suhe fosilne špilje
+H.1.1.3.;H.1.1.3. Špilje i špiljski sustavi sa subtroglofilnim kralješnjacima;Špilje i špiljski sustavi sa subtroglofilnim kralješnjacima
+H.1.1.3.1.;H.1.1.3.1. Kontinentalne špilje sa subtroglofilnim kralješnjacima;Kontinentalne špilje sa subtroglofilnim kralješnjacima
+H.1.1.3.2.;H.1.1.3.2. Otočne špilje sa subtroglofilnim kralješnjacima;Otočne špilje sa subtroglofilnim kralješnjacima
+H.1.1.4.;H.1.1.4. Špilje i špiljski sustavi s troglobiontskim beskralješnjacima;Špilje i špiljski sustavi s troglobiontskim beskralješnjacima
+H.1.1.4.1.;H.1.1.4.1. Špilje umjerenih uvjeta s troglobiontskim beskralješnjacima;Špilje umjerenih uvjeta s troglobiontskim beskralješnjacima
+H.1.1.4.2.;H.1.1.4.2. Ledene špilje s troglobiontima;Ledene špilje s troglobiontima
+H.1.1.5.;H.1.1.5. Špilje s troglofilnim beskralješnjacima;Špilje s troglofilnim beskralješnjacima
+H.1.1.5.1.;H.1.1.5.1. Špilje s troglofilnim beskralješnjacima;Špilje s troglofilnim beskralješnjacima
+H.1.1.6.;H.1.1.6. Atroglozoocenotičke špilje;Atroglozoocenotičke špilje
+H.1.1.6.1.;H.1.1.6.1. Atroglozoocenotičke špilje;Atroglozoocenotičke špilje
+H.1.2.;H.1.2. Amfibijska kraška špiljska staništa;Amfibijska kraška špiljska staništa
+H.1.2.1.;H.1.2.1. Amfibijska kraška špiljska staništa;Amfibijska kraška špiljska staništa
+H.1.2.1.1.;H.1.2.1.1. Higropetrik;Higropetrik
+H.1.2.1.2.;H.1.2.1.2. Marifugijske naslage;Marifugijske naslage
+H.1.3.;H.1.3. Vodena (slatkodovna) kraška špiljska staništa;Vodena (slatkodovna) kraška špiljska staništa
+H.1.3.1.;H.1.3.1. Podzemne tekućice;Podzemne tekućice
+H.1.3.1.1.;H.1.3.1.1. Podzemni brzaci;Podzemni brzaci
+H.1.3.1.2.;H.1.3.1.2. Endogene podzemne rijeke;Endogene podzemne rijeke
+H.1.3.1.3.;H.1.3.1.3. Egzogene podzemne rijeke;Egzogene podzemne rijeke
+H.1.3.2.;H.1.3.2. Podzemne stajaćice;Podzemne stajaćice
+H.1.3.2.1.;H.1.3.2.1. Podzemna jezera;Podzemna jezera
+H.1.3.2.2.;H.1.3.2.2. Kamenice;Kamenice
+H.1.3.2.3.;H.1.3.2.3. Lokve;Lokve
+H.1.4.;H.1.4. Anhihaline kraške špilje;Anhihaline kraške špilje
+H.1.4.1.;H.1.4.1. Anhihaline kraške špilje;Anhihaline kraške špilje
+H.1.4.1.1.;H.1.4.1.1. Anhihaline kraške špilje;Anhihaline kraške špilje
+H.1.5.;H.1.5. Zasumporene kraške špilje;Zasumporene kraške špilje
+H.1.5.1.;H.1.5.1. Hidrotermalne zasumporene špilje;Hidrotermalne zasumporene špilje
+H.1.5.1.1.;H.1.5.1.1. Hidrotermalne zasumporene špilje;Hidrotermalne zasumporene špilje
+H.2.;H.2. Nekraške špilje i jame;Nekraške špilje i jame
+H.2.1.;H.2.1. Nekraške špilje i jame;Nekraške špilje i jame
+H.2.1.1.;H.2.1.1. Špilje i jame u flišu;Špilje i jame u flišu
+H.2.1.1.1.;H.2.1.1.1. Špilje i jame u flišu;Špilje i jame u flišu
+H.2.1.2.;H.2.1.2. Špilje i jame u laporu;Špilje i jame u laporu
+H.2.1.2.1.;H.2.1.2.1. Špilje i jame u laporu;Špilje i jame u laporu
+H.3.;H.3. Intersticijska podzemna staništa;Intersticijska podzemna staništa
+H.3.1.;H.3.1. Intersticijska kopnena staništa;Intersticijska kopnena staništa
+H.3.1.1.;H.3.1.1. Intersticijska kopnena staništa;Intersticijska kopnena staništa
+H.3.1.1.1.;H.3.1.1.1. Površinsko kopneno intersticijsko stanište (MSS – milieu souterrain superficiel);Površinsko kopneno intersticijsko stanište (MSS – milieu souterrain superficiel)
+H.3.1.1.2.;H.3.1.1.2. Pukotine stijena;Pukotine stijena
+H.3.2.;H.3.2. Intersticijska vodena staništa;Intersticijska vodena staništa
+H.3.2.1.;H.3.2.1. Intersticijska vodena staništa;Intersticijska vodena staništa
+H.3.2.1.1.;H.3.2.1.1. Freatička zona;Freatička zona
+H.3.2.1.2.;H.3.2.1.2. Hiporeička zona;Hiporeička zona
+H.3.2.1.3.;H.3.2.1.3. Hipotelminoreička zona;Hipotelminoreička zona
+H.3.2.1.4.;H.3.2.1.4. Psamolitoral;Psamolitoral
+H.4.;H.4. Antropogena podzemna staništa;Antropogena podzemna staništa
+H.4.1.;H.4.1. Antropogena kopnena podzemna staništa;Antropogena kopnena podzemna staništa
+H.4.1.1.;H.4.1.1. Rudnici i podzemni prolazi;Rudnici i podzemni prolazi
+H.4.1.1.1.;H.4.1.1.1. Aktivni rudnici i podzemni prolazi;Aktivni rudnici i podzemni prolazi
+H.4.1.1.2.;H.4.1.1.2. Napušteni rudnici i podzemni prolazi;Napušteni rudnici i podzemni prolazi
+H.4.2.;H.4.2. Antropogena vodena podzemna staništa;Antropogena vodena podzemna staništa
+H.4.2.1.;H.4.2.1. Podzemne antropogene akumulacije;Podzemne antropogene akumulacije
+H.4.2.1.1.;H.4.2.1.1. Podzemne antropogene akumulacije;Podzemne antropogene akumulacije
+H.4.2.2.;H.4.2.2. Podzemni antropogeni vodotoci;Podzemni antropogeni vodotoci
+H.4.2.2.1.;H.4.2.2.1. Podzemni antropogeni vodotoci;Podzemni antropogeni vodotoci
+I.;I. Kultivirane nešumske površine i staništa s korovnom i ruderalnom vegetacijom;Kultivirane nešumske površine i staništa s korovnom i ruderalnom vegetacijom
+I.1.;I.1. Površine obrasle korovnom i ruderalnom vegetacijom;Površine obrasle korovnom i ruderalnom vegetacijom
+I.1.1.;I.1.1. Pukotine starih zidova;Pukotine starih zidova
+I.1.1.1.;I.1.1.1. Pukotine starih zidova hrvatskog primorja;Pukotine starih zidova hrvatskog primorja
+I.1.1.1.1.;I.1.1.1.1. Zajednica smeđe slezenice i mesnatog klobučića;Zajednica smeđe slezenice i mesnatog klobučića
+I.1.2.;I.1.2. Korovna i ruderalna vegetacija Sredozemlja;Korovna i ruderalna vegetacija Sredozemlja
+I.1.2.1.;I.1.2.1. Okopavinski korovi primorskih krajeva;Okopavinski korovi primorskih krajeva
+I.1.2.1.1.;I.1.2.1.1. Zajednica vršače sljezolike i divljeg sirka;Zajednica vršače sljezolike i divljeg sirka
+I.1.2.1.2.;I.1.2.1.2. Zajednica babjeg zuba i šćira;Zajednica babjeg zuba i šćira
+I.1.2.1.3.;I.1.2.1.3. Zajednica sitnocvjetne dimovice i gomoljastog oštrika;Zajednica sitnocvjetne dimovice i gomoljastog oštrika
+I.1.2.1.4.;I.1.2.1.4. Zajednica kovrčave hudoljetnice i trnovite dikice;Zajednica kovrčave hudoljetnice i trnovite dikice
+I.1.2.1.5.;I.1.2.1.5. Zajednica repate i kuglaste koprive;Zajednica repate i kuglaste koprive
+I.1.2.1.6.;I.1.2.1.6. Zajednica sitnoglavičastog strička i običnog osloboda;Zajednica sitnoglavičastog strička i običnog osloboda
+I.1.2.1.7.;I.1.2.1.7. Zajednica obične koprive i velike crkvine;Zajednica obične koprive i velike crkvine
+I.1.2.1.8.;I.1.2.1.8. Zajednica drvolike stole;Zajednica drvolike stole
+I.1.2.1.9.;I.1.2.1.9. Zajednica lobode kamenjarke;Zajednica lobode kamenjarke
+I.1.2.2.;I.1.2.2. Primorske utrine;Primorske utrine
+I.1.2.2.1.;I.1.2.2.1. Zajednica primorskog divljeg ječma;Zajednica primorskog divljeg ječma
+I.1.2.2.2.;I.1.2.2.2. Zajednica sikaline i bijele marulje (tetrljana);Zajednica sikaline i bijele marulje (tetrljana)
+I.1.3.;I.1.3. Utrine kontinentalnih, rjeđe primorskih krajeva;Utrine kontinentalnih, rjeđe primorskih krajeva
+I.1.3.1.;I.1.3.1. Utrine kontinentalnih, rjeđe primorskih krajeva;Utrine kontinentalnih, rjeđe primorskih krajeva
+I.1.3.1.1.;I.1.3.1.1. Utrine ljulja utrinca i busenastog trpuca;Utrine ljulja utrinca i busenastog trpuca
+I.1.3.1.2.;I.1.3.1.2. Utrina puzave odre i tvrdike;Utrina puzave odre i tvrdike
+I.1.3.1.3.;I.1.3.1.3. Utrina tvrdike i ptičjeg dvornika;Utrina tvrdike i ptičjeg dvornika
+I.1.3.1.4.;I.1.3.1.4. Utrine ljulja utrinca i velikog trpuca;Utrine ljulja utrinca i velikog trpuca
+I.1.3.1.5.;I.1.3.1.5. Utrine ljulja utrinca i prilegle djeteline;Utrine ljulja utrinca i prilegle djeteline
+I.1.3.1.6.;I.1.3.1.6. Zajednica kamilice i ptičjeg dvornika;Zajednica kamilice i ptičjeg dvornika
+I.1.3.1.7.;I.1.3.1.7. Zajednica puzave odre i ptičjeg dvornika;Zajednica puzave odre i ptičjeg dvornika
+I.1.4.;I.1.4. Ruderalne zajednice kontinentalnih krajeva;Ruderalne zajednice kontinentalnih krajeva
+I.1.4.1.;I.1.4.1. Zajednice s običnom bodljačom;Zajednice s običnom bodljačom
+I.1.4.1.1.;I.1.4.1.1. Zajednica obične bodljače;Zajednica obične bodljače
+I.1.4.2.;I.1.4.2. Zajednice s mrkvom i kokotcem;Zajednice s mrkvom i kokotcem
+I.1.4.2.1.;I.1.4.2.1. Zajednica obične lisičine i kokotacâ;Zajednica obične lisičine i kokotacâ
+I.1.4.2.2.;I.1.4.2.2. Zajednica običnog vratića i običnog pelina;Zajednica običnog vratića i običnog pelina
+I.1.4.3.;I.1.4.3. Zajednice s velikim čičkom;Zajednice s velikim čičkom
+I.1.4.3.1.;I.1.4.3.1. Zajednica prave srčenice i crnoglavca;Zajednica prave srčenice i crnoglavca
+I.1.4.3.2.;I.1.4.3.2. Zajednica čičaka i običnog pelina;Zajednica čičaka i običnog pelina
+I.1.5.;I.1.5. Nitrofilna, skiofilna ruderalna vegetacija;Nitrofilna, skiofilna ruderalna vegetacija
+I.1.5.1.;I.1.5.1. Zajednice s broćikom i češnjačom;Zajednice s broćikom i češnjačom
+I.1.5.1.1.;I.1.5.1.1. Zajednica lukovičaste krabljice;Zajednica lukovičaste krabljice
+I.1.5.1.2.;I.1.5.1.2. Zajednica abdovine;Zajednica abdovine
+I.1.5.1.3.;I.1.5.1.3. Zajednica češnjače i njišuće krabljice;Zajednica češnjače i njišuće krabljice
+I.1.5.1.4.;I.1.5.1.4. Zajednica trepavičaste krasuljice;Zajednica trepavičaste krasuljice
+I.1.5.1.5.;I.1.5.1.5. Zajednica obične četinjavke;Zajednica obične četinjavke
+I.1.5.1.6.;I.1.5.1.6. Zajednica trokutolisne lobode;Zajednica trokutolisne lobode
+I.1.5.2.;I.1.5.2. Zajednice s jarčevcem;Zajednice s jarčevcem
+I.1.5.2.1.;I.1.5.2.1. Zajednica zlatne krabljice;Zajednica zlatne krabljice
+I.1.5.2.2.;I.1.5.2.2. Zajednica obične koprive i podagrastog jarčevca;Zajednica obične koprive i podagrastog jarčevca
+I.1.5.3.;I.1.5.3. Zajednice s netekom i šumskim čistacem;Zajednice s netekom i šumskim čistacem
+I.1.5.3.1.;I.1.5.3.1. Zajednica gorske vrbolike i pastirske iglice;Zajednica gorske vrbolike i pastirske iglice
+I.1.5.3.2.;I.1.5.3.2. Zajednica dlakave češljugovine;Zajednica dlakave češljugovine
+I.1.5.3.3.;I.1.5.3.3. Zajednica čvoraste mjehurnjače i sjajne iglice;Zajednica čvoraste mjehurnjače i sjajne iglice
+I.1.5.4.;I.1.5.4. Zajednice ladoleža uz riječne tokove;Zajednice ladoleža uz riječne tokove
+I.1.5.4.1.;I.1.5.4.1. Zajednica žljezdastog nedirka i zlatnicâ;Zajednica žljezdastog nedirka i zlatnicâ
+I.1.5.4.2.;I.1.5.4.2. Zajednica kasne i kanadske zlatnice;Zajednica kasne i kanadske zlatnice
+I.1.5.4.3.;I.1.5.4.3. Zajednica kasne zlatnice i ljepljive kadulje;Zajednica kasne zlatnice i ljepljive kadulje
+I.1.5.4.4.;I.1.5.4.4. Zajednica ježinca;Zajednica ježinca
+I.1.5.4.5.;I.1.5.4.5. Zajednica bodljastog sladića;Zajednica bodljastog sladića
+I.1.5.5.;I.1.5.5. Sjenovite zajednice lopuha;Sjenovite zajednice lopuha
+I.1.5.5.1.;I.1.5.5.1. Sjenovite zajednice lopuha;Sjenovite zajednice lopuha
+I.1.6.;I.1.6. Korovi srednje Europe;Korovi srednje Europe
+I.1.6.1.;I.1.6.1. Korovi strnih žitarica;Korovi strnih žitarica
+I.1.6.1.1.;I.1.6.1.1. Korovi strnih žitarica;Korovi strnih žitarica
+I.1.6.2.;I.1.6.2. Okopavinski korovi;Okopavinski korovi
+I.1.6.2.1.;I.1.6.2.1. Zajednica streličaste kiselice i jednogodišnje treskavice;Zajednica streličaste kiselice i jednogodišnje treskavice
+I.1.6.2.2.;I.1.6.2.2. Zajednica zečje soce i višesjemene lobode;Zajednica zečje soce i višesjemene lobode
+I.1.6.2.3.;I.1.6.2.3. Zajednica koštreve i sitnocvjetne konice;Zajednica koštreve i sitnocvjetne konice
+I.1.6.2.4.;I.1.6.2.4. Zajednica plavičastog muhara i sitnocvjetne konice;Zajednica plavičastog muhara i sitnocvjetne konice
+I.1.6.3.;I.1.6.3. Korovne zajednice s kosmatkom;Korovne zajednice s kosmatkom
+I.1.6.3.1.;I.1.6.3.1. Zajednica mjehuraste sljezovke i mnogocvjetne kosmatke;Zajednica mjehuraste sljezovke i mnogocvjetne kosmatke
+I.1.6.4.;I.1.6.4. Korovne zajednice s oranjem;Korovne zajednice s oranjem
+I.1.6.4.1.;I.1.6.4.1. Utrina divljeg ječma;Utrina divljeg ječma
+I.1.6.4.2.;I.1.6.4.2. Zajednica sićušnog sljeza;Zajednica sićušnog sljeza
+I.1.6.4.3.;I.1.6.4.3. Zajednica korovnog sljeza s koprivom;Zajednica korovnog sljeza s koprivom
+I.1.7.;I.1.7. Zajednice nitrofilnih, higrofilnih i skiofilnih staništa;Zajednice nitrofilnih, higrofilnih i skiofilnih staništa
+I.1.7.1.;I.1.7.1. Zajednice s trodjelnim dvozubom;Zajednice s trodjelnim dvozubom
+I.1.7.1.1.;I.1.7.1.1. Zajednica vodenog papra i todjelnog dvozuba;Zajednica vodenog papra i todjelnog dvozuba
+I.1.7.1.2.;I.1.7.1.2. Zajednica blijedožutog žabnjaka;Zajednica blijedožutog žabnjaka
+I.1.7.1.3.;I.1.7.1.3. Zajednica crvenožutog repka s kiselicom;Zajednica crvenožutog repka s kiselicom
+I.1.7.1.4.;I.1.7.1.4. Zajednica obalne dikice;Zajednica obalne dikice
+I.1.8.;I.1.8. Zapuštene poljoprivredne površine;Zapuštene poljoprivredne površine
+I.1.8.1.;I.1.8.1. Zapuštene poljoprivredne površine zarasle zeljastom vegetacijom;Zapuštene poljoprivredne površine zarasle zeljastom vegetacijom
+I.1.8.2.;I.1.8.2. Zapuštene poljoprivredne površine zarasle grmovitom vegetacijom;Zapuštene poljoprivredne površine zarasle grmovitom vegetacijom
+I.2.;I.2. Mozaične kultivirane površine;Mozaične kultivirane površine
+I.2.1.;I.2.1. Mozaici kultiviranih površina;Mozaici kultiviranih površina
+I.2.1.1.;I.2.1.1. Mozaične poljoprivredne površine;Mozaične poljoprivredne površine
+I.2.1.1.1.;I.2.1.1.1. Mozaik jednogodišnjih i višegodišnjih usjeva;Mozaik jednogodišnjih i višegodišnjih usjeva
+I.2.1.1.2.;I.2.1.1.2. Mozaik složene strukture usjeva;Mozaik složene strukture usjeva
+I.2.1.1.3.;I.2.1.1.3. Mozaik složene strukture usjeva s kućama;Mozaik složene strukture usjeva s kućama
+I.2.1.1.4.;I.2.1.1.4. Tradicionalni seoski vrtovi;Tradicionalni seoski vrtovi
+I.2.1.1.5.;I.2.1.1.5. Mozaik poljoprivrednih površina na terasama;Mozaik poljoprivrednih površina na terasama
+I.2.1.1.6.;I.2.1.1.6. Mozaik poljoprivrednih površina s gromačama;Mozaik poljoprivrednih površina s gromačama
+I.2.1.2.;I.2.1.2. Mozaik poljoprivrednih površina i prirodne vegetacije;Mozaik poljoprivrednih površina i prirodne vegetacije
+I.2.1.2.1.;I.2.1.2.1. Mozaik poljoprivrednih površina i prirodne vegetacije s prevladavajućim usjevima;Mozaik poljoprivrednih površina i prirodne vegetacije s prevladavajućim usjevima
+I.2.1.2.2.;I.2.1.2.2. Mozaik poljoprivrednih površina i prirodne vegetacije s prevladavajućom travnom vegetacijom;Mozaik poljoprivrednih površina i prirodne vegetacije s prevladavajućom travnom vegetacijom
+I.2.1.2.3.;I.2.1.2.3. Mozaik poljoprivrednih površina i prirodne vegetacije s prevladavajućom grmolikom vegatacijom i drvećem;Mozaik poljoprivrednih površina i prirodne vegetacije s prevladavajućom grmolikom vegatacijom i drvećem
+I.2.2.;I.2.2. Pojedinačne nekomasirane oranice;Pojedinačne nekomasirane oranice
+I.2.2.1.;I.2.2.1. Intenzivno obrađivane oranice na nekomasiranim površinama;Intenzivno obrađivane oranice na nekomasiranim površinama
+I.2.2.2.;I.2.2.2. Ekstenzivno obrađivane oranice;Ekstenzivno obrađivane oranice
+I.2.2.3.;I.2.2.3. Nekomasirane oranice na ugaru;Nekomasirane oranice na ugaru
+I.3.;I.3. Intenzivno obrađivane oranice na komasiranim površinama;Intenzivno obrađivane oranice na komasiranim površinama
+I.3.1.;I.3.1. Intenzivno obrađivane oranice na komasiranim površinama;Intenzivno obrađivane oranice na komasiranim površinama
+I.3.1.1.;I.3.1.1. Intenzivne komasirane oranice s usjevima monokultura;Intenzivne komasirane oranice s usjevima monokultura
+I.3.1.2.;I.3.1.2. Intenzivne komasirane oranice s mješovitim usjevima;Intenzivne komasirane oranice s mješovitim usjevima
+I.3.1.3.;I.3.1.3. Komasirane oranice na ugaru;Komasirane oranice na ugaru
+I.4.;I.4. Višegodišnje zeljaste kulture;Višegodišnje zeljaste kulture
+I.4.1.;I.4.1. Intenzivne košanice i pašnjaci;Intenzivne košanice i pašnjaci
+I.4.1.1.;I.4.1.1. Intenzivne košanice;Intenzivne košanice
+I.4.1.1.1.;I.4.1.1.1. Suhe intenzivne košanice;Suhe intenzivne košanice
+I.4.1.1.2.;I.4.1.1.2. Vlažne intenzivne košanice;Vlažne intenzivne košanice
+I.4.1.2.;I.4.1.2. Intenzivni pašnjaci;Intenzivni pašnjaci
+I.4.1.2.1.;I.4.1.2.1. Suhi intenzivni pašnjaci;Suhi intenzivni pašnjaci
+I.4.1.2.2.;I.4.1.2.2. Vlažni intenzivni pašnjaci;Vlažni intenzivni pašnjaci
+I.4.1.3.;I.4.1.3. Ekstenzivne košanice na poljoprivrednim površinama;Ekstenzivne košanice na poljoprivrednim površinama
+I.4.1.3.1.;I.4.1.3.1. Suhe ekstenzivne košanice na poljoprivrednim površinama;Suhe ekstenzivne košanice na poljoprivrednim površinama
+I.4.1.3.2.;I.4.1.3.2. Vlažne ekstenzivne košanice na poljoprivrednim površinama;Vlažne ekstenzivne košanice na poljoprivrednim površinama
+I.4.1.4.;I.4.1.4. Ekstenzivni pašnjaci na poljoprivrednim površinama;Ekstenzivni pašnjaci na poljoprivrednim površinama
+I.4.1.4.1.;I.4.1.4.1. Suhi ekstenzivni pašnjaci na poljoprivrednim površinama;Suhi ekstenzivni pašnjaci na poljoprivrednim površinama
+I.4.1.4.2.;I.4.1.4.2. Vlažni ekstenzivni pašnjaci na poljoprivrednim površinama;Vlažni ekstenzivni pašnjaci na poljoprivrednim površinama
+I.4.2.;I.4.2. Višegodišnje kulture ljekovitog i aromatičnog bilja;Višegodišnje kulture ljekovitog i aromatičnog bilja
+I.4.2.1.;I.4.2.1. Višegodišnje kulture ljekovitog i aromatičnog bilja;Višegodišnje kulture ljekovitog i aromatičnog bilja
+I.4.3.;I.4.3. Kultura hmelja;Kultura hmelja
+I.4.3.1.;I.4.3.1. Kultura hmelja;Kultura hmelja
+I.5.;I.5. Voćnjaci, vinogradi i maslinici;Voćnjaci, vinogradi i maslinici
+I.5.1.;I.5.1. Voćnjaci;Voćnjaci
+I.5.1.1.;I.5.1.1. Tradicionalni visoki voćnjaci u užem smislu;Tradicionalni visoki voćnjaci u užem smislu
+I.5.1.1.1.;I.5.1.1.1. Tradicionalni šljivici;Tradicionalni šljivici
+I.5.1.1.2.;I.5.1.1.2. Ostali tradicionalni monodominantni voćnjaci;Ostali tradicionalni monodominantni voćnjaci
+I.5.1.1.3.;I.5.1.1.3. Mješoviti tradicionalni voćnjaci;Mješoviti tradicionalni voćnjaci
+I.5.1.2.;I.5.1.2. Intenzivni visoki voćnjaci u užem smislu;Intenzivni visoki voćnjaci u užem smislu
+I.5.1.3.;I.5.1.3. Ostali visoki voćnjaci;Ostali visoki voćnjaci
+I.5.1.4.;I.5.1.4. Nasadi grmolikog voća;Nasadi grmolikog voća
+I.5.2.;I.5.2. Maslinici;Maslinici
+I.5.2.1.;I.5.2.1. Tradicionalni maslinici;Tradicionalni maslinici
+I.5.2.1.1.;I.5.2.1.1. Tradicionalni maslinici;Tradicionalni maslinici
+I.5.2.2.;I.5.2.2. Intezivni maslinici;Intezivni maslinici
+I.5.2.2.1.;I.5.2.2.1. Intenzivni maslinici;Intenzivni maslinici
+I.5.3.;I.5.3. Vinogradi;Vinogradi
+I.5.3.1.;I.5.3.1. Tradicionalni vinogradi;Tradicionalni vinogradi
+I.5.3.1.1.;I.5.3.1.1. Tradicionalni vinogradi;Tradicionalni vinogradi
+I.5.3.2.;I.5.3.2. Intenzivni vinogradi;Intenzivni vinogradi
+I.5.3.2.1.;I.5.3.2.1. Intenzivni vinogradi;Intenzivni vinogradi
+I.6.;I.6. Proizvodni vrtovi i rasadnici;Proizvodni vrtovi i rasadnici
+I.6.1.;I.6.1. Povrtnjaci;Povrtnjaci
+I.6.1.1.;I.6.1.1. Povrtnjaci u sklopu seoskih okućnica;Povrtnjaci u sklopu seoskih okućnica
+I.6.1.2.;I.6.1.2. Povrtnjaci u sklopu gradskih okućnica;Povrtnjaci u sklopu gradskih okućnica
+I.6.1.3.;I.6.1.3. Povrtnjaci na gradskim i prigradskim slobodnim površinama;Povrtnjaci na gradskim i prigradskim slobodnim površinama
+I.6.1.4.;I.6.1.4. Povrtnjaci izvan naseljenih mjesta;Povrtnjaci izvan naseljenih mjesta
+I.6.2.;I.6.2. Kulture cvijeća;Kulture cvijeća
+I.6.2.1.;I.6.2.1. Kulture cvijeća;Kulture cvijeća
+I.6.2.1.1.;I.6.2.1.1. Kulture jednogodišnjih vrsta cvijeća;Kulture jednogodišnjih vrsta cvijeća
+I.6.2.1.2.;I.6.2.1.2. Kulture višegodišnjih vrsta cvijeća;Kulture višegodišnjih vrsta cvijeća
+I.6.3.;I.6.3. Rasadnici zeljastog bilja;Rasadnici zeljastog bilja
+I.6.3.1.;I.6.3.1. Rasadnici zeljastog bilja;Rasadnici zeljastog bilja
+I.6.3.1.1.;I.6.3.1.1. Rasadnici za povrtlarsku proizvodnju;Rasadnici za povrtlarsku proizvodnju
+I.6.3.1.2.;I.6.3.1.2. Hortikulturni rasadnici zeljastog bilja;Hortikulturni rasadnici zeljastog bilja
+I.6.4.;I.6.4. Rasadnici drvenastog bilja;Rasadnici drvenastog bilja
+I.6.4.1.;I.6.4.1. Rasadnici drvenastog bilja;Rasadnici drvenastog bilja
+I.6.4.1.1.;I.6.4.1.1. Rasadnici voćaka;Rasadnici voćaka
+I.6.4.1.2.;I.6.4.1.2. Hortikulturni rasadnici drvenastog bilja;Hortikulturni rasadnici drvenastog bilja
+I.6.4.1.3.;I.6.4.1.3. Šumski rasadnici;Šumski rasadnici
+I.6.4.1.4.;I.6.4.1.4. Nasadi za božićna drvca;Nasadi za božićna drvca
+I.6.4.1.5.;I.6.4.1.5. Nasadi šumskog drveća za proizvodnju sjemena;Nasadi šumskog drveća za proizvodnju sjemena
+I.7.;I.7. Međe i ograde kultiviranih površina;Međe i ograde kultiviranih površina
+I.7.1.;I.7.1. Međe i ograde kultiviranih površina;Međe i ograde kultiviranih površina
+I.7.1.1.;I.7.1.1. Drvoredi na međama kultiviranih površina;Drvoredi na međama kultiviranih površina
+I.7.1.1.1.;I.7.1.1.1. Drvoredi na međama kultiviranih površina;Drvoredi na međama kultiviranih površina
+I.7.1.2.;I.7.1.2. Živice na međama kultiviranih površina;Živice na međama kultiviranih površina
+I.7.1.2.1.;I.7.1.2.1. Živice na međama kultiviranih površina;Živice na međama kultiviranih površina
+I.7.1.3.;I.7.1.3. Zeljasta vegetacija na međama kultiviranih površina;Zeljasta vegetacija na međama kultiviranih površina
+I.7.1.3.1.;I.7.1.3.1. Zeljasta vegetacija na međama kultiviranih površina;Zeljasta vegetacija na međama kultiviranih površina
+I.8.;I.8. Neproizvodne kultivirane zelene površine;Neproizvodne kultivirane zelene površine
+I.8.1.;I.8.1. Javne neproizvodne kultivirane zelene površine;Javne neproizvodne kultivirane zelene površine
+I.8.1.1.;I.8.1.1. Intenzivno njegovani parkovi u sklopu naselja;Intenzivno njegovani parkovi u sklopu naselja
+I.8.1.2.;I.8.1.2. Ekstenzivno njegovani parkovi u sklopu naselja;Ekstenzivno njegovani parkovi u sklopu naselja
+I.8.1.3.;I.8.1.3. Poluprirodne parkovne zajednice unutar naselja;Poluprirodne parkovne zajednice unutar naselja
+I.8.1.4.;I.8.1.4. Parkovi i arboretumi izvan naseljenih mjesta;Parkovi i arboretumi izvan naseljenih mjesta
+I.8.1.5.;I.8.1.5. Aleje i drvoredi;Aleje i drvoredi
+I.8.1.5.1.;I.8.1.5.1. Aleje i drvoredi s travnatom ili rahlom zemljanom podlogom;Aleje i drvoredi s travnatom ili rahlom zemljanom podlogom
+I.8.1.5.2.;I.8.1.5.2. Aleje i drvoredi s propusnom podlogom od utabane zemlje ili rastresitog kamenog materijala;Aleje i drvoredi s propusnom podlogom od utabane zemlje ili rastresitog kamenog materijala
+I.8.1.5.3.;I.8.1.5.3. Aleje i drvoredi s asfaltnom ili betonskom podlogom;Aleje i drvoredi s asfaltnom ili betonskom podlogom
+I.8.1.6.;I.8.1.6. Javne intenzivno održavane tratine;Javne intenzivno održavane tratine
+I.8.1.6.1.;I.8.1.6.1. Javne intenzivno održavane tratine;Javne intenzivno održavane tratine
+I.8.1.7.;I.8.1.7. Javni cvijetnjaci;Javni cvijetnjaci
+I.8.1.7.1.;I.8.1.7.1. Javni cvijetnjaci;Javni cvijetnjaci
+I.8.1.8.;I.8.1.8. Zelene površine za sport i rekreaciju;Zelene površine za sport i rekreaciju
+I.8.1.8.1.;I.8.1.8.1. Travnati sportski tereni za igre s loptom;Travnati sportski tereni za igre s loptom
+I.8.1.8.2.;I.8.1.8.2. Golf tereni;Golf tereni
+I.8.1.8.3.;I.8.1.8.3. Kampovi;Kampovi
+I.8.1.8.4.;I.8.1.8.4. Ostale zelene površine za sport i rekreaciju;Ostale zelene površine za sport i rekreaciju
+I.8.1.9.;I.8.1.9. Intenzivno gažene javne površine;Intenzivno gažene javne površine
+I.8.1.9.1.;I.8.1.9.1. Intenzivno gažene javne površine;Intenzivno gažene javne površine
+I.8.2.;I.8.2. Dvorišta i kućni vrtovi;Dvorišta i kućni vrtovi
+I.8.2.1.;I.8.2.1. Intenzivno njegovani kućni vrtovi;Intenzivno njegovani kućni vrtovi
+I.8.2.2.;I.8.2.2. Ekstenzivno njegovani kućni vrtovi;Ekstenzivno njegovani kućni vrtovi
+I.8.2.3.;I.8.2.3. Zapušteni kućni vrtovi;Zapušteni kućni vrtovi
+I.8.2.4.;I.8.2.4. Intenzivno gažena dvorišta uz kuće;Intenzivno gažena dvorišta uz kuće
+I.8.2.4.1.;I.8.2.4.1. Intenzivno gažena dvorišta uz kuće;Intenzivno gažena dvorišta uz kuće
+I.8.2.5.;I.8.2.5. Popločena dvorišta uz kuće;Popločena dvorišta uz kuće
+I.8.2.5.1.;I.8.2.5.1. Popločena dvorišta uz kuće;Popločena dvorišta uz kuće
+J.;J. Izgrađena i industrijska staništa;Izgrađena i industrijska staništa
+J.1.;J.1. Sela;Sela
+J.1.1.;J.1.1. Aktivna seoska područja;Aktivna seoska područja
+J.1.1.1.;J.1.1.1. Seoske javne građevine;Seoske javne građevine
+J.1.1.1.1.;J.1.1.1.1. Seoske crkve;Seoske crkve
+J.1.1.1.2.;J.1.1.1.2. Ostale aktivne seoske javne građevine;Ostale aktivne seoske javne građevine
+J.1.1.1.3.;J.1.1.1.3. Napuštene seoske javne građevine;Napuštene seoske javne građevine
+J.1.1.2.;J.1.1.2. Seoske kuće;Seoske kuće
+J.1.1.2.1.;J.1.1.2.1. Tradicionalne nastanjene kuće;Tradicionalne nastanjene kuće
+J.1.1.2.2.;J.1.1.2.2. Novoizgrađene nastanjene kuće;Novoizgrađene nastanjene kuće
+J.1.1.2.3.;J.1.1.2.3. Napuštene seoske kuće;Napuštene seoske kuće
+J.1.1.2.4.;J.1.1.2.4. Ruševine seoskih kuća;Ruševine seoskih kuća
+J.1.1.3.;J.1.1.3. Seoske gospodarske zgrade;Seoske gospodarske zgrade
+J.1.1.3.1.;J.1.1.3.1. Neizolirane poljoprivredne građevine;Neizolirane poljoprivredne građevine
+J.1.1.3.2.;J.1.1.3.2. Izolirane poljoprivredne građevine;Izolirane poljoprivredne građevine
+J.1.1.3.3.;J.1.1.3.3. Staklenici;Staklenici
+J.1.1.3.4.;J.1.1.3.4. Plastenici;Plastenici
+J.1.1.3.5.;J.1.1.3.5. Napuštene seoske gospodarske zgrade;Napuštene seoske gospodarske zgrade
+J.1.2.;J.1.2. Napuštena seoska područja;Napuštena seoska područja
+J.1.2.1.;J.1.2.1. Napuštena seoska naselja;Napuštena seoska naselja
+J.1.2.2.;J.1.2.2. Napuštena seoska imanja;Napuštena seoska imanja
+J.1.3.;J.1.3. Urbanizirana seoska područja;Urbanizirana seoska područja
+J.1.3.1.;J.1.3.1. Nekadašnja sela s gradskim načinom življenja;Nekadašnja sela s gradskim načinom življenja
+J.1.3.2.;J.1.3.2. Seoski oblici stanovanja u gradovima ili na periferijama gradova;Seoski oblici stanovanja u gradovima ili na periferijama gradova
+J.1.3.3.;J.1.3.3. Vikend naselja;Vikend naselja
+J.1.3.3.1.;J.1.3.3.1. Pojedinačne vikendice;Pojedinačne vikendice
+J.2.;J.2. Gradovi;Gradovi
+J.2.1.;J.2.1. Gradske jezgre;Gradske jezgre
+J.2.1.1.;J.2.1.1. Gradske jezgre;Gradske jezgre
+J.2.1.1.1.;J.2.1.1.1. Gradske zgrade suvremene arhitekture;Gradske zgrade suvremene arhitekture
+J.2.1.1.2.;J.2.1.1.2. Gradske zgrade povijesne arhitekture;Gradske zgrade povijesne arhitekture
+J.2.1.1.3.;J.2.1.1.3. Napuštene (konzervirane) zgrade u gradskim jezgrama;Napuštene (konzervirane) zgrade u gradskim jezgrama
+J.2.2.;J.2.2. Gradske stambene površine;Gradske stambene površine
+J.2.2.1.;J.2.2.1. Stambeni blokovi zgusnutog tipa;Stambeni blokovi zgusnutog tipa
+J.2.2.1.1.;J.2.2.1.1. Pojedinačne stambene zgrade;Pojedinačne stambene zgrade
+J.2.2.2.;J.2.2.2. Stambeni blokovi rubnog (otvorenog) tipa;Stambeni blokovi rubnog (otvorenog) tipa
+; Pojedinačne stambene zgrade;Pojedinačne stambene zgrade
+J.2.2.3.;J.2.2.3. Zgrade u nizu uz glavnu prometnicu;Zgrade u nizu uz glavnu prometnicu
+J.2.2.3.1.;J.2.2.3.1. Pojedinačne stambene zgrade;Pojedinačne stambene zgrade
+J.2.2.4.;J.2.2.4. Kompleksi velikih zgrada i neboderi na širokom području;Kompleksi velikih zgrada i neboderi na širokom području
+J.2.2.4.1.;J.2.2.4.1. Pojedinačne stambene zgrade;Pojedinačne stambene zgrade
+J.2.2.5.;J.2.2.5. Stambene kuće u nizu sa stražnjim vrtovima;Stambene kuće u nizu sa stražnjim vrtovima
+J.2.2.5.1.;J.2.2.5.1. Pojedinačne kuće;Pojedinačne kuće
+J.2.2.6.;J.2.2.6. Vile s vrtovima poput parkova;Vile s vrtovima poput parkova
+J.2.2.6.1.;J.2.2.6.1. Pojedinačne kuće;Pojedinačne kuće
+J.2.3.;J.2.3. Ostale urbane površine;Ostale urbane površine
+J.2.3.1.;J.2.3.1. Zgrade javne namjene s pripadnim površinama;Zgrade javne namjene s pripadnim površinama
+J.2.3.1.1.;J.2.3.1.1. Pojedinačne zgrade javne namjene;Pojedinačne zgrade javne namjene
+J.2.3.2.;J.2.3.2. Privremena naselja;Privremena naselja
+J.2.3.2.1.;J.2.3.2.1. Pojedinačni blokovi nastambi;Pojedinačni blokovi nastambi
+J.2.3.3.;J.2.3.3. Gradske zidine i ostaci starih utvrda;Gradske zidine i ostaci starih utvrda
+J.2.3.3.1.;J.2.3.3.1. Pojedinačne zidine i utvrde;Pojedinačne zidine i utvrde
+J.2.3.4.;J.2.3.4. Arheološki lokaliteti;Arheološki lokaliteti
+J.2.3.4.1.;J.2.3.4.1. Arheološki ostaci pojedinih zgrada;Arheološki ostaci pojedinih zgrada
+J.2.3.5.;J.2.3.5. Napuštene zgrade i ruševine;Napuštene zgrade i ruševine
+J.2.3.6.;J.2.3.6. Vojni objekti;Vojni objekti
+J.2.3.6.1.;J.2.3.6.1. Pojedinačne zgrade vojne namjene;Pojedinačne zgrade vojne namjene
+J.2.3.7.;J.2.3.7. Velika gradilišta;Velika gradilišta
+J.2.3.7.1.;J.2.3.7.1. Pojedinačne zgrade u izgradnji;Pojedinačne zgrade u izgradnji
+J.3.;J.3. Ostale izgrađene negospodarske površine;Ostale izgrađene negospodarske površine
+J.3.1.;J.3.1. Izgrađene površine za sport, rekreaciju i razonodu;Izgrađene površine za sport, rekreaciju i razonodu
+J.3.1.1.;J.3.1.1. Otvorena kupališta;Otvorena kupališta
+J.3.1.2.;J.3.1.2. Netravnati sportski tereni;Netravnati sportski tereni
+J.3.1.3.;J.3.1.3. Ostale izgrađene površine za sport, rekreaciju i razonodu;Ostale izgrađene površine za sport, rekreaciju i razonodu
+J.3.2.;J.3.2. Groblja;Groblja
+J.3.2.1.;J.3.2.1. Groblja kao perivoji;Groblja kao perivoji
+J.3.2.1.1.;J.3.2.1.1. Izgrađeni dijelovi groblja;Izgrađeni dijelovi groblja
+J.3.2.2.;J.3.2.2. Gradska groblja velike gustoće;Gradska groblja velike gustoće
+J.3.2.2.1.;J.3.2.2.1. Izgrađeni dijelovi groblja;Izgrađeni dijelovi groblja
+J.3.2.3.;J.3.2.3. Seoska groblja;Seoska groblja
+J.3.2.3.1.;J.3.2.3.1. Izgrađeni dijelovi groblja;Izgrađeni dijelovi groblja
+J.3.2.4.;J.3.2.4. Napuštena groblja;Napuštena groblja
+J.3.2.4.1.;J.3.2.4.1. Izgrađeni dijelovi groblja;Izgrađeni dijelovi groblja
+J.3.3.;J.3.3. Izgrađene međe i ograde kultiviranih površina;Izgrađene međe i ograde kultiviranih površina
+J.3.3.1.;J.3.3.1. Suhozidi (gromače);Suhozidi (gromače)
+J.3.3.2.;J.3.3.2. Zidane ograde;Zidane ograde
+J.3.3.3.;J.3.3.3. Drvene ograde (plotovi);Drvene ograde (plotovi)
+J.3.3.4.;J.3.3.4. Žičane ograde;Žičane ograde
+J.3.3.5.;J.3.3.5. Ostale metalne ograde;Ostale metalne ograde
+J.4.;J.4. Gospodarske površine;Gospodarske površine
+J.4.1.;J.4.1. Industrijska i obrtnička područja;Industrijska i obrtnička područja
+J.4.1.1.;J.4.1.1. Industrijska područja bez zelenih površina;Industrijska područja bez zelenih površina
+J.4.1.2.;J.4.1.2. Industrijska područja s manjim udjelom zelenih površina (skladišta, slobodne carinske zone);Industrijska područja s manjim udjelom zelenih površina (skladišta, slobodne carinske zone)
+J.4.1.3.;J.4.1.3. Industrijska područja sa značajnim udjelom intenzivno njegovanih zelenih površina;Industrijska područja sa značajnim udjelom intenzivno njegovanih zelenih površina
+J.4.1.4.;J.4.1.4. Industrijska područja sa značajnim udjelom ekstenzivno njegovanih zelenih površina;Industrijska područja sa značajnim udjelom ekstenzivno njegovanih zelenih površina
+J.4.1.5.;J.4.1.5. Napuštena industrijska postrojenja i pogoni;Napuštena industrijska postrojenja i pogoni
+J.4.2.;J.4.2. Odlagališta krutih tvari;Odlagališta krutih tvari
+J.4.2.1.;J.4.2.1. Uređena odlagališta krutog otpada;Uređena odlagališta krutog otpada
+J.4.2.1.1.;J.4.2.1.1. Odlagališta komunalnog otpada;Odlagališta komunalnog otpada
+J.4.2.1.2.;J.4.2.1.2. Odlagališta industrijskog otpada;Odlagališta industrijskog otpada
+J.4.2.1.3.;J.4.2.1.3. Odlagališta građevinskog otpada;Odlagališta građevinskog otpada
+J.4.2.1.4.;J.4.2.1.4. Odlagališta metalnog otpada (autootpad i sl.);Odlagališta metalnog otpada (autootpad i sl.)
+J.4.2.1.5.;J.4.2.1.5. Odlagališta ostataka rudarske proizvodnje;Odlagališta ostataka rudarske proizvodnje
+J.4.2.1.6.;J.4.2.1.6. Reciklažna dvorišta;Reciklažna dvorišta
+J.4.2.1.7.;J.4.2.1.7. Gnojišta;Gnojišta
+J.4.2.1.8.;J.4.2.1.8. Kompostišta;Kompostišta
+J.4.2.1.9.;J.4.2.1.9. Odlagališta piljevine i sitnog drvnog otpada;Odlagališta piljevine i sitnog drvnog otpada
+J.4.2.1.10.;J.4.2.1.10. Odlagališta organskog nepoljoprivrednog otpada;Odlagališta organskog nepoljoprivrednog otpada
+J.4.2.1.11.;J.4.2.1.11. Odlagališta nereciklažnog poljoprivrednog i hortikulturnog otpada biljnog podrijetla;Odlagališta nereciklažnog poljoprivrednog i hortikulturnog otpada biljnog podrijetla
+J.4.2.1.12.;J.4.2.1.12. Odlagališta nereciklažnog poljoprivrednog otpada životinjskog podrijetla;Odlagališta nereciklažnog poljoprivrednog otpada životinjskog podrijetla
+J.4.2.2.;J.4.2.2. Neuređena (divlja) odlagališta krutog otpada;Neuređena (divlja) odlagališta krutog otpada
+J.4.2.2.1.;J.4.2.2.1. Neuređena (divlja) odlagališta komunalnog otpada;Neuređena (divlja) odlagališta komunalnog otpada
+J.4.2.2.2.;J.4.2.2.2. Ostala neuređena (divlja) odlagališta krutog otpada;Ostala neuređena (divlja) odlagališta krutog otpada
+J.4.2.3.;J.4.2.3. Odlagališta sirovina i međuproizvoda;Odlagališta sirovina i međuproizvoda
+J.4.2.3.1.;J.4.2.3.1. Odlagališta pijeska;Odlagališta pijeska
+J.4.2.3.2.;J.4.2.3.2. Odlagališta zemlje;Odlagališta zemlje
+J.4.2.3.3.;J.4.2.3.3. Odlagališta šljunka;Odlagališta šljunka
+J.4.2.3.4.;J.4.2.3.4. Odlagališta mineralnih sirovina;Odlagališta mineralnih sirovina
+J.4.2.3.5.;J.4.2.3.5. Odlagališta trupaca i drvne građe;Odlagališta trupaca i drvne građe
+J.4.2.3.6.;J.4.2.3.6. Odlagališta građevinskog materijala;Odlagališta građevinskog materijala
+J.4.2.3.7.;J.4.2.3.7. Odlagališta metalnih sirovina;Odlagališta metalnih sirovina
+J.4.2.3.8.;J.4.2.3.8. Ostala odlagališta sirovina i međuproizvoda;Ostala odlagališta sirovina i međuproizvoda
+J.4.3.;J.4.3. Površinski kopovi;Površinski kopovi
+J.4.3.1.;J.4.3.1. Aktivni površinski kopovi;Aktivni površinski kopovi
+J.4.3.1.1.;J.4.3.1.1. Kamenolomi;Kamenolomi
+J.4.3.1.2.;J.4.3.1.2. Pješčare;Pješčare
+J.4.3.1.3.;J.4.3.1.3. Šljunčare;Šljunčare
+J.4.3.1.4.;J.4.3.1.4. Kopovi gline, kaolina i ilovače;Kopovi gline, kaolina i ilovače
+J.4.3.1.5.;J.4.3.1.5. Kopovi lapora;Kopovi lapora
+J.4.3.1.6.;J.4.3.1.6. Površinski rudnici;Površinski rudnici
+J.4.3.1.7.;J.4.3.1.7. Površinski kopovi boksita;Površinski kopovi boksita
+J.4.3.1.8.;J.4.3.1.8. Crpilišta nafte i plina;Crpilišta nafte i plina
+J.4.3.2.;J.4.3.2. Napušteni površinski kopovi (nesanirani);Napušteni površinski kopovi (nesanirani)
+J.4.3.2.1.;J.4.3.2.1. Napušteni površinski kopovi (nesanirani);Napušteni površinski kopovi (nesanirani)
+J.4.4.;J.4.4. Infrastrukturne površine;Infrastrukturne površine
+J.4.4.1.;J.4.4.1. Površine za pružni promet;Površine za pružni promet
+J.4.4.2.;J.4.4.2. Površine za cestovni promet;Površine za cestovni promet
+J.4.4.3.;J.4.4.3. Aerodromi;Aerodromi
+J.4.4.4.;J.4.4.4. Lučke površine;Lučke površine
+J.4.4.5.;J.4.4.5. Ostale infrastrukturne površine;Ostale infrastrukturne površine
+J.4.5.;J.4.5. Uzgajališta životinja;Uzgajališta životinja
+J.4.5.1.;J.4.5.1. Farme goveda;Farme goveda
+J.4.5.2.;J.4.5.2. Farme konja;Farme konja
+J.4.5.3.;J.4.5.3. Farme svinja;Farme svinja
+J.4.5.4.;J.4.5.4. Farme sitne stoke;Farme sitne stoke
+J.4.5.5.;J.4.5.5. Farme peradi;Farme peradi
+J.4.5.6.;J.4.5.6. Farme nojeva;Farme nojeva
+J.4.5.7.;J.4.5.7. Zoološki vrtovi;Zoološki vrtovi
+J.5.;J.5. Umjetna vodena staništa bez poluprirodnih zajednica biljaka i životinja;Umjetna vodena staništa bez poluprirodnih zajednica biljaka i životinja
+J.5.1.;J.5.1. Umjetna slana i bočata staništa;Umjetna slana i bočata staništa
+J.5.1.1.;J.5.1.1. Umjetne slane i bočate stajaćice;Umjetne slane i bočate stajaćice
+J.5.1.1.1.;J.5.1.1.1. Slane i bočate industrijske lagune i kanali;Slane i bočate industrijske lagune i kanali
+J.5.1.1.2.;J.5.1.1.2. Solane;Solane
+J.5.1.2.;J.5.1.2. Umjetne slane i bočate tekućice;Umjetne slane i bočate tekućice
+J.5.2.;J.5.2. Umjetna slatkovodna staništa;Umjetna slatkovodna staništa
+J.5.2.1.;J.5.2.1. Umjetne slatkovodne stajaćice;Umjetne slatkovodne stajaćice
+J.5.2.2.;J.5.2.2. Umjetne slatkovodne tekućice;Umjetne slatkovodne tekućice
+K.;K. Kompleksi staništa;Kompleksi staništa
+K.1.;K.1. Estuariji;Estuariji
+K.2.;K.2. Obalne lagune;Obalne lagune
+K.3.;K.3. Velike plitke uvale i zaljevi;Velike plitke uvale i zaljevi

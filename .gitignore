@@ -1,7 +1,5 @@
 venv
 .idea
-*.xlsx
-*.csv
 *.pdf
 *.png
 *.jpg
@@ -13,3 +11,4 @@ venv
 *.md
 *.html
 *.docx
+*data
