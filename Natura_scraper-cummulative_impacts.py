@@ -17,23 +17,24 @@ response = requests.get(url)
 # Parse the HTML response using BeautifulSoup
 soup = BeautifulSoup(response.content, "html.parser")
 
-# Find all <div> elements with class "PUO postupci"
+# Find all <div> elements that concern "PUO postupci"
 postupci_divs = soup.find_all("div", class_="faqOdgovor")
-#print(postupci_divs)
-# Loop through each <div> element and find the <li> elements with "PUO rješenje" text
 
 # Loop through each <div> element and find the <a> elements with "data-fileid" attribute
 for postupak_div in postupci_divs:
-    print(postupak_div)
+    pdf_links = postupak_div.find_all("a")
+    print(pdf_links)
+
     pdf_links = postupak_div.find_all("a",
                                       {"data-fileid": True, "href": True, "target": "_blank", "title": "PUO rješenje"})
+    pdf_links = postupak_div.find_all("a", {"href": "rješenje"})
     #pdf_links = postupak_div.find_all("a")
     print(pdf_links)
     # Loop through each <a> element and download the PDF file
     for pdf_link in pdf_links:
         pdf_url = pdf_link["href"]
         pdf_name = pdf_url.split("/")[-1]  # Get the file name from the URL
-
+        pdf_name = f"cummulative_download\\, {pdf_name}"
         # Send a request to the PDF URL and download the file
         pdf_response = requests.get(pdf_url)
         with open(pdf_name, "wb") as f:
