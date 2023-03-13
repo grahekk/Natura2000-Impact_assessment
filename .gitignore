@@ -12,3 +12,4 @@ venv
 *.html
 *.docx
 *data
+*cummulative_download
