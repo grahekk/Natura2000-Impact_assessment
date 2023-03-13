@@ -36,7 +36,7 @@ for postupak_div in postupci_divs:
         pdf_url = pdf_link["href"]
         if "rjesenje" in pdf_url:
             pdf_name = pdf_url.split("/")[-1]  # Get the file name from the URL
-            # Send a request to the PDF URL and download the file i try-except block
+            # Send a request to the PDF URL and download the file and try-except block
             try:
                 pdf_response = requests.get(pdf_url)
             except requests.exceptions.InvalidSchema:
