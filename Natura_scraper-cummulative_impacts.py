@@ -44,11 +44,11 @@ for postupak_div in postupci_divs:
                 skipped_files.append(pdf_name)
                 continue
             #add the folder to file name
-            file_name = f"cummulative_download\\PUO_{pdf_name}"
+            file_name = f"{dir}\\PUO_{pdf_name}"
             with open(file_name, "wb") as f:
                 f.write(pdf_response.content)
 
             print(f"{pdf_name} downloaded.")
             downloaded_files.append(pdf_name)
 
-print("--- %s seconds ---" % (time.time() - start_time))
+print(f"Process finished in: {time.time() - start_time} seconds")
