@@ -23,28 +23,32 @@ soup = BeautifulSoup(response.content, "html.parser")
 regex = re.compile(r"PUO postupci ....")
 postupci_divs = soup.find_all("div", class_="faqPitanje", string=regex)
 
+downloaded_files = []
+skipped_files = []
+
 for postupak_div in postupci_divs:
+    #only "PUO postupci" are scraped
     postupak_div = postupak_div.find_previous_sibling("div", class_="faqOdgovor")
     #all the links to be downloaded
     pdf_links = postupak_div.find_all("a")
-    pdf_links = postupak_div.find_all("a",
-                                      {"data-fileid": True, "href": True, "target": "_blank", "string": "PUO rješenje"})
-    pdf_links = postupak_div.find_all("a")
-    print(pdf_links)
-
     # Loop through each <a> element and download the PDF file
     for pdf_link in pdf_links:
         pdf_url = pdf_link["href"]
         if "rjesenje" in pdf_url:
             pdf_name = pdf_url.split("/")[-1]  # Get the file name from the URL
+            # Send a request to the PDF URL and download the file i try-except block
+            try:
+                pdf_response = requests.get(pdf_url)
+            except requests.exceptions.InvalidSchema:
+                print(f"Error: InvalidSchema, skipping file: {pdf_name}")
+                skipped_files.append(pdf_name)
+                continue
             #add the folder to file name
-            pdf_name = f"cummulative_download\\{pdf_name}"
-
-            # Send a request to the PDF URL and download the file
-            pdf_response = requests.get(pdf_url)
-            with open(pdf_name, "wb") as f:
+            file_name = f"cummulative_download\\PUO_{pdf_name}"
+            with open(file_name, "wb") as f:
                 f.write(pdf_response.content)
 
             print(f"{pdf_name} downloaded.")
+            downloaded_files.append(pdf_name)
 
 print("--- %s seconds ---" % (time.time() - start_time))
