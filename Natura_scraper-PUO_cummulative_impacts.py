@@ -48,12 +48,10 @@ for postupak_div in postupci_divs:
             try:
                 with open(file_name, "wb") as f:
                     f.write(pdf_response.content)
+                print(f"{pdf_name} downloaded.")
+                downloaded_files.append(pdf_name)
             except FileNotFoundError:
                 print(f"Error: FileNotFoundError, skipping file: {pdf_name}")
                 skipped_files.append(pdf_name)
-
-
-            print(f"{pdf_name} downloaded.")
-            downloaded_files.append(pdf_name)
 
 print(f"Process finished in: {time.time() - start_time} seconds")
