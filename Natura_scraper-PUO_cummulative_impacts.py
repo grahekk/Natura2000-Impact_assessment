@@ -45,8 +45,13 @@ for postupak_div in postupci_divs:
                 continue
             #add the folder to file name
             file_name = f"{dir}\\PUO_{pdf_name}"
-            with open(file_name, "wb") as f:
-                f.write(pdf_response.content)
+            try:
+                with open(file_name, "wb") as f:
+                    f.write(pdf_response.content)
+            except FileNotFoundError:
+                print(f"Error: FileNotFoundError, skipping file: {pdf_name}")
+                skipped_files.append(pdf_name)
+
 
             print(f"{pdf_name} downloaded.")
             downloaded_files.append(pdf_name)
