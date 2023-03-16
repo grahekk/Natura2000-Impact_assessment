@@ -3,7 +3,6 @@ import time
 import requests
 from bs4 import BeautifulSoup
 import re
-import numpy as np
 from urllib.parse import urljoin
 
 start_time = time.time()
