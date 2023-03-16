@@ -7,12 +7,12 @@ from Natura_formater import find_roi
 from Natura_reporter import *
 
 # scraping the data
-#law_scrape(to_scrape)
+law_scrape(to_scrape)
 
 # natura regions
-roi = "Gorski kotar i sjeverna Lika"
-#get_url_from_natura_links('HR5000019',roi)
-sdf_scrape('HR1000024')
+roi = "Stupnički lug"
+get_url_from_natura_links('HR2000589',roi)
+#sdf_scrape('HR2000589')
 #find_roi(roi)
 
 # report creation
