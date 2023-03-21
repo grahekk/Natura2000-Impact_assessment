@@ -70,6 +70,7 @@ def get_url_from_natura_links(sitecode, sitename):
     df = pd.read_excel(Natura_links)
     row = df.loc[(df['sitename'] == sitename) & (df['sitecode'] == sitecode)]
     url = row['url'].values[0]
+    return url
 
 def sdf_scrape(sitecode):
     assert isinstance(sitecode, str)

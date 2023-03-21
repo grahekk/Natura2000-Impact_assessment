@@ -37,7 +37,7 @@ def select_file(self):
     self.log.insert("end", f"Selected file: {filename}\n")
 
     self.file_button = tk.Button(self, text="Select File", command=self.select_file)
-    self.file_button.pack(side="trop", padx=10, pady=10)
+    self.file_button.pack(side="top", padx=10, pady=10)
 
 # locate shapefile on the map?
 label = tk.Label(root, text="your shapefile is located in:")
