@@ -1,15 +1,15 @@
 import time
 import tkinter as tk
-from tkinter import ttk
+from tkinter import ttk, filedialog
 
 # Create the main window
 root = tk.Tk()
 root.title("Impact assesment report")
-root.geometry('500x500')
+root.geometry('600x700')
 
 # Add a label to the window
 label = tk.Label(root, text="Name of the project")
-label.pack()
+label.pack(side="top", padx=10, pady=10)
 
 # entry field
 txtfld = tk.Entry(root, bd=1)
@@ -17,22 +17,27 @@ txtfld.pack()
 
 # Type of the project
 label = tk.Label(root, text="Type of the project")
-label.pack()
+label.pack(side="top", padx=10, pady=10)
 
 # option menu for type
 variable = tk.StringVar(root)
 OPTIONS = ["OPP", "PUO", "SPUO"]
 variable.set(OPTIONS[0])  # default value
-w = tk.OptionMenu(root, variable, *OPTIONS)
-w.pack()
+option_menu = tk.OptionMenu(root, variable, *OPTIONS)
+option_menu.pack()
 
 # shapefile part
 label = tk.Label(root, text="Insert shapefile of the project")
-label.pack()
+label.pack(side="top", padx=10, pady=10)
 
 # insert shapefile
-txtfld = tk.Entry(root, bd=1)
-txtfld.pack()
+
+def select_file(self):
+    filename = filedialog.askopenfilename()
+    self.log.insert("end", f"Selected file: {filename}\n")
+
+    self.file_button = tk.Button(self, text="Select File", command=self.select_file)
+    self.file_button.pack(side="trop", padx=10, pady=10)
 
 # locate shapefile on the map?
 label = tk.Label(root, text="your shapefile is located in:")
@@ -54,7 +59,7 @@ def open_window():
 
 
 label = tk.Label(root, text="Which chapters are you writting in EIA?")
-label.pack()
+label.pack(side="top", padx=10, pady=10)
 
 
 # chapters window
@@ -137,14 +142,24 @@ class message_log(tk.Frame):
         self.create_widgets()
 
     def create_widgets(self):
+        self.log_label = tk.Label(self, text="Message Log")
+        self.log_label.pack(side="top", padx=10, pady=10)
+
         self.log = tk.Text(self, height=10, width=50)
-        self.log.pack(side="top")
+        self.log.pack()
+
+        self.file_button = tk.Button(self, text="Select File", command=self.select_file)
+        self.file_button.pack(side="left", padx=10, pady=10)
 
         self.subtract_button = tk.Button(self, text="Subtract", command=self.subtract)
         self.subtract_button.pack(side="left")
 
         self.quit_button = tk.Button(self, text="Quit", command=self.master.destroy)
         self.quit_button.pack(side="right")
+
+    def select_file(self):
+        filename = filedialog.askopenfilename()
+        self.log.insert("end", f"Selected file: {filename}\n")
 
     def subtract(self):
         a = 10
