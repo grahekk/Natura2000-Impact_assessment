@@ -1,10 +1,11 @@
+import time
 import tkinter as tk
 from tkinter import ttk
 
 # Create the main window
 root = tk.Tk()
 root.title("Impact assesment report")
-root.geometry('400x300')
+root.geometry('500x500')
 
 # Add a label to the window
 label = tk.Label(root, text="Name of the project")
@@ -13,6 +14,17 @@ label.pack()
 # entry field
 txtfld = tk.Entry(root, bd=1)
 txtfld.pack()
+
+# Type of the project
+label = tk.Label(root, text="Type of the project")
+label.pack()
+
+# option menu for type
+variable = tk.StringVar(root)
+OPTIONS = ["OPP", "PUO", "SPUO"]
+variable.set(OPTIONS[0])  # default value
+w = tk.OptionMenu(root, variable, *OPTIONS)
+w.pack()
 
 # shapefile part
 label = tk.Label(root, text="Insert shapefile of the project")
@@ -41,23 +53,111 @@ def open_window():
     label.pack()
 
 
-# Add a button to the window
-button = tk.Button(root, text="Open New Window", command=open_window)
-button.pack()
+label = tk.Label(root, text="Which chapters are you writting in EIA?")
+label.pack()
 
-button_nature_chapters = tk.Button(root, text="Which chapters are you writting?")
-button_nature_chapters.pack()
 
-button_get_db = tk.Button(root, text="Get database for nature chapters")
+# chapters window
+def open_new_window():
+    # Create a new window
+    new_window = tk.Toplevel(root)
+    new_window.title("Chapters check")
+    # checkboxes for chapters
+    c1 = tk.Checkbutton(new_window, text='Nature', onvalue=1, offvalue=0).pack()
+    c2 = tk.Checkbutton(new_window, text='Geology', onvalue=1, offvalue=0).pack()
+    c1 = tk.Checkbutton(new_window, text='Landscape', onvalue=1, offvalue=0).pack()
+    c2 = tk.Checkbutton(new_window, text='Forestry', onvalue=1, offvalue=0).pack()
+    c2 = tk.Checkbutton(new_window, text='Hunting', onvalue=1, offvalue=0).pack()
+    c2 = tk.Checkbutton(new_window, text='Traffic', onvalue=1, offvalue=0).pack()
+    c2 = tk.Checkbutton(new_window, text='Climate', onvalue=1, offvalue=0).pack()
+    c2 = tk.Checkbutton(new_window, text='Otpad', onvalue=1, offvalue=0).pack()
+
+
+open_window_button = tk.Button(root, text="Check chapters", command=open_new_window)
+open_window_button.pack()
+
+button_get_db = tk.Button(root, text="Check available databases")
 button_get_db.pack()
 
-variable =  tk.StringVar(root)
-OPTIONS = ["Jan","Feb","Mar"]
 
-#variable = tk.StringVar(root)
-variable.set(OPTIONS[0]) # default value
-w = tk.OptionMenu(root, variable, *OPTIONS)
-w.pack()
+def open_window():
+    # Create a new window
+    new_window = tk.Toplevel(root)
+    new_window.title("New Window")
+    new_window.geometry('200x200')
+
+    # Add a label to the new window
+    label = tk.Label(new_window, text="This is a new window!")
+    label.pack()
+
+
+# Add a button that opens new window
+button = tk.Button(root, text="Options", command=open_window)
+button.pack()
+
+
+class StatusBar(tk.Frame):
+    def __init__(self, master):
+        super().__init__(master)
+        self.master = master
+        self.pack()
+        self.create_widgets()
+        # self.label = tk.Label(self, text="Ready", bd=1, relief=tk.SUNKEN, anchor=tk.W)
+        # self.label.pack(fill=tk.X)
+
+    def create_widgets(self):
+        # create status bar label
+        self.status_bar = tk.Label(self, text="Ready", bd=1, relief=tk.SUNKEN, anchor=tk.W)
+        self.status_bar.pack(side=tk.BOTTOM, fill=tk.X)
+
+        # create button
+        self.button = tk.Button(self, text="Click me!", command=self.button_click)
+        self.button.pack()
+
+    def button_click(self):
+        # change status bar text to "Loading"
+        self.status_bar.config(text="Loading...")
+
+        # wait for one second
+        time.sleep(1)
+
+        # change status bar text back to "Ready"
+        self.status_bar.config(text="Ready")
+
+# add status bar widget
+status_bar = StatusBar(root)
+status_bar.pack(side=tk.BOTTOM, fill=tk.X)
+
+
+class message_log(tk.Frame):
+    def __init__(self, master=None):
+        super().__init__(master)
+        self.master = master
+        self.pack()
+        self.create_widgets()
+
+    def create_widgets(self):
+        self.log = tk.Text(self, height=10, width=50)
+        self.log.pack(side="top")
+
+        self.subtract_button = tk.Button(self, text="Subtract", command=self.subtract)
+        self.subtract_button.pack(side="left")
+
+        self.quit_button = tk.Button(self, text="Quit", command=self.master.destroy)
+        self.quit_button.pack(side="right")
+
+    def subtract(self):
+        a = 10
+        b = 5
+        result = a - b
+        self.log.insert("end", f"{a} - {b} = {result}\n")
+
+message_log = message_log(root)
+#status_bar.pack(side=tk.BOTTOM, fill=tk.X)
+
+# reporting button in the end
+button_get_db = tk.Button(root, text="Create report!")
+button_get_db.pack()
 
 # Start the main event loop
 root.mainloop()
