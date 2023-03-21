@@ -1,9 +1,25 @@
+from owslib.wms import WebMapService
+from owslib.wfs import WebFeatureService
 import geopandas as gpd
 
 # Define the WFS URL and the layer name
-wfs_url = 'https://services.bioportal.hr/wfs'
-layer_name = 'example_layer'
+wfs_url = 'https://services.bioportal.hr/wms'
 
+# Use owslib to get the data from the WFS
+wfs11 = WebFeatureService(url=wfs_url, version='1.1.0')
+wfs_contents = list(wfs11.contents)
+layers_to_select = ['dzzpnpis:direktiva_o_stanistima_natura2000_hr_2019_',
+                    'dzzpnpis:direktiva_o_pticama_natura2000_hr_2019_']
+
+# select them layers
+POVS_layer = wfs11.getfeature(typename=layers_to_select[0])
+POP_layer = wfs11.getfeature(typename=layers_to_select[1])
+
+# Use geopandas to convert the data to a GeoDataFrame
+features = POVS_layer.json()['features']
+geojson = {'type': 'FeatureCollection', 'features': features}
+polygons = gpd.read_file(geojson=geojson)
+polygons.plot()
 # Use geopandas to get the available layers on the WFS
 wfs_layers = gpd.read_file(wfs_url, driver='WFS')
 
