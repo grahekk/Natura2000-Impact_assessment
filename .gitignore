@@ -13,3 +13,4 @@ venv
 *.docx
 *data
 *cummulative_download
+*geospatial_downloads
