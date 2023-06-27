@@ -1,4 +1,6 @@
 venv
+*.env
+*.vscode
 .idea
 *.pdf
 *.png
@@ -14,3 +16,12 @@ venv
 *data
 *cummulative_download
 *geospatial_downloads
+*.sqlite3
+*uploaded_files
+settings.py
+/EIA_app/EIA_app
+*.pyc
+*.pyo
+*__pycache__/
+*migrations
+*.log
