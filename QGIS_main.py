@@ -14,6 +14,10 @@ layout_template = "C:/Users/Nikola/Documents/GitHub/QGIS_mapping_automatization/
 output_img_path = "C:/Users/Nikola/Documents/GitHub/Natura2000-Impact_assessment/EIA_app/processing_output/"
 qgis_prefix_path = os.environ['QGIS_PREFIX_PATH']
 
+path_POVS = "pagingEnabled='true' preferCoordinatesForWfsT11='false' restrictToRequestBBOX='1' srsname='EPSG:3765' typename='dzzpnpis:direktiva_o_stanistima_natura2000_hr_2019_' url='http://services.bioportal.hr/wms' version='auto'"
+path_POP = "pagingEnabled='true' preferCoordinatesForWfsT11='false' restrictToRequestBBOX='1' srsname='EPSG:3765' typename='dzzpnpis:direktiva_o_pticama_natura2000_hr_2019_' url='http://services.bioportal.hr/wms' version='auto'"
+
+
 map_name = "EM"
 
 # Start the QGIS application
