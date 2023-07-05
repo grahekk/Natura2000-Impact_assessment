@@ -17,33 +17,45 @@ def set_project(project_path, crs):
 def load_vector_layer(project, layer_name, geo_file, crs):
     # Load the map layer from the geo file
     layer = QgsVectorLayer(geo_file, layer_name, 'ogr')
-    project.addMapLayer(layer)
-    layer.setCrs(crs)
-    return layer
+    if layer.isValid():
+        project.addMapLayer(layer)
+        layer.setCrs(crs)
+        return layer
+    else:
+        return print("Layer not valid!")
 
 
 def load_raster_layer(project, layer_name, geo_file, crs):
     # Load the map layer from the geo file
     layer = QgsRasterLayer(geo_file, layer_name, 'ogr')
-    project.addMapLayer(layer)
-    layer.setCrs(crs)
-    return layer
+    if layer.isValid():
+        project.addMapLayer(layer)
+        layer.setCrs(crs)
+        return layer
+    else:
+        return print("Layer not valid!")
 
 
 def load_wms_layer(project, layer_name, layer_url, crs):
     # Load the map layer from the geo file
     layer = QgsRasterLayer(layer_url, layer_name, 'wms')
-    project.addMapLayer(layer)
-    layer.setCrs(crs)
-    return layer
+    if layer.isValid():
+        project.addMapLayer(layer)
+        layer.setCrs(crs)
+        return layer
+    else:
+        return print("Layer not valid!")
 
 
 def load_wfs_layer(project, layer_name, layer_url, crs):
     # Load the map layer from the geo file
     layer = QgsVectorLayer(layer_url, layer_name, 'wfs')
-    project.addMapLayer(layer)
-    layer.setCrs(crs)
-    return layer
+    if layer.isValid():
+        project.addMapLayer(layer)
+        layer.setCrs(crs)
+        return layer
+    else:
+        return print("Layer not valid!")
 
 
 def open_template(project, manager, layer, dof_layer, layout_template, map_name):
