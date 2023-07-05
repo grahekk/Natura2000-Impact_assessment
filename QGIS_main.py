@@ -25,9 +25,7 @@ import os
 import time
 import sys
 from QGIS_export_map import *
-
 # from QGIS_export_distances import shortest_distance
-sys.path.append("C:/Users/Nikola/Documents/GitHub/Natura2000-Impact_assessment/conda_env/Library/python/plugins")
 
 start = time.time()
 # Provide the path to inputs: the geo file and template
@@ -181,19 +179,25 @@ def shortest_distance(main_layer, distance_layer, project):
 
 
 # shortest distances
-# PATH_POP = "url='http://services.bioportal.hr/wms' version='auto"
-pop_layer = load_wfs_layer(project, 'POP', PATH_POP, my_crs)
-# pop_layer.isValid()
-# pop_layer = QgsVectorLayer(PATH_POP, 'POP', 'wfs')
-#
-# print(pop_layer.isValid())
-
 BIOPORTAL_URL = 'http://services.bioportal.hr/wms'
 feature_name = 'dzzpnpis:direktiva_o_pticama_natura2000_hr_2019_'
 
 # Create the vector layer
 pop_layer = load_wfs_layer_from_uri(project, BIOPORTAL_URL, feature_name, my_crs)
+print(pop_layer)
 distances_POVS = shortest_distance(main_layer, pop_layer, project)
+
+features = distances_POVS.getFeatures()
+pop_layer
+
+# Iterate over the features
+for feature in features:
+    # Access the attributes of the feature
+    attributes = feature.attributes()
+
+    # Print the attributes
+    for attribute in attributes:
+        print(attribute)
 
 # Exit the QGIS application
 qgs.exitQgis()
