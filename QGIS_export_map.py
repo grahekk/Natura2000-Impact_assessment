@@ -1,5 +1,5 @@
 from PyQt5.QtXml import QDomDocument
-from qgis.core import QgsProject, QgsVectorLayer, QgsPrintLayout, \
+from qgis.core import QgsProject, QgsVectorLayer, QgsRasterLayer, QgsPrintLayout, \
     QgsReadWriteContext, QgsLayoutExporter
 
 
@@ -14,15 +14,36 @@ def set_project(project_path, crs):
     return project, manager
 
 
-def load_layers(project, geo_file, crs):
+def load_vector_layer(project, layer_name, geo_file, crs):
     # Load the map layer from the geo file
-    layer = QgsVectorLayer(geo_file, 'EM', 'ogr')
+    layer = QgsVectorLayer(geo_file, layer_name, 'ogr')
     project.addMapLayer(layer)
     layer.setCrs(crs)
-    # then dof layer
-    dof_layer = project.mapLayersByName('DOF')[0]
-    dof_layer.setCrs(crs)
-    return layer, dof_layer
+    return layer
+
+
+def load_raster_layer(project, layer_name, geo_file, crs):
+    # Load the map layer from the geo file
+    layer = QgsRasterLayer(geo_file, layer_name, 'ogr')
+    project.addMapLayer(layer)
+    layer.setCrs(crs)
+    return layer
+
+
+def load_wms_layer(project, layer_name, layer_url, crs):
+    # Load the map layer from the geo file
+    layer = QgsRasterLayer(layer_url, layer_name, 'wms')
+    project.addMapLayer(layer)
+    layer.setCrs(crs)
+    return layer
+
+
+def load_wfs_layer(project, layer_name, layer_url, crs):
+    # Load the map layer from the geo file
+    layer = QgsVectorLayer(layer_url, layer_name, 'wfs')
+    project.addMapLayer(layer)
+    layer.setCrs(crs)
+    return layer
 
 
 def open_template(project, manager, layer, dof_layer, layout_template, map_name):
@@ -66,4 +87,3 @@ def export_image(layout, map_name, output_img_path):
     exporter = QgsLayoutExporter(layout)
     exporter.exportToImage(output_img_path + map_name + '.jpg', exporter.ImageExportSettings())
     return print(f"{map_name} exported!")
-

@@ -4,10 +4,25 @@ from qgis.core import QgsProcessingAlgorithm
 from qgis.core import QgsProcessingMultiStepFeedback
 from qgis.core import QgsProcessingParameterVectorLayer
 from qgis.core import QgsExpression
-import processing
+from qgis.core import QgsApplication
+from qgis.core import QgsProviderRegistry
+from qgis.gui import *
+from qgis import processing
+from qgis.analysis import QgsNativeAlgorithms
+from processing.core.Processing import Processing
+
+# from conda_env.Library.python.qgis import processing
+
+alg_provider = QgsApplication.processingRegistry().addProvider(QgsNativeAlgorithms())
+
+Processing.initialize()
+QgsApplication.processingRegistry().addProvider(QgsNativeAlgorithms())
+
+# for alg in QgsApplication.processingRegistry().algorithms():
+#         print(alg.id(), "->", alg.displayName())
 
 
-def shortest_distance(main_layer, distance_layer):
+def shortest_distance(main_layer, distance_layer, project):
     # KS buffer clip
     # Buffer
     alg_params = {
@@ -21,17 +36,17 @@ def shortest_distance(main_layer, distance_layer):
         'OUTPUT': QgsProcessing.TEMPORARY_OUTPUT
     }
     bafer = processing.run('native:buffer', alg_params)['OUTPUT']
-    QgsProject.instance().addMapLayer(bafer)
+    project.addMapLayer(bafer)
 
     # Clip
     alg_params = {
-        'INPUT': vlayer,
+        'INPUT': distance_layer,
         'OVERLAY': bafer,
         'OUTPUT': QgsProcessing.TEMPORARY_OUTPUT
     }
     clip = processing.run('native:clip', alg_params)['OUTPUT']
     clip.setName('Clip-buffer_EM')
-    QgsProject.instance().addMapLayer(clip)
+    project.addMapLayer(clip)
 
     # onda ide point along geometry x2
     # Points along geometry
@@ -43,7 +58,7 @@ def shortest_distance(main_layer, distance_layer):
         'OUTPUT': QgsProcessing.TEMPORARY_OUTPUT
     }
     points = processing.run('native:pointsalonglines', alg_params)['OUTPUT']
-    QgsProject.instance().addMapLayer(points)
+    project.addMapLayer(points)
 
     # points along geometry for main layer
     alg_params = {
@@ -54,7 +69,7 @@ def shortest_distance(main_layer, distance_layer):
         'OUTPUT': QgsProcessing.TEMPORARY_OUTPUT
     }
     main_points = processing.run('native:pointsalonglines', alg_params)['OUTPUT']
-    QgsProject.instance().addMapLayer(main_points)
+    project.addMapLayer(main_points)
 
     # adding new field to main_points
     provider = main_points.dataProvider()
@@ -71,8 +86,8 @@ def shortest_distance(main_layer, distance_layer):
         'TARGET_FIELD': 'n_id',
         'OUTPUT': QgsProcessing.TEMPORARY_OUTPUT
     }
-    Distance_matrix = processing.run('qgis:distancematrix', alg_params)['OUTPUT']
-    QgsProject.instance().addMapLayer(Distance_matrix)
+    Distance_matrix = Processing.run('qgis:distancematrix', alg_params)['OUTPUT']
+    project.addMapLayer(Distance_matrix)
 
     # field calc minimum(min(Distance), InputID)
     # provider = Distance_matrix.dataProvider()
@@ -91,7 +106,7 @@ def shortest_distance(main_layer, distance_layer):
         'OUTPUT': QgsProcessing.TEMPORARY_OUTPUT
     }
     Calculated = processing.run('native:fieldcalculator', alg_params)['OUTPUT']
-    QgsProject.instance().addMapLayer(Calculated)
+    project.addMapLayer(Calculated)
 
     # unique values in the end
     alg_params = {
@@ -100,14 +115,14 @@ def shortest_distance(main_layer, distance_layer):
         'OUTPUT': QgsProcessing.TEMPORARY_OUTPUT
     }
     Unique_values = processing.run('qgis:listuniquevalues', alg_params)['OUTPUT']
-    QgsProject.instance().addMapLayer(Unique_values)
+    project.addMapLayer(Unique_values)
 
-    QgsProject.instance().removeMapLayer(vlayer)
-    QgsProject.instance().removeMapLayer(bafer)
-    QgsProject.instance().removeMapLayer(clip)
-    QgsProject.instance().removeMapLayer(points)
-    QgsProject.instance().removeMapLayer(main_points)
-    QgsProject.instance().removeMapLayer(Distance_matrix)
-    QgsProject.instance().removeMapLayer(Calculated)
+    project.removeMapLayer(distance_layer)
+    project.removeMapLayer(bafer)
+    project.removeMapLayer(clip)
+    project.removeMapLayer(points)
+    project.removeMapLayer(main_points)
+    project.removeMapLayer(Distance_matrix)
+    project.removeMapLayer(Calculated)
 
-    print("Distances exported!")
+    return print("Distances exported!")
