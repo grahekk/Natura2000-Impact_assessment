@@ -1,6 +1,6 @@
 from PyQt5.QtXml import QDomDocument
 from qgis.core import QgsProject, QgsVectorLayer, QgsRasterLayer, QgsPrintLayout, \
-    QgsReadWriteContext, QgsLayoutExporter
+    QgsReadWriteContext, QgsLayoutExporter, QgsDataSourceUri
 
 
 def set_project(project_path, crs):
@@ -50,6 +50,22 @@ def load_wms_layer(project, layer_name, layer_url, crs):
 def load_wfs_layer(project, layer_name, layer_url, crs):
     # Load the map layer from the geo file
     layer = QgsVectorLayer(layer_url, layer_name, 'wfs')
+    if layer.isValid():
+        project.addMapLayer(layer)
+        layer.setCrs(crs)
+        return layer
+    else:
+        return print("Layer not valid!")
+
+
+def load_wfs_layer_from_uri(project, layer_url, feature_name, crs):
+    # Load the map layer from the geo file
+    uri = QgsDataSourceUri()
+    uri.setParam('url', layer_url)
+    uri.setParam('type', 'WFS')
+    uri.setParam('version', '1.0.0')
+    uri.setParam('typename', feature_name)
+    layer = QgsVectorLayer(uri.uri(), feature_name, 'WFS')
     if layer.isValid():
         project.addMapLayer(layer)
         layer.setCrs(crs)

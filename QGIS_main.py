@@ -5,6 +5,7 @@ from qgis.core import (
     QgsProject,
     QgsCoordinateReferenceSystem,
     QgsVectorLayer,
+    QgsRasterLayer,
     QgsPrintLayout,
     QgsReadWriteContext,
     QgsLayoutExporter,
@@ -15,7 +16,8 @@ from qgis.core import (
     QgsProcessingOutputVectorLayer,
     QgsProcessingOutputRasterLayer,
     QgsProcessingOutputMapLayer,
-    QgsField)
+    QgsField,
+    QgsDataSourceUri)
 # from qgis.gui import *
 
 
@@ -179,7 +181,18 @@ def shortest_distance(main_layer, distance_layer, project):
 
 
 # shortest distances
+# PATH_POP = "url='http://services.bioportal.hr/wms' version='auto"
 pop_layer = load_wfs_layer(project, 'POP', PATH_POP, my_crs)
+# pop_layer.isValid()
+# pop_layer = QgsVectorLayer(PATH_POP, 'POP', 'wfs')
+#
+# print(pop_layer.isValid())
+
+BIOPORTAL_URL = 'http://services.bioportal.hr/wms'
+feature_name = 'dzzpnpis:direktiva_o_pticama_natura2000_hr_2019_'
+
+# Create the vector layer
+pop_layer = load_wfs_layer_from_uri(project, BIOPORTAL_URL, feature_name, my_crs)
 distances_POVS = shortest_distance(main_layer, pop_layer, project)
 
 # Exit the QGIS application
