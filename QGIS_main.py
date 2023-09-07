@@ -94,7 +94,7 @@ def shortest_distance(main_layer, distance_layer, project):
         'OVERLAY': bafer,
         'OUTPUT': QgsProcessing.TEMPORARY_OUTPUT
     }
-    clip = processing.run('native:clip', alg_params)['OUTPUT']
+    clip = processing.run('native:clip', alg_params, feedback=feedback)['OUTPUT']
     clip.setName('Clip-buffer_EM')
     project.addMapLayer(clip)
 
@@ -182,13 +182,27 @@ def shortest_distance(main_layer, distance_layer, project):
 BIOPORTAL_URL = 'http://services.bioportal.hr/wms'
 feature_name = 'dzzpnpis:direktiva_o_pticama_natura2000_hr_2019_'
 
-# Create the vector layer
-pop_layer = load_wfs_layer_from_uri(project, BIOPORTAL_URL, feature_name, my_crs)
-print(pop_layer)
-distances_POVS = shortest_distance(main_layer, pop_layer, project)
+url_parameters = {
+    'url': 'http://services.bioportal.hr/wms',
+    'version': 'auto',
+    'typename': 'dzzpnpis:direktiva_o_pticama_natura2000_hr_2019_',
+    'srsname': 'EPSG:3765',
+    'pagingEnabled': 'true',
+    'preferCoordinatesForWfsT11': 'false',
+    'restrictToRequestBBOX': '1'
+}
 
-features = distances_POVS.getFeatures()
-pop_layer
+# Construct the data source URI
+uri = QgsDataSourceUri()
+uri.setParam('type', 'WFS')
+uri.setParam('uri', '&'.join(f"{k}={v}" for k, v in url_parameters.items()))
+
+# Create the vector layer
+pop_layer = QgsVectorLayer(uri.uri(), 'My WFS Layer', 'WFS')
+# pop_layer = load_wfs_layer_from_uri(project, BIOPORTAL_URL, feature_name, my_crs)
+distances_POP = shortest_distance(main_layer, pop_layer, project)
+
+features = distances_POP.getFeatures()
 
 # Iterate over the features
 for feature in features:
