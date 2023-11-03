@@ -29,7 +29,7 @@ BEGIN
 	FROM %I.%I, point_coords
 	WHERE ST_DWithin(point_coords.coords, %I.%I.geom, 0.001)
 	GROUP BY point_coords.coords, %I.geom
-	ORDER BY distance asc
+	ORDER BY distance asc, sea_level
 	LIMIT 1',			
     lon, lat, EPSG_in, lon, lat, EPSG_in, schema_name, EPSG_out, table_name, EPSG_out, schema_name, table_name, schema_name, table_name, table_name);
 	
