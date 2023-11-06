@@ -63,6 +63,7 @@ def law_scrape(scraping_list: list):
                 name = '\\{0}_{1}_{2}_{3}_{4}'.format(scrape, c, first_word, idx, second_word)
 
             data_dir_name = data_dir + name
+            os.makedirs(data_dir, exist_ok=True)
             df.to_excel(data_dir_name + ".xlsx", header=True, index=False)
             print(name + " exported!")
 

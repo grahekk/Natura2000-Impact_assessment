@@ -4,7 +4,7 @@ import requests
 from Natura_config import *
 from Natura_scraper_url import *
 from Natura_formater import find_roi
-from Natura_reporter import *
+# from Natura_reporter import *
 
 # scraping the data
 law_scrape(to_scrape)
