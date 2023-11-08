@@ -64,7 +64,8 @@ def law_scrape(scraping_list: list):
 
             data_dir_name = data_dir + name
             os.makedirs(data_dir, exist_ok=True)
-            df.to_excel(data_dir_name + ".xlsx", header=True, index=False)
+            # df.to_excel(data_dir_name + ".xlsx", header=True, index=False)
+            df.to_csv(data_dir_name + ".csv", header=True, index=True)
             print(name + " exported!")
 
 def get_url_from_natura_links(sitecode, sitename):
