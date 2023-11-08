@@ -26,3 +26,6 @@ settings.py
 *__pycache__/
 *migrations
 *.log
+*/data_xlsx
+*.db
+*.qgz
