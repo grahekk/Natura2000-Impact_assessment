@@ -2,6 +2,7 @@
 This is a repository of a tool for generating reports or assessments of potential impacts of development projects on Natura 2000 ecological network sites.
 
 ## overview
+This Python tool is designed to assess the impacts of development projects on the Natura 2000 ecological network. The Natura 2000 network is a network of protected areas in the European Union, established to ensure the long-term survival of Europe's most valuable and threatened species and habitats.
 Most of the scripts are still standalone while some are chained. Some scripts are used for qgis autimatization, while others are here to provide data for qgis (scraper scripts). 
 These scraper scripts are downloading data predominantly in spatial boundaries of Republic of Croatia.
 Feel free to explore and download some data using those scripts. Some of those scripts are outdated and buggy and need fixing.
